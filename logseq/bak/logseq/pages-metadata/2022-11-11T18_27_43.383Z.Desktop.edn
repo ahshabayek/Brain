@@ -43,15 +43,18 @@
  {:block/name "machine learning math",
   :block/created-at 1666043342599,
   :block/updated-at 1666043342599}
- {:block/name "nov 11th, 2022",
-  :block/created-at 1668190664034,
-  :block/updated-at 1668190664034}
+ {:block/name "nov 10th, 2022",
+  :block/created-at 1668044589564,
+  :block/updated-at 1668044589564}
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667480373055,
   :block/updated-at 1667480373055}
  {:block/name "nov 5th, 2022",
   :block/created-at 1667658320511,
   :block/updated-at 1667658320511}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1668029896816,
+  :block/updated-at 1668029896816}
  {:block/name "now",
   :block/created-at 1665920709476,
   :block/updated-at 1665920709476}
