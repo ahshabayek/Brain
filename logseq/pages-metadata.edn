@@ -43,6 +43,9 @@
  {:block/name "machine learning basics",
   :block/created-at 1666043342609,
   :block/updated-at 1666043342609}
+ {:block/name "machine learning freelances",
+  :block/created-at 1668257421598,
+  :block/updated-at 1668257597832}
  {:block/name "machine learning math",
   :block/created-at 1666043342599,
   :block/updated-at 1666043342599}
