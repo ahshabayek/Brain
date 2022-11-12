@@ -1,3 +1,4 @@
 - toptal
 - braintrust
+- angel.co
 -
