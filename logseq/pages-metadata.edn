@@ -19,9 +19,18 @@
  {:block/name "contents",
   :block/created-at 1665920709476,
   :block/updated-at 1665920709476}
+ {:block/name "data engineering",
+  :block/created-at 1668290321664,
+  :block/updated-at 1668290321664}
+ {:block/name "data engineering roadmap",
+  :block/created-at 1668290360354,
+  :block/updated-at 1668290369492}
+ {:block/name "data science",
+  :block/created-at 1668290197118,
+  :block/updated-at 1668290224456}
  {:block/name "data science introduction",
   :block/created-at 1668245914698,
-  :block/updated-at 1668246251457}
+  :block/updated-at 1668290646613}
  {:block/name "doing",
   :block/created-at 1665920709476,
   :block/updated-at 1665920709476}
@@ -40,12 +49,15 @@
  {:block/name "linear algebra",
   :block/created-at 1666043342600,
   :block/updated-at 1666043342600}
+ {:block/name "machine learning",
+  :block/created-at 1668290104014,
+  :block/updated-at 1668290104014}
  {:block/name "machine learning basics",
   :block/created-at 1666043342609,
-  :block/updated-at 1666043342609}
+  :block/updated-at 1668290259252}
  {:block/name "machine learning freelancing",
   :block/created-at 1668257421598,
-  :block/updated-at 1668281181980}
+  :block/updated-at 1668290151861}
  {:block/name "machine learning math",
   :block/created-at 1666043342599,
   :block/updated-at 1666043342599}
