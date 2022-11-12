@@ -1,2 +1,2 @@
 - #[[Data Science]]
-- ![Screenshot 2022-11-10 232258.png](../assets/Screenshot_2022-11-10_232258_1668290448890_0.png)
+-
