@@ -1,4 +1,5 @@
 - toptal
 - braintrust
 - angel.co
-- #machine l
+- #machine learning
+-
