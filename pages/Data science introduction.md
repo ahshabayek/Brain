@@ -3,5 +3,5 @@
 - ![image.png](../assets/image_1668338742934_0.png)
 - ![image.png](../assets/image_1668338892271_0.png)
 - #[[Artificial Intelligence ]] is the ability to simulate human knowledge and decision making.
-- #[[machine learning]] ability
+- #[[machine learning]] ability to predict outcomes without being explicitly programmed
 -
