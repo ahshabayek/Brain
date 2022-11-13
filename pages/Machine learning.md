@@ -2,5 +2,6 @@
 - Gives the ability to predict outcomes without being explicitly programmed.
 - [[machine learning]] is about creating and implementing algorithms that let machines receive data an us it for:
    predictions
-   patterns and recommendations.
+   patterns 
+   recommendations
 -
