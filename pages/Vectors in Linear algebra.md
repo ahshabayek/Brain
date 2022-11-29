@@ -14,4 +14,11 @@
 - black vector is heel to toe addition of 2 vectors. choice of which is heel and toe doesn't matter.
 - scaling is same as stretching a vector.
 - scaled vectors have same direction but different length.
+- vector subtraction is the opposite diagonal to vector addition
+- ![image.png](../assets/image_1669070858511_0.png)
+- AXPY(scaled vector addition) scalar Alpha time X plus Y  : ax+y
+- vector memops for axpy, 1 memop for multiplier, 3 * n memops (2 read 1 write), 2*n floating ops.
+- Linear combination of vectors scales the individual vectors then adds them
+- Dot or inner product.
+  multiply each element by it corresponding vector element and add each consecutive multiplication(summation of element multiplication)
 -
