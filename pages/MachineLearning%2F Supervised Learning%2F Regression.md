@@ -1,0 +1,2 @@
+- Predict number from infinitely sized possible outputs.
+-

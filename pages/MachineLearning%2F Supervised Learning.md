@@ -1,0 +1,5 @@
+- Input --> output Labels
+- Types:
+	- [[MachineLearning/ Supervised Learning/ Regression]]
+	- [[MachineLearning/ Supervised Learning/ Classification]]
+	-

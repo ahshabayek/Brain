@@ -21,4 +21,9 @@
 - Linear combination of vectors scales the individual vectors then adds them
 - Dot or inner product.
   multiply each element by it corresponding vector element and add each consecutive multiplication(summation of element multiplication)
--
+- dot product is commutative.
+- Euclidean length is root of sum of squares of components
+  xT.x
+- Law of cosines: 
+  ![{\displaystyle a^{2}=b^{2}+c^{2}-2bc\cos \alpha ,}](https://wikimedia.org/api/rest_v1/media/math/render/svg/97e113fcfdbace3e4f6e1204ead3db64ebadd74f)
+- A vector function is  a math of one or more scalar and or vector whose output is a vector.

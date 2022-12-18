@@ -4,4 +4,6 @@
 	- predictions
 	- patterns
 	- recommendations
--
+- Types:
+	- [[MachineLearning/ Supervised Learning]]
+	-
