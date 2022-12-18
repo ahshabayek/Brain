@@ -6,4 +6,5 @@
 	- recommendations
 - Types:
 	- [[MachineLearning/ Supervised Learning]]
+	- [[MachineLearning/ Unsupervised Learning]]
 	-

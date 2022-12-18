@@ -27,3 +27,4 @@
 - Law of cosines: 
   ![{\displaystyle a^{2}=b^{2}+c^{2}-2bc\cos \alpha ,}](https://wikimedia.org/api/rest_v1/media/math/render/svg/97e113fcfdbace3e4f6e1204ead3db64ebadd74f)
 - A vector function is  a math of one or more scalar and or vector whose output is a vector.
+- slicing and dicing dot product: you can partition vectors to sub vectors while carrying out the dot product and then do a summation.
