@@ -1,0 +1,10 @@
+- ![image.png](../assets/image_1671486495088_0.png)
+- f(x) = wx+b
+- w,b: parameters , coefficients or weights.
+- ![image.png](../assets/image_1671487115533_0.png)
+- cost function?
+	- measure error
+	- ![image.png](../assets/image_1671487775195_0.png)
+	- the 2 in 2mis to make calculations cleaner.
+- ![image.png](../assets/image_1671488092395_0.png)
+- minimize j(w)

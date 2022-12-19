@@ -1,4 +1,6 @@
 - Input --> output Labels
+- ![image.png](../assets/image_1671486430045_0.png)
+-
 - Types:
 	- [[MachineLearning/ Supervised Learning/ Regression]]
 	- [[MachineLearning/ Supervised Learning/ Classification]]
