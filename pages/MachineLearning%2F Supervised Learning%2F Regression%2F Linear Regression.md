@@ -8,3 +8,9 @@
 	- the 2 in 2mis to make calculations cleaner.
 - ![image.png](../assets/image_1671488092395_0.png)
 - minimize j(w)
+- ![image.png](../assets/image_1671488871050_0.png)
+- ![image.png](../assets/image_1671488987788_0.png)
+- ![image.png](../assets/image_1671489079605_0.png)
+- ![image.png](../assets/image_1671489099632_0.png)
+- use contour plots
+-

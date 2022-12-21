@@ -29,4 +29,4 @@
 - A vector function is  a math of one or more scalar and or vector whose output is a vector.
 - slicing and dicing dot product: you can partition vectors to sub vectors while carrying out the dot product and then do a summation.
 - ![image.png](../assets/image_1671404156362_0.png)
--
+- Cauchy-Schwarz inequality
