@@ -4,4 +4,6 @@
 - Types:
 	- [[MachineLearning/ Supervised Learning/ Regression]]
 	- [[MachineLearning/ Supervised Learning/ Classification]]
+- Algorithms:
+	- [[Machine Learning/ Supervised Learning/ Gradient decent]]
 	-
