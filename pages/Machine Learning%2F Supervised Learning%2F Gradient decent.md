@@ -7,3 +7,5 @@
 - ![image.png](../assets/image_1671838731212_0.png)
 - ![image.png](../assets/image_1671840447140_0.png)
 - larger alpha(learning rate)the more aggressive it is.
+- ![image.png](../assets/image_1671841584540_0.png)
+-
