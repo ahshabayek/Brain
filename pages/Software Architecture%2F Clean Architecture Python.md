@@ -1,2 +1,5 @@
 - [[Python]]
--
+- What is architecture:
+	- ability ,utility and beauty
+	- durable usable
+	-
