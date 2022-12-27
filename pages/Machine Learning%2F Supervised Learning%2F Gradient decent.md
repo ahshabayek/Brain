@@ -14,4 +14,4 @@
 - ![image.png](../assets/image_1672098387894_0.png)
 - ![image.png](../assets/image_1672170413996_0.png)
 - chain rule to derive differentiation.
--
+- square error cost  is a convex function and will never  have a local minimum, as long as you choose the algorithm correctly you will always converge.
