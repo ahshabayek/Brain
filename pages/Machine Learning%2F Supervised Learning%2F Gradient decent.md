@@ -8,4 +8,10 @@
 - ![image.png](../assets/image_1671840447140_0.png)
 - larger alpha(learning rate)the more aggressive it is.
 - ![image.png](../assets/image_1671841584540_0.png)
+- alpha , Learning rate too small  then alot of steps to reach goal.
+- alpha too large GD might overshoot and never converge or even diverge.
+- GD is likely to converge at a local minimum. and will automatically choose a smaller learning rate while approaching it.
+- ![image.png](../assets/image_1672098387894_0.png)
+- ![image.png](../assets/image_1672170413996_0.png)
+- chain rule to derive differentiation.
 -
