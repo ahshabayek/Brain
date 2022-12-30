@@ -16,6 +16,7 @@
 - chain rule to derive differentiation.
 - square error cost  is a convex function and will never  have a local minimum, as long as you choose the algorithm correctly you will always converge.
 - Batch Gradient decent  evaluates on entire training data.
+- Multi variant is not Multiple  Linear regression.
 - Multi Features:
 	- Multiple Linear regression.
 	- ![image.png](../assets/image_1672183508468_0.png)
@@ -23,3 +24,5 @@
 	- vectorization
 		- [[Linear Algebra/ Vectors]]
 		- shorter code, parallel execution
+	- ![image.png](../assets/image_1672408921884_0.png)
+	-

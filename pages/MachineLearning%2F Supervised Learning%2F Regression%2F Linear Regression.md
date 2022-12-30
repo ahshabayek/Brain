@@ -13,4 +13,7 @@
 - ![image.png](../assets/image_1671489079605_0.png)
 - ![image.png](../assets/image_1671489099632_0.png)
 - use contour plots
--
+- methods of optimal parameter finding:
+	- [[Machine Learning/ Supervised Learning/ Gradient decent]]
+	- [[Machine Learning/ Supervised Learning/ Normal equation]]
+	-
