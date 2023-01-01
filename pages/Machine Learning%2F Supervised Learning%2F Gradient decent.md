@@ -25,4 +25,9 @@
 		- [[Linear Algebra/ Vectors]]
 		- shorter code, parallel execution
 	- ![image.png](../assets/image_1672408921884_0.png)
+- check for convergence:
+	- graph results
+	- automatic convergence test
+	- ![image.png](../assets/image_1672609534919_0.png)
+- Choose learning rate:
 	-
