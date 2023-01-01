@@ -16,4 +16,6 @@
 - methods of optimal parameter finding:
 	- [[Machine Learning/ Supervised Learning/ Gradient decent]]
 	- [[Machine Learning/ Supervised Learning/ Normal equation]]
-	-
+- Practical tips
+	- Feature scaling
+		- Large number value in a feature will likely be tuned and work better with small parameter values and vise versa.
