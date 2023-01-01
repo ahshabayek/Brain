@@ -19,3 +19,5 @@
 - Practical tips
 	- Feature scaling
 		- Large number value in a feature will likely be tuned and work better with small parameter values and vise versa.
+		- having both mentioned feature types will cause a jumpy regression hence feature scaling.
+		-
