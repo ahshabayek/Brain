@@ -30,4 +30,5 @@
 	- automatic convergence test
 	- ![image.png](../assets/image_1672609534919_0.png)
 - Choose learning rate:
-	-
+	- ![image.png](../assets/image_1672609777850_0.png)
+	- try very small and very large and adjust from there.
