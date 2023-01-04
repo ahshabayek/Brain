@@ -21,7 +21,7 @@
 		- Large number value in a feature will likely be tuned and work better with small parameter values and vise versa.
 		- having both mentioned feature types will cause a jumpy regression hence feature scaling.
 			- methods
-				- divide by max value.
+				- divide by max value (x-min)/(max-min).
 				- mean normalization, first find mean/average of feature .  input - mean / max - min
 				- z-score normalization. mean and standard deviation. input - mean/ standard deviation.
 			- re scaling is done to values far from range of -1 to 1.
