@@ -19,6 +19,10 @@
 - Multi variant is not Multiple  Linear regression.
 - Multi Features:
 	- Multiple Linear regression.
+		- methods
+			- divide by max value (x-min)/(max-min).
+			- mean normalization, first find mean/average of feature .  input - mean / max - min
+			- z-score normalization. mean and standard deviation. input - mean/ standard deviation.
 	- ![image.png](../assets/image_1672183508468_0.png)
 	- ![image.png](../assets/image_1672183887092_0.png)
 	- vectorization
