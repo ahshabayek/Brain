@@ -3,7 +3,7 @@
 -
 - Types:
 	- [[MachineLearning/ Supervised Learning/ Regression]]
-	- [[MachineLearning/ Supervised Learning/ Classification]]
+	- [[Machine Learning/ Supervised Learning/ Classification]]
 - Algorithms:
 	- [[Machine Learning/ Supervised Learning/ Gradient decent]]
 	-
