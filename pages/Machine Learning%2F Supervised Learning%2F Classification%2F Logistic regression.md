@@ -1,3 +1,6 @@
 - threshold function , sigmoid or logistic function output of 0 or 1.
 - ![image.png](../assets/image_1673478972166_0.png)
--
+- ![image.png](../assets/image_1673559250945_0.png)
+- output of sigmoid is like the probability of classification:
+	- ![image.png](../assets/image_1673559573570_0.png)
+	-
