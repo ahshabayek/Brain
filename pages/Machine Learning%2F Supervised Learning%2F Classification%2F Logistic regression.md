@@ -1,0 +1,3 @@
+- threshold function , sigmoid or logistic function output of 0 or 1.
+- ![image.png](../assets/image_1673478972166_0.png)
+-
