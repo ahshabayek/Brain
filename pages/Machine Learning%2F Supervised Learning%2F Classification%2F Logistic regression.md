@@ -6,5 +6,11 @@
 	- Desicion Boundary:
 		- ![image.png](../assets/image_1673562703057_0.png)
 		- ![image.png](../assets/image_1673562734185_0.png)
-		-
+		- Cost function:
+			- why squared error is not good for logistic regression:
+				- many local minma:
+				- ![image.png](../assets/image_1673814838308_0.png)
+			- ![image.png](../assets/image_1673817970478_0.png)
+			- ![image.png](../assets/image_1673818040883_0.png)
+			-
 		-
