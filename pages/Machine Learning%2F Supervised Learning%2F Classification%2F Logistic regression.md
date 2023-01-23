@@ -14,3 +14,7 @@
 			- ![image.png](../assets/image_1673818040883_0.png)
 			-
 		-
+- ![image.png](../assets/image_1674516567338_0.png)
+- ![image.png](../assets/image_1674516681286_0.png)
+- idea of how to efficiently find parameters for different models from statistics.
+-
