@@ -37,4 +37,6 @@
 	- ![image.png](../assets/image_1672609777850_0.png)
 	- try very small and very large and adjust from there.
 - Gradient Decent implementation:
+	- ![image.png](../assets/image_1674517824502_0.png)
+	- ![image.png](../assets/image_1674517852941_0.png)
 	-
