@@ -1,0 +1,12 @@
+- What is overfitting:
+	- ![image.png](../assets/image_1674853161661_0.png)
+	- ![image.png](../assets/image_1674853307283_0.png)
+- How to address overfitting:
+	- collect more training data
+	- correctly select features to include and exclude
+		- useful features + insufficient data == overfitting
+		- useful features might be lost.
+		- regularization:  gently reduce impact of features without elimination.
+		-
+		-
+	-
