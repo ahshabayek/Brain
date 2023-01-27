@@ -6,7 +6,11 @@
 	- correctly select features to include and exclude
 		- useful features + insufficient data == overfitting
 		- useful features might be lost.
-		- regularization:  gently reduce impact of features without elimination.
-		-
+	- regularization:  gently reduce impact of features without elimination.
+		- ![image.png](../assets/image_1674856855027_0.png)
+		- a way to penalize features that dnt add to the fitting much.
+		- Lambda ==> regularization parameter.
+		- ![image.png](../assets/image_1674858951106_0.png)
+		- ![image.png](../assets/image_1674859054549_0.png)
 		-
 	-
