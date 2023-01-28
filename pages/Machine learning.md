@@ -7,4 +7,6 @@
 - Types:
 	- [[MachineLearning/ Supervised Learning]]
 	- [[MachineLearning/ Unsupervised Learning]]
+- Algorithms:
+	- [[Machine Learning/ Neural Networks]]
 	-
