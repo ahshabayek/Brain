@@ -1,0 +1,8 @@
+- a set of neurons connected to compute a problem
+- a neuron is a tiny computer very similar to a single logistic regression [[Machine Learning/ Supervised Learning/ Classification/ Logistic regression]] algo.
+	- ![image.png](../assets/image_1675036183682_0.png)
+- relevant features for each neuron is weight during training to pick the relevant ones and focus on them
+- ![image.png](../assets/image_1675036477515_0.png)
+- features are made into a vector, so are weights.
+- so neural network is a set of layers with input vectors processed to output a vector at each layer or hidden layers (middle layers).
+-
