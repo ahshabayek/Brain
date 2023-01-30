@@ -5,4 +5,12 @@
 - ![image.png](../assets/image_1675036477515_0.png)
 - features are made into a vector, so are weights.
 - so neural network is a set of layers with input vectors processed to output a vector at each layer or hidden layers (middle layers).
--
+- Neural networks architecture is the choice of number of hidden layers, neurons per layer.
+- ![image.png](../assets/image_1675108912325_0.png)
+- ![image.png](../assets/image_1675110542818_0.png)
+- by giving different data the neural network will learn how to generalize.
+- Neural networks layers:
+	- ![image.png](../assets/image_1675121270496_0.png)
+	- ![image.png](../assets/image_1675121367580_0.png)
+	- ![image.png](../assets/image_1675122005590_0.png)
+	-
