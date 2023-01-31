@@ -13,4 +13,8 @@
 	- ![image.png](../assets/image_1675121270496_0.png)
 	- ![image.png](../assets/image_1675121367580_0.png)
 	- ![image.png](../assets/image_1675122005590_0.png)
+	- ![image.png](../assets/image_1675122557240_0.png)
+	- output of each layer is the estimated probability of input vector/ image
+- Neural network frameworks:
+	- [[Machine Learning/ Neural Networks/ TensorFlow]]
 	-
