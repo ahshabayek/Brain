@@ -1,0 +1,21 @@
+- coffee roasting
+	- ![image.png](../assets/image_1675166754395_0.png)
+	- undercooked
+	- overcooked
+-
+- Dense (fully connected)
+	- ![image.png](../assets/image_1675166827905_0.png)
+	- ![image.png](../assets/image_1675199160724_0.png)
+	-
+- Tensorflow data representation:
+	- feature vectors:
+		- numpy version:
+		- ![image.png](../assets/image_1675200725675_0.png)
+		- ![image.png](../assets/image_1675200803318_0.png)
+	- Tensorflow only uses matrices nt vectors.
+	- ![image.png](../assets/image_1675200919551_0.png)
+	- tensor is the type used for tensor flow and needs conversion back and forth between numpy.
+	- ![image.png](../assets/image_1675284781477_0.png)
+	- sequential function patches layers to create a nn.
+	- ![image.png](../assets/image_1675284910836_0.png)
+	-
