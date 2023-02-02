@@ -18,4 +18,7 @@
 	- ![image.png](../assets/image_1675284781477_0.png)
 	- sequential function patches layers to create a nn.
 	- ![image.png](../assets/image_1675284910836_0.png)
+	- ![image.png](../assets/image_1675284980536_0.png)
+- Numpy naive implementation
+	- ![image.png](../assets/image_1675290985482_0.png)
 	-
