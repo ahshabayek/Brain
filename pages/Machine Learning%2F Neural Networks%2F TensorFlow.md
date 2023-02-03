@@ -21,4 +21,7 @@
 	- ![image.png](../assets/image_1675284980536_0.png)
 - Numpy naive implementation
 	- ![image.png](../assets/image_1675290985482_0.png)
+	- ![image.png](../assets/image_1675377901678_0.png)
+- Vectorization of neural networks.
+	- ![image.png](../assets/image_1675379478144_0.png)
 	-
