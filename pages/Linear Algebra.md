@@ -1,1 +1,3 @@
 - [[Machine Learning Math]]
+- [[Linear Algebra/ Matrices]]
+-
