@@ -45,5 +45,17 @@
 		- regression linear activation is better: values can be negative aswell
 		- ![image.png](../assets/image_1675557716550_0.png)
 	- How to chose hidden layers:
-		-
+		- why use relu instead of sigmoid:
+			- sig. less efficient in computing
+			- 2 flat regions. flatness slows down gradient decent...why?flattens scoring potential
+			- ![image.png](../assets/image_1675597677339_0.png)
+			-
+	- why use activation functions
+		- ![image.png](../assets/image_1675598175240_0.png)
+		- Linear function of a linear function is a linear function therefore
+		- ![image.png](../assets/image_1675598245041_0.png)
+		- why is RELU so different than a linear unit:
+			- ![image.png](../assets/image_1675599075103_0.png)
+			- ![image.png](../assets/image_1675599175025_0.png)
+			-
 -
