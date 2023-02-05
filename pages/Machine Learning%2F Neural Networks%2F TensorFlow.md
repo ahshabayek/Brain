@@ -28,34 +28,6 @@
 	- ![image.png](../assets/image_1675555446609_0.png)
 	-
 	- ![image.png](../assets/image_1675555390965_0.png)
-		- Logistic loss for classification  or logistic regression, while mean loss is for regression problems(mean squared error)
-	- [[Machine Learning/Logistic Loss]]
-	- Steps:
-		- define model and activation function.
-		- define loss and cost function.
-			- ![image.png](../assets/image_1675555868118_0.png)
-		- gradient descent or correction function.
-			- ![image.png](../assets/image_1675555695721_0.png)
-- Activations functions:
-	- ![image.png](../assets/image_1675557441411_0.png)
-	- Most popular:
-		- ![image.png](../assets/image_1675557526661_0.png)
-	- How to choose for output layer:
-		- binary classification sigmoid is often best
-		- regression linear activation is better: values can be negative aswell
-		- ![image.png](../assets/image_1675557716550_0.png)
-	- How to chose hidden layers:
-		- why use relu instead of sigmoid:
-			- sig. less efficient in computing
-			- 2 flat regions. flatness slows down gradient decent...why?flattens scoring potential
-			- ![image.png](../assets/image_1675597677339_0.png)
-			-
-	- why use activation functions
-		- ![image.png](../assets/image_1675598175240_0.png)
-		- Linear function of a linear function is a linear function therefore
-		- ![image.png](../assets/image_1675598245041_0.png)
-		- why is RELU so different than a linear unit:
-			- ![image.png](../assets/image_1675599075103_0.png)
-			- ![image.png](../assets/image_1675599175025_0.png)
-			-
--
+	-
+- Numerical roundoffs for softmax
+	-
