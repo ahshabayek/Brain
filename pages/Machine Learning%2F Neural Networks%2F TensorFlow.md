@@ -30,4 +30,7 @@
 	- ![image.png](../assets/image_1675555390965_0.png)
 	-
 - Numerical roundoffs for softmax
+	- ![image.png](../assets/image_1675611176066_0.png)
+	- ![image.png](../assets/image_1675611752132_0.png)
+	- ![image.png](../assets/image_1675611820303_0.png)
 	-
