@@ -24,4 +24,17 @@
 	- ![image.png](../assets/image_1675377901678_0.png)
 - Vectorization of neural networks.
 	- ![image.png](../assets/image_1675379478144_0.png)
+	- ![image.png](../assets/image_1675537013168_0.png)
+	- ![image.png](../assets/image_1675555446609_0.png)
+	-
+	- ![image.png](../assets/image_1675555390965_0.png)
+		- Logistic loss for classification  or logistic regression, while mean loss is for regression problems(mean squared error)
+	- [[Machine Learning/Logistic Loss]]
+	- Steps:
+		- define model and activation function.
+		- define loss and cost function.
+			- ![image.png](../assets/image_1675555868118_0.png)
+		- gradient descent or correction function.
+			- ![image.png](../assets/image_1675555695721_0.png)
+- Activations functions:
 	-
