@@ -37,4 +37,13 @@
 		- gradient descent or correction function.
 			- ![image.png](../assets/image_1675555695721_0.png)
 - Activations functions:
-	-
+	- ![image.png](../assets/image_1675557441411_0.png)
+	- Most popular:
+		- ![image.png](../assets/image_1675557526661_0.png)
+	- How to choose for output layer:
+		- binary classification sigmoid is often best
+		- regression linear activation is better: values can be negative aswell
+		- ![image.png](../assets/image_1675557716550_0.png)
+	- How to chose hidden layers:
+		-
+-
