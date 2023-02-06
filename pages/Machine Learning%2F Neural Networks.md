@@ -55,4 +55,30 @@
 		- ![image.png](../assets/image_1675603950141_0.png)
 		- ![image.png](../assets/image_1675604358678_0.png)
 		-
+- multi label
+	- and or of each output
+	- ![image.png](../assets/image_1675618665002_0.png)
+- Advanced optimization(better than gradient descent)
+	- adam algorithm
+		- adapting learning rate() adaptive moment estimation.
+		- ![image.png](../assets/image_1675620016998_0.png)
+		- in code [[Machine Learning/ Neural Networks/ TensorFlow]]
+		-
+		-
+		-
+- Additional layer types:
+	- convolutional layer
+		- ![image.png](../assets/image_1675620302292_0.png)
+		- ![image.png](../assets/image_1675620450942_0.png)
+		- uses windows to iterate step wise throught data.
 -
+- Back propagation
+	- ![image.png](../assets/image_1675636827957_0.png)
+	- ![image.png](../assets/image_1675637493127_0.png)
+	- ![image.png](../assets/image_1675637591484_0.png)
+	- ![image.png](../assets/image_1675637730524_0.png)
+	- ![image.png](../assets/image_1675639005147_0.png)
+	- ![image.png](../assets/image_1675639233308_0.png)
+	- ![image.png](../assets/image_1675719742277_0.png)
+	-
+	-

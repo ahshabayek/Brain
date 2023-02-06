@@ -33,4 +33,7 @@
 	- ![image.png](../assets/image_1675611176066_0.png)
 	- ![image.png](../assets/image_1675611752132_0.png)
 	- ![image.png](../assets/image_1675611820303_0.png)
+	- need to understand more
+- adam algorithm:
+	- ![image.png](../assets/image_1675620099033_0.png)
 	-
