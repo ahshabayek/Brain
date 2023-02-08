@@ -98,3 +98,9 @@
 			- ![image.png](../assets/image_1675805087201_0.png)
 			- ![image.png](../assets/image_1675805171844_0.png)
 - Diagnosing bias and variance
+	- ![image.png](../assets/image_1675895661208_0.png)
+	- ![image.png](../assets/image_1675895768820_0.png)
+	- ![image.png](../assets/image_1675895874057_0.png)
+	- over fitting happens due to training data or using very high order polynomial .
+	- Regularization?:
+		-
