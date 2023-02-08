@@ -81,4 +81,20 @@
 	- ![image.png](../assets/image_1675639233308_0.png)
 	- ![image.png](../assets/image_1675719742277_0.png)
 	-
-	-
+- Improving ML algorithms:
+	- ![image.png](../assets/image_1675796410134_0.png)
+	- ![image.png](../assets/image_1675796424130_0.png)
+	- Evaluating a model:
+		- plot:
+			- ![image.png](../assets/image_1675803686745_0.png)
+		- test and training set :
+			- ![image.png](../assets/image_1675803766229_0.png)
+			- ![image.png](../assets/image_1675803850622_0.png)
+			- ![image.png](../assets/image_1675803917163_0.png)
+			- ![image.png](../assets/image_1675804182350_0.png)
+			- ![image.png](../assets/image_1675804903880_0.png)
+			- solution ?
+			- ![image.png](../assets/image_1675804966099_0.png)
+			- ![image.png](../assets/image_1675805087201_0.png)
+			- ![image.png](../assets/image_1675805171844_0.png)
+- Diagnosing bias and variance
