@@ -103,4 +103,6 @@
 	- ![image.png](../assets/image_1675895874057_0.png)
 	- over fitting happens due to training data or using very high order polynomial .
 	- Regularization?:
+		- ![image.png](../assets/image_1675962497964_0.png)
+		- ![image.png](../assets/image_1675962582780_0.png)
 		-
