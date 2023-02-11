@@ -71,9 +71,11 @@
 		- ![image.png](../assets/image_1675620302292_0.png)
 		- ![image.png](../assets/image_1675620450942_0.png)
 		- uses windows to iterate step wise throught data.
+			-
 -
 - Back propagation
 	- ![image.png](../assets/image_1675636827957_0.png)
+		-
 	- ![image.png](../assets/image_1675637493127_0.png)
 	- ![image.png](../assets/image_1675637591484_0.png)
 	- ![image.png](../assets/image_1675637730524_0.png)
@@ -105,4 +107,5 @@
 	- Regularization?:
 		- ![image.png](../assets/image_1675962497964_0.png)
 		- ![image.png](../assets/image_1675962582780_0.png)
+		- ![image.png](../assets/image_1675963254283_0.png)
 		-

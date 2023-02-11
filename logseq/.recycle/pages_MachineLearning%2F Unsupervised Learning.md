@@ -3,5 +3,5 @@
 - Types:
 	- [[MachineLearning/ Unsupervised Learning/ Clustering]]
 	- [[MachineLearning/ Unsupervised Learning/ Anomaly Detection]]
-	- [[MachineLearning/ Unsupervised Learning/ Dimesionality reduction]]
+	- [[Machine Learning/ Unsupervised Learning/ Dimesionality reduction]]
 	-

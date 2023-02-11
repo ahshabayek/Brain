@@ -11,7 +11,7 @@
 		- a way to penalize features that dnt add to the fitting much.
 		- Lambda ==> regularization parameter.
 		- for regression :
-		- [[MachineLearning/ Supervised Learning/ Regression]]
+		- [[Machine Learning/ Supervised Learning/ Regression]]
 		- ![image.png](../assets/image_1674858951106_0.png)
 		- ![image.png](../assets/image_1674859054549_0.png)
 		-

@@ -1,0 +1,6 @@
+- Predict number from infinitely sized possible outputs.
+- [[Machine Learning/ Supervised Learning/ Regression/ Linear Regression]]
+- [[Machine Learning/ Supervised Learning/ Gradient decent]]
+- [[Machine Learning/ Supervised Learning/ Regression/ Polynomial]]
+-
+-
