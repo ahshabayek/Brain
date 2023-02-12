@@ -9,4 +9,11 @@
 	- [[Machine Learning/ Unsupervised Learning]]
 - Algorithms:
 	- [[Machine Learning/ Neural Networks]]
+- Evaluation:
 	-
+- Diagnosis:
+	- [[Machine Learning/ Bias and Variance]]
+	- [[Machine Learning/ Debugging]]
+	-
+	-
+-
