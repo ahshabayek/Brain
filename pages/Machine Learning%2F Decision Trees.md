@@ -1,0 +1,5 @@
+- categorical binary classification.
+- ex:
+	- ![image.png](../assets/image_1676332166774_0.png)
+	- ![image.png](../assets/image_1676332194683_0.png)
+	-

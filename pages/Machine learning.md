@@ -9,6 +9,8 @@
 	- [[Machine Learning/ Unsupervised Learning]]
 - Algorithms:
 	- [[Machine Learning/ Neural Networks]]
+	- [[Machine Learning/ Decision Trees]]
+	-
 - Evaluation:
 	-
 - Diagnosis:
