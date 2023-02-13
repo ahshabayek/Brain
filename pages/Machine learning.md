@@ -14,6 +14,21 @@
 - Diagnosis:
 	- [[Machine Learning/ Bias and Variance]]
 	- [[Machine Learning/ Debugging]]
+	- [[Machine Learning/ Error Analysis]]
 	-
 	-
+	-
+- ML development Loop:
+	- ![image.png](../assets/image_1676229404919_0.png)
+	- ![image.png](../assets/image_1676237560303_0.png)
+	- ![image.png](../assets/image_1676237733730_0.png)
+	- ![image.png](../assets/image_1676238035581_0.png)
+	-
+- Data augementation:
+	- ![image.png](../assets/image_1676236133212_0.png)
+	- ![image.png](../assets/image_1676236255098_0.png)
+	- ![image.png](../assets/image_1676236349008_0.png)
+	- ![image.png](../assets/image_1676236382394_0.png)
+	- ![image.png](../assets/image_1676236439188_0.png)
+- [[Machine Learning/ Error Metrics]]
 -

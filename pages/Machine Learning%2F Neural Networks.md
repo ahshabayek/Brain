@@ -83,3 +83,9 @@
 	- ![image.png](../assets/image_1675639233308_0.png)
 	- ![image.png](../assets/image_1675719742277_0.png)
 -
+- Bias and Variance:
+	- ![image.png](../assets/image_1676227773701_0.png)
+	- ![image.png](../assets/image_1676227804508_0.png)
+	- ![image.png](../assets/image_1676227885306_0.png)
+- [[Machine Learning/ Neural Networks/ Transfer Learning]]
+-

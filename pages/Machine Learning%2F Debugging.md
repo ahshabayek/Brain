@@ -1,2 +1,4 @@
 - ![image.png](../assets/image_1676227362596_0.png)
+- bias and variance in Neural networks: [[Machine Learning/ Neural Networks]]
+- ![image.png](../assets/image_1676227591178_0.png)
 -
