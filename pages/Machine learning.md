@@ -10,7 +10,7 @@
 - Algorithms:
 	- [[Machine Learning/ Neural Networks]]
 	- [[Machine Learning/ Decision Trees]]
-	-
+	- [[Machine Learning/ Regression Trees]]
 - Evaluation:
 	-
 - Diagnosis:
