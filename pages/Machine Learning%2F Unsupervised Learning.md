@@ -1,8 +1,6 @@
--
-- differentiate between unlabeled data, Group similiar data
-- algorithm tries to find structure or pattern.
-- Types:
+- Aglorithms:
 	- [[Machine Learning/ Unsupervised Learning/ Clustering]]
-	- [[Machine Learning/ Unsupervised Learning/ Anomaly Detection]]
-	- [[Machine Learning/ Unsupervised Learning/ Dimesionality reduction]]
-	-
+	- Anomly detection
+	- Recommender systems
+	- Reinforcement Learning.
+- ol

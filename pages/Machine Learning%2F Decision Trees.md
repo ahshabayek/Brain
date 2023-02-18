@@ -22,4 +22,9 @@
 	- [[Machine Learning/ Supervised Learning/ Classification/ Logistic regression]]
 - Continuous features:
 	- ![image.png](../assets/image_1676416055575_0.png)
+-
+- when to use decision trees?
+	- ![image.png](../assets/image_1676582861568_0.png)
+	- ![image.png](../assets/image_1676582954385_0.png)
+	- ![image.png](../assets/image_1676583007040_0.png)
 	-

@@ -11,6 +11,8 @@
 	- [[Machine Learning/ Neural Networks]]
 	- [[Machine Learning/ Decision Trees]]
 	- [[Machine Learning/ Regression Trees]]
+	- [[Machine Learning/ Tree ensemble and Random forest]]
+	- [[Machine Learning/ XGBoost]]
 - Evaluation:
 	-
 - Diagnosis:
