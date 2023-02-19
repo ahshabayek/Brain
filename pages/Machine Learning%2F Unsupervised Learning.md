@@ -1,6 +1,6 @@
 - Aglorithms:
 	- [[Machine Learning/ Unsupervised Learning/ Clustering]]
 	- [[MachineLearning/ Unsupervised Learning/ Anomly Detection]]
-	- Recommender systems
+	- [[MachineLearning/ Unsupervised Learning/ Recommender systems]]
 	- Reinforcement Learning.
 - ol
