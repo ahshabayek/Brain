@@ -1,0 +1,5 @@
+- collabrative filtering:
+	- ![image.png](../assets/image_1676842560109_0.png)
+	- ![image.png](../assets/image_1676842715561_0.png)
+	- ![image.png](../assets/image_1676842775313_0.png)
+	-
