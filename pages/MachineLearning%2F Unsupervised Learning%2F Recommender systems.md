@@ -2,4 +2,30 @@
 	- ![image.png](../assets/image_1676842560109_0.png)
 	- ![image.png](../assets/image_1676842715561_0.png)
 	- ![image.png](../assets/image_1676842775313_0.png)
+	- ![image.png](../assets/image_1676845073485_0.png)
+	- ![image.png](../assets/image_1676845299702_0.png)
+	- ![image.png](../assets/image_1676845397835_0.png)
+	- ![image.png](../assets/image_1676845450695_0.png)
+	- ![image.png](../assets/image_1676846793387_0.png)
+	- binary cross entropy function:
+		- ![image.png](../assets/image_1676846888849_0.png)
+- Mean normalization:
+	- ![image.png](../assets/image_1676901153522_0.png)
+	- ![image.png](../assets/image_1676901981202_0.png)
+	- prediction of new users is more reasonable and algorithm is much faster.
+	- column averaging is less reasonable.
+- Tensorflow implementation:
+	- ![image.png](../assets/image_1676902290676_0.png)
+	- ![image.png](../assets/image_1676902389881_0.png)
+- similar items:
+	- ![image.png](../assets/image_1676902591449_0.png)
+	- ![image.png](../assets/image_1676902656739_0.png)
+- Collaborative filter v.s content-based filtering:
+	- ![image.png](../assets/image_1676979486800_0.png)
+		- ![image.png](../assets/image_1677008686798_0.png)
+		- ![image.png](../assets/image_1677009244364_0.png)
+		  id:: 63f51f2f-3521-42b5-81d4-1f2727ce295a
+		- feature content has to be same size , vu and vm in the above example.
+- Neural network content based filtering
+	- [[Machine Learning/ Neural Networks]]
 	-
