@@ -28,4 +28,14 @@
 		- feature content has to be same size , vu and vm in the above example.
 - Neural network content based filtering
 	- [[Machine Learning/ Neural Networks]]
-	-
+	- ![image.png](../assets/image_1677358435627_0.png)
+	- ![image.png](../assets/image_1677358615656_0.png)
+	- ![image.png](../assets/image_1677358698283_0.png)
+	- infeasable at large scale:
+		- ![image.png](../assets/image_1677359306178_0.png)
+	- ![image.png](../assets/image_1677359384560_0.png)
+	- ![image.png](../assets/image_1677359451918_0.png)
+	- ![image.png](../assets/image_1677360972167_0.png)
+	- [[Machine Learning/ Neural Networks/ TensorFlow]]
+		- ![image.png](../assets/image_1677361778556_0.png)
+		-

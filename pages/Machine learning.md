@@ -14,6 +14,7 @@
 	- [[Machine Learning/ Tree ensemble and Random forest]]
 	- [[Machine Learning/ XGBoost]]
 - Evaluation:
+	- [[Machine Learning/ PCA]]
 	-
 - Diagnosis:
 	- [[Machine Learning/ Bias and Variance]]
