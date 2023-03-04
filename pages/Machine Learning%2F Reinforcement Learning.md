@@ -9,4 +9,5 @@
 - ![image.png](../assets/image_1677955412774_0.png)
 - Markov decision process:
 	- depends on where you are now not how you got here.
+	- ![image.png](../assets/image_1677955577149_0.png)
 	-
