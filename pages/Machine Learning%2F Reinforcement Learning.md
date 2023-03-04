@@ -5,4 +5,6 @@
 	- ![image.png](../assets/image_1677950472493_0.png)
 - Making decisions: policies:
 	- ![image.png](../assets/image_1677950966029_0.png)
-	- policy isthe controlle
+	- policy is the controller
+- ![image.png](../assets/image_1677955412774_0.png)
+- Markov desicion process
