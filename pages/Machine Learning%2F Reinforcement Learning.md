@@ -1,4 +1,5 @@
 - Mars rover example:
-	- ![image.png](../assets/image_1677938771766_0.png)
+	- ![image.png](../assets/image_1677938771766_0.png){:height 338, :width 723}
 - The Return
+	- ![image.png](../assets/image_1677950241215_0.png)
 	-
