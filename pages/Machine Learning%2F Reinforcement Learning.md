@@ -11,4 +11,5 @@
 	- depends on where you are now not how you got here.
 	- ![image.png](../assets/image_1677955577149_0.png)
 - state action value function definition:
+	- ![image.png](../assets/image_1677964522562_0.png)
 	-
