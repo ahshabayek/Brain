@@ -12,6 +12,6 @@
 	- ![image.png](../assets/image_1677955577149_0.png)
 - state action value function definition:
 	- ![image.png](../assets/image_1677965230051_0.png){:height 363, :width 723}
-	- ![image.png](../assets/image_1677965381154_0.png)
+	- ![image.png](../assets/image_1677966509124_0.png)
 	-
 -
