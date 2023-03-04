@@ -7,4 +7,6 @@
 	- ![image.png](../assets/image_1677950966029_0.png)
 	- policy is the controller
 - ![image.png](../assets/image_1677955412774_0.png)
-- Markov desicion process
+- Markov decision process:
+	- depends on where you are now not how you got here.
+	-
