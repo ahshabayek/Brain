@@ -33,4 +33,5 @@
 - ![image.png](../assets/image_1678053733325_0.png){:height 442, :width 754}
 - ![image.png](../assets/image_1678054201671_0.png)
 - ![image.png](../assets/image_1678054310328_0.png)
--
+- Learning the state value:
+	-
