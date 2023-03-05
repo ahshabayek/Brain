@@ -24,4 +24,4 @@
 -
 - action outcome reliability is not always guaranteed.
 	- Stochastic environment :
-		- in a stochastic reinforcement enc
+		- in a stochastic reinforcement environment we dnt seek highest reward but highest average.
