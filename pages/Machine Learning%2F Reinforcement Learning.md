@@ -22,4 +22,5 @@
 	-
 - ![image.png](../assets/image_1678024497600_0.png)
 -
-- action outcome reliabili
+- action outcome reliability is not always guaranteed.
+	- Stochastic environment
