@@ -15,5 +15,5 @@
 	- ![image.png](../assets/image_1677966509124_0.png)
 	-
 - Bellman equation:
-	- ![image.png](../assets/image_1677967777099_0.png)
+	- ![image.png](../assets/image_1677967777099_0.png){:height 361, :width 723}
 	-
