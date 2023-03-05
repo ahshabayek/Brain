@@ -20,4 +20,6 @@
 	- R1 is called immediate reward,
 	- ![image.png](../assets/image_1678024367491_0.png)
 	-
+- ![image.png](../assets/image_1678024497600_0.png)
 -
+- action outcome reliabili
