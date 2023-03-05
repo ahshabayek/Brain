@@ -23,5 +23,9 @@
 - ![image.png](../assets/image_1678024497600_0.png)
 -
 - action outcome reliability is not always guaranteed.
+	-
 	- Stochastic environment :
 		- in a stochastic reinforcement environment we dnt seek highest reward but highest average.
+		- ![image.png](../assets/image_1678036464431_0.png)
+		-
+-
