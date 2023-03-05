@@ -23,4 +23,5 @@
 - ![image.png](../assets/image_1678024497600_0.png)
 -
 - action outcome reliability is not always guaranteed.
-	- Stochastic environment
+	- Stochastic environment :
+		- in a stochastic reinforcement enc
