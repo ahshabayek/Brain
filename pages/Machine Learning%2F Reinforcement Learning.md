@@ -27,5 +27,7 @@
 	- Stochastic environment :
 		- in a stochastic reinforcement environment we dnt seek highest reward but highest average.
 		- ![image.png](../assets/image_1678036464431_0.png)
+	- continuous states:
+		- ![image.png](../assets/image_1678053671509_0.png)
 		-
 -
