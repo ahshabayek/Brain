@@ -34,4 +34,5 @@
 - ![image.png](../assets/image_1678054201671_0.png)
 - ![image.png](../assets/image_1678054310328_0.png)
 - Learning the state value:
+	- ![image.png](../assets/image_1678054608978_0.png)
 	-
