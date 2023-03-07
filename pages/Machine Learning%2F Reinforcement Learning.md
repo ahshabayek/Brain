@@ -44,4 +44,5 @@
 		-
 		- ![image.png](../assets/image_1678225024426_0.png)
 		- use epsilon greedy approach:
-			- why not use max Q always?  due to intialization bias
+			- why not use max Q always?  due to initialization bias that might lead the algorithm to always think another action is a bad idea :
+			-
