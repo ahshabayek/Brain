@@ -1,0 +1,3 @@
+- training with large dat by inputting a large set then
+- ![image.png](../assets/image_1678226793580_0.png)
+-
