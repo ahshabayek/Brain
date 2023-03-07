@@ -40,7 +40,7 @@
 	- deep q network algorithm:
 		- ![image.png](../assets/image_1678224844704_0.png)
 	- refine network:
-		- infer only on
+		- infer only once and have 4 outcomes instead of infering 4 times one for each state, network then
 		-
 		- ![image.png](../assets/image_1678225024426_0.png)
 		-
