@@ -47,4 +47,6 @@
 			- why not use max Q always?  due to initialization bias that might lead the algorithm to always think another action is a bad idea :
 			- exploration v.s exploitation
 			- ![image.png](../assets/image_1678226042225_0.png)
-- due to the fickness of reinforcement learning one misconfiguring could the deter the algorithm much more than
+		- Mini batch and soft
+- due to the fickness of reinforcement learning one misconfiguring could the deter the algorithm much more than in supervised cases.
+-
