@@ -50,6 +50,7 @@
 		- Mini batch and soft updates:
 			- [[Machine Learning/ Mini-batch]]
 			- soft update:
+				- ![image.png](../assets/image_1678227163350_0.png)
 				-
 - due to the fickness of reinforcement learning one misconfiguring could the deter the algorithm much more than in supervised cases.
 -
