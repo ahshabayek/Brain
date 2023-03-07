@@ -32,8 +32,9 @@
 		-
 - ![image.png](../assets/image_1678053733325_0.png){:height 442, :width 754}
 - ![image.png](../assets/image_1678054201671_0.png)
-- ![image.png](../assets/image_1678054310328_0.png)
+- ![image.png](../assets/image_1678054310328_0.png){:height 366, :width 754}
 - Learning the state value:
 	- ![image.png](../assets/image_1678054608978_0.png)
 	- make use of supervised learning and bellman equation to train the model.
+	- ![image.png](../assets/image_1678224638594_0.png)
 	-
