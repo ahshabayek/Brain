@@ -39,4 +39,7 @@
 	- ![image.png](../assets/image_1678224638594_0.png)
 	- deep q network algorithm:
 		- ![image.png](../assets/image_1678224844704_0.png)
+	- refine network:
+		-
+		- ![image.png](../assets/image_1678225024426_0.png)
 		-
