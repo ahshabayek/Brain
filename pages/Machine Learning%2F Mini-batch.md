@@ -1,3 +1,3 @@
-- training with large dat by inputting a large set then
+- training with large dat by inputting a large set then back propagating proves to be very resource intensive.
 - ![image.png](../assets/image_1678226793580_0.png)
 -
