@@ -40,6 +40,7 @@
 	- deep q network algorithm:
 		- ![image.png](../assets/image_1678224844704_0.png)
 	- refine network:
+		- infer only on
 		-
 		- ![image.png](../assets/image_1678225024426_0.png)
 		-
