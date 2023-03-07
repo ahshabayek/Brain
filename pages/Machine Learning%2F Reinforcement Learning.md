@@ -37,4 +37,6 @@
 	- ![image.png](../assets/image_1678054608978_0.png)
 	- make use of supervised learning and bellman equation to train the model.
 	- ![image.png](../assets/image_1678224638594_0.png)
-	-
+	- deep q network algorithm:
+		- ![image.png](../assets/image_1678224844704_0.png)
+		-
