@@ -43,4 +43,5 @@
 		- infer only once and have 4 outcomes instead of inferring 4 times one for each state, network then only computes q values. (more understanding needed)
 		-
 		- ![image.png](../assets/image_1678225024426_0.png)
-		-
+		- use epsilon greedy approach:
+			- why not use max Q always?  due to intialization bias
