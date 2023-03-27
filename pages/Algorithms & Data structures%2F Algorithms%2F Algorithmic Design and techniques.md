@@ -1,0 +1,18 @@
+- straightforward algo
+	- problem statement to algorithm
+- Fibonacci numbers:
+	- problem overview
+	- ![image.png](../assets/image_1679261573646_0.png)
+	- ![image.png](../assets/image_1679261496435_0.png)
+	- compute fibonnacci
+- compute:
+	- ![image.png](../assets/image_1679261729127_0.png)
+	- runtime:
+		- ![image.png](../assets/image_1679261804249_0.png)
+		- naive implementation is runtime intensive
+		- a tree of recursive calls:
+			- ![image.png](../assets/image_1679261863052_0.png)
+	- faster sloution:
+		- ![image.png](../assets/image_1679264473547_0.png)
+		- ![image.png](../assets/image_1679264506438_0.png)
+		-
