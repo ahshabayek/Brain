@@ -15,4 +15,8 @@
 	- faster sloution:
 		- ![image.png](../assets/image_1679264473547_0.png)
 		- ![image.png](../assets/image_1679264506438_0.png)
-		-
+- GCD (great common dividers)
+	- find the largest that divides numerator and denominator.
+	- ![image.png](../assets/image_1680043950790_0.png)
+	- ![image.png](../assets/image_1680133715421_0.png)
+-
