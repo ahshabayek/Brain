@@ -1,2 +1,4 @@
 - [[Algorithms & Data structures/ Algorithms/ Algorithmic Design and techniques]]
+- [[Algorithms & Data structures/ Algorithms/ Least common multiple]]
+-
 -
