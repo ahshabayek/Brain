@@ -1,4 +1,23 @@
 - [[Algorithms & Data structures/ Algorithms/ Algorithmic Design and techniques]]
 - [[Algorithms & Data structures/ Algorithms/ Least common multiple]]
 -
+- Computing runtime:
+	- asymptotic notation:
+		- Ignore constant multiples that dont affect algorithms aka ignore runtime.
+		- how does it scale with size.
+		- only care about large scale behavior.
+	- Big O notation:
+		- clarifies growth.
+		- Ignores constant multiples and factors differentiating 2 algos.
+		- sometimes large data scaling isnt relvant to application therefore Big Os notation is unfair to algos that are better at smaller datasizes.
+		- ![image.png](../assets/image_1680559976472_0.png)
+		- Rules:
+			- ![image.png](../assets/image_1680562238048_0.png)
+			- bounded above g.
+	- other notations:
+		- ![image.png](../assets/image_1680562834311_0.png)
+		- little O
+			- ![image.png](../assets/image_1680562859416_0.png)
+		-
+- ![image.png](../assets/image_1680563070603_0.png)
 -
