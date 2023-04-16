@@ -1,2 +1,3 @@
 - [[Machine Learning basics]]
+- [[Machine learning Math/ Eigen vectors]]
 -

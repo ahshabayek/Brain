@@ -28,4 +28,6 @@
 	- dependency injection:
 - ![image.png](../assets/image_1680310952654_0.png)
 - ![image.png](../assets/image_1680311000471_0.png)
--
+- ![image.png](../assets/image_1681565098227_0.png)
+- Golden rule:
+	-

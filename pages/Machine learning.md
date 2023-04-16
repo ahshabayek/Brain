@@ -37,4 +37,5 @@
 	- ![image.png](../assets/image_1676236382394_0.png)
 	- ![image.png](../assets/image_1676236439188_0.png)
 - [[Machine Learning/ Error Metrics]]
+- [[Machine Learning/ Regularization]]
 -
