@@ -1,0 +1,20 @@
+- Parameteric statistical models
+	- Estimation
+	- confidence intervals
+	- Hypothesis testing
+- Trinity of statistical inference
+	- Estimation:
+		- parameters of distribution
+		- random variable is the the estimator itself.
+	- Confidence interval
+		- error interval
+	- Hypothesis testing
+		- yes no answer
+- why do statistical model:
+	- learn distribution of  X and its parameters.
+	- Poisson distribution to model number of anything.
+- what is a statistical model:
+	- outcome of observed  statistical experiment be a sample of random variables in a measurable space
+	- always a pair, the space where the random variables live and a family of probability distributions. also the parameter set
+- Parametric , non and semi parametric models.
+	- well specified probability model
