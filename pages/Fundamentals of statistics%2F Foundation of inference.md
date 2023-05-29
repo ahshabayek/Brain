@@ -1,3 +1,4 @@
+-
 - Parameteric statistical models
 	- Estimation
 	- confidence intervals
@@ -18,3 +19,17 @@
 	- always a pair, the space where the random variables live and a family of probability distributions. also the parameter set
 - Parametric , non and semi parametric models.
 	- well specified probability model
+	- parametric is within finite space
+	- non parametric within infinite space.
+	- probability models are parametric.
+	-
+- ![image.png](../assets/image_1685355142430_0.png)
+-
+-
+- Mixtures of Gaussians:
+	- unimodal = one maxima
+	- weighted average of 2 random variables
+	- latent variable, indicate from which distribution to use. it has to be independent from both RV
+- ![image.png](../assets/image_1685365152589_0.png)
+- Identifiable models : from a huge set of outputs input can be discerned .
+-

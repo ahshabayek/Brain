@@ -4,6 +4,8 @@
 - ![image.png](../assets/image_1684177453714_0.png)
 - ![image.png](../assets/image_1684182977482_0.png)
 - [[Probability Redux]]
-- [[Fundamentals of statistic/ Foundation of inference]]
+- [[Fundamentals of statistics/ Foundation of inference]]
+- [[Fundamentals of statistics/ Parametric Estimation and Confidence Intervals]]
+-
 -
 -

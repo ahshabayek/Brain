@@ -1,0 +1,1 @@
+- Statistic : any measurable function once data can be given.
