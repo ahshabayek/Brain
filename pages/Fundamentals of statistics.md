@@ -6,6 +6,9 @@
 - [[Probability Redux]]
 - [[Fundamentals of statistics/ Foundation of inference]]
 - [[Fundamentals of statistics/ Parametric Estimation and Confidence Intervals]]
+- [[Fundamentals of statistics/ Methods of estimation ]]
+- [[Fundamentals of statistics/ Statistical properties of  the MLE]]
+-
 -
 -
 -
