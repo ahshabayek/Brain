@@ -1,5 +1,6 @@
 {:blocks (
-{:block/properties 
+{:block/created-at 1688120956287
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -8,17 +9,17 @@
 :scaleLevel "md"
 :fill ""
 :type "pencil"
-:points [[10.5546875 0 0.5] [8.3828125 1.23828125 0.5] [5.7421875 2.79296875 0.5] [4.34765625 3.72265625 0.5] [2.94921875 4.65234375 0.5] [0 6.82421875 0.5]]
+:points [[0 0 0.5]]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "fa2f8e70-172a-11ee-b8e6-13f3d53ed68f"
+:id "d6689030-1730-11ee-b8e6-13f3d53ed68f"
 :noFill true
-:point [1117.03515625 834.92578125]
+:point [264.03125 691.875]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688118384862
+:nonce 1688120901814
 :isComplete true}}
-:block/updated-at 1688118385317})
+:block/updated-at 1688120956287})
 :pages (
 {:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"
 :block/properties 
@@ -30,8 +31,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("fa2f8e70-172a-11ee-b8e6-13f3d53ed68f")}}
-:block/updated-at 1688118385317
+:shapes-index ("d6689030-1730-11ee-b8e6-13f3d53ed68f")}}
+:block/updated-at 1688120956287
 :block/created-at 1688074578862
 :block/type "whiteboard"
 :block/name "homework 0 statistics"
