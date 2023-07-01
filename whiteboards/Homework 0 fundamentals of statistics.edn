@@ -1223,7 +1223,7 @@
 :nonce 1688221296148
 :italic false}}
 :block/updated-at 1688221465427} 
-{:block/created-at 1688221476713
+{:block/created-at 1688223045139
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1235,7 +1235,7 @@
 :scaleLevel "lg"
 :fill ""
 :type "box"
-:size [936 2512]
+:size [936 2928]
 :strokeType "line"
 :strokeWidth 3.2
 :opacity 1
@@ -1247,9 +1247,9 @@
 :point [1816 -320]
 :fontSize 32
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221243218
+:nonce 1688221243330
 :italic false}}
-:block/updated-at 1688221476713} 
+:block/updated-at 1688223045139} 
 {:block/content "# 3. Gaussian random variables\nLet \\, X \\, be a Gaussian random variable with mean \\, \\mu \\, and variance \\, \\sigma ^2 \\,. Compute the following moments:\nRemember that we use the terms Gaussian random variable and normal random variable interchangeably.\n(Enter your answers in terms of \\, \\mu \\, and \\, \\sigma.)\n\\, \\mathbb E[X^2] = \\,\n, \\mathbb E[X^3] = \\,\n\\, \\mathbb E[X^4] = \\,\n\\, \\textsf{Var}(X^2) = \\,\nWrite \\, \\mathbf{P}(X>0) \\, in terms of the cumulative distribution function (cdf) \\, \\Phi \\, of the standard Gaussian distribution, evaluated at a function of \\mu and \\sigma.\nRecall that\n\\Phi (x) = \\mathbf{P}(Z \\leq x), \\quad x \\in \\mathbb {R},\nwhere \\, Z \\sim \\mathcal{N}(0,1) \\, is a standard normal variable. (Enter Phi for \\Phi, e.g. if the answer is \\Phi (\\mu ), enter Phi(mu).)\n\\, \\mathbf{P}(X > 0) = \\,"
 :block/format :markdown
 :block/left 
@@ -1644,7 +1644,166 @@
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :nonce 1688222275829
 :italic false}}
-:block/updated-at 1688222285928})
+:block/updated-at 1688222285928} 
+{:block/content "## True or False: Variance, covariance and independence\nFor each of the statements below, determine whether it is true (meaning, always true) or false (meaning, not always true).\n    For any two random variables, \\textsf{Var}(X+Y)=\\textsf{Var}(X)+\\textsf{Var}(Y).\n    True\n    False\n    correct\n    If the covariance, {\\rm Cov}(X,Y) between two random variables X,Y is 0, then X and Y are independent.\n    True\n    False"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64a039f9-01cb-4215-bc9c-16a3f8482466"}
+:block/parent 
+{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "64a03c7f-7070-4dfb-a0ea-779e641af863"} 
+{:block/created-at 1688222976695
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 24
+:scale [1 1]
+:pageId "64a03c7f-7070-4dfb-a0ea-779e641af863"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [912 279.0105044841766]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "31754ac0-181e-11ee-80bc-4b7e76eaf2fb"
+:noFill false
+:point [1824 2016]
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:collapsedHeight 0
+:nonce 1688222845359}}
+:block/updated-at 1688222976695} 
+{:block/content "For each of the statements below, determine whether it is true (meaning, always true) or false (meaning, not always true)."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64a03c7f-7070-4dfb-a0ea-779e641af863"}
+:block/parent 
+{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
+:block/uuid #uuid "64a03c97-5c50-49ed-a83e-f617df4446fb"} 
+{:block/content "For any two random variables, \\textsf{Var}(X+Y)=\\textsf{Var}(X)+\\textsf{Var}(Y).\n  True\n  False\n  correct"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64a03c97-5c50-49ed-a83e-f617df4446fb"}
+:block/parent 
+{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
+:block/uuid #uuid "64a03c97-34f8-486f-bb6a-b723ad32a963"} 
+{:block/content "If the covariance, {\\rm Cov}(X,Y) between two random variables X,Y is 0, then X and Y are independent.\n  True\n  False"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64a03c97-34f8-486f-bb6a-b723ad32a963"}
+:block/parent 
+{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
+:block/uuid #uuid "64a03c97-cfd1-46c7-83dd-758bf6830875"} 
+{:block/content "**Solution:**\n   The first item is False. For any two random variables, it is known that,  \n   [mathjax]\\textsf{Var}(X+Y)=\\textsf{Var}(X)+\\textsf{Var}(Y)+2{\\rm Cov}(X,Y).[/mathjax] \t  \n    In particular, if [mathjaxinline]{\\rm Cov}(X,Y)\\neq 0[/mathjaxinline], this does not hold.     \nThe second item is also false. As a simple example, let [mathjaxinline]X\\sim {\\rm Unif}[-1,1][/mathjaxinline] and let [mathjaxinline]Y=X^2[/mathjaxinline]. Then,     [mathjax]{\\rm Cov}(X,Y)=\\mathbb E[XY]-\\mathbb E[X]\\mathbb E[Y]=\\mathbb E[X^3]-\\mathbb E[X]\\mathbb E[X^2]=0,[/mathjax] \t      using the fact that [mathjaxinline]X[/mathjaxinline] is centered and symmetric around [mathjaxinline]0[/mathjaxinline], and its odd moments vanish. Even though they are uncorrelated, they are (highly) dependent, [mathjaxinline]Y[/mathjaxinline] is obtained from [mathjaxinline]X[/mathjaxinline], intuitively!"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64a03c97-cfd1-46c7-83dd-758bf6830875"}
+:block/parent 
+{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
+:block/properties 
+{}
+:block/uuid #uuid "64a03d27-e1a0-409e-aa1f-98ee5ca7f900"} 
+{:block/created-at 1688223067393
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 25
+:scale [1 1]
+:pageId "64a03d27-e1a0-409e-aa1f-98ee5ca7f900"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [912 256.9731473922729]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "934a9c50-181e-11ee-80bc-4b7e76eaf2fb"
+:noFill false
+:point [1824 2320]
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:collapsedHeight 0
+:nonce 1688223009548}}
+:block/updated-at 1688223067393} 
+{:block/created-at 1688223148602
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 27
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [936 3000]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label ""
+:id "d12989f1-181e-11ee-80bc-4b7e76eaf2fb"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [3680 -328]
+:fontSize 32
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688221243536
+:italic false}}
+:block/updated-at 1688223148602} 
+{:block/created-at 1688223142422
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 26
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d12989f0-181e-11ee-80bc-4b7e76eaf2fb"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [2753 -319.07]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "d3bc69d1-181e-11ee-80bc-4b7e76eaf2fb"}
+:end 
+{:id "end"
+:canBind true
+:point [928 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688221296259
+:italic false}}
+:block/updated-at 1688223142422})
 :pages (
 {:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"
 :block/properties 
@@ -1717,6 +1876,14 @@
 :handleId "end"
 :point [0.45 0.51]
 :distance 4}
+:d3bc69d1-181e-11ee-80bc-4b7e76eaf2fb 
+{:id "d3bc69d1-181e-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "d12989f0-181e-11ee-80bc-4b7e76eaf2fb"
+:toId "ab76ccd0-181a-11ee-80bc-4b7e76eaf2fb"
+:handleId "start"
+:point [0.87 0]
+:distance 4}
 :fde6a981-181b-11ee-80bc-4b7e76eaf2fb 
 {:id "fde6a981-181b-11ee-80bc-4b7e76eaf2fb"
 :type "line"
@@ -1727,9 +1894,9 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("799b6660-1803-11ee-80bc-4b7e76eaf2fb" "bfee32b0-1816-11ee-80bc-4b7e76eaf2fb" "52f13d00-1817-11ee-80bc-4b7e76eaf2fb" "bd640ff0-1817-11ee-80bc-4b7e76eaf2fb" "63ac44e0-1818-11ee-80bc-4b7e76eaf2fb" "c72693e0-1818-11ee-80bc-4b7e76eaf2fb" "26a59960-1819-11ee-80bc-4b7e76eaf2fb" "72c97b40-1819-11ee-80bc-4b7e76eaf2fb" "d60e1440-1819-11ee-80bc-4b7e76eaf2fb" "1dcb40a0-181a-11ee-80bc-4b7e76eaf2fb" "760c7bd0-181a-11ee-80bc-4b7e76eaf2fb" "95dbcb52-181a-11ee-80bc-4b7e76eaf2fb" "ab76ccd0-181a-11ee-80bc-4b7e76eaf2fb" "0b6adb40-181b-11ee-80bc-4b7e76eaf2fb" "72297fd0-181b-11ee-80bc-4b7e76eaf2fb" "bf63b3b0-181b-11ee-80bc-4b7e76eaf2fb" "ee11c670-181b-11ee-80bc-4b7e76eaf2fb" "f1f457d2-181b-11ee-80bc-4b7e76eaf2fb" "f6aeab92-181b-11ee-80bc-4b7e76eaf2fb" "fde6a982-181b-11ee-80bc-4b7e76eaf2fb" "00d00dd2-181c-11ee-80bc-4b7e76eaf2fb" "0454eed2-181c-11ee-80bc-4b7e76eaf2fb" "b0c97e10-181c-11ee-80bc-4b7e76eaf2fb" "de04ee02-181c-11ee-80bc-4b7e76eaf2fb")}}
-:block/updated-at 1688222285952
+:shapes-index ("799b6660-1803-11ee-80bc-4b7e76eaf2fb" "bfee32b0-1816-11ee-80bc-4b7e76eaf2fb" "52f13d00-1817-11ee-80bc-4b7e76eaf2fb" "bd640ff0-1817-11ee-80bc-4b7e76eaf2fb" "63ac44e0-1818-11ee-80bc-4b7e76eaf2fb" "c72693e0-1818-11ee-80bc-4b7e76eaf2fb" "26a59960-1819-11ee-80bc-4b7e76eaf2fb" "72c97b40-1819-11ee-80bc-4b7e76eaf2fb" "d60e1440-1819-11ee-80bc-4b7e76eaf2fb" "1dcb40a0-181a-11ee-80bc-4b7e76eaf2fb" "760c7bd0-181a-11ee-80bc-4b7e76eaf2fb" "95dbcb52-181a-11ee-80bc-4b7e76eaf2fb" "ab76ccd0-181a-11ee-80bc-4b7e76eaf2fb" "0b6adb40-181b-11ee-80bc-4b7e76eaf2fb" "72297fd0-181b-11ee-80bc-4b7e76eaf2fb" "bf63b3b0-181b-11ee-80bc-4b7e76eaf2fb" "ee11c670-181b-11ee-80bc-4b7e76eaf2fb" "f1f457d2-181b-11ee-80bc-4b7e76eaf2fb" "f6aeab92-181b-11ee-80bc-4b7e76eaf2fb" "fde6a982-181b-11ee-80bc-4b7e76eaf2fb" "00d00dd2-181c-11ee-80bc-4b7e76eaf2fb" "0454eed2-181c-11ee-80bc-4b7e76eaf2fb" "b0c97e10-181c-11ee-80bc-4b7e76eaf2fb" "de04ee02-181c-11ee-80bc-4b7e76eaf2fb" "31754ac0-181e-11ee-80bc-4b7e76eaf2fb" "934a9c50-181e-11ee-80bc-4b7e76eaf2fb" "d12989f0-181e-11ee-80bc-4b7e76eaf2fb" "d12989f1-181e-11ee-80bc-4b7e76eaf2fb")}}
+:block/updated-at 1688223148602
 :block/created-at 1688074578862
 :block/type "whiteboard"
 :block/name "homework 0 fundamentals of statistics"
-:block/original-name "Homework 0 fundamentals of statistics"})}
+:block/original-name "homework 0 fundamentals of statistics"})}
