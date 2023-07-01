@@ -1188,7 +1188,7 @@
 :nonce 1688221242862
 :italic false}}
 :block/updated-at 1688221287807} 
-{:block/created-at 1688221308128
+{:block/created-at 1688221465427
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1205,7 +1205,7 @@
 :id "95dbcb52-181a-11ee-80bc-4b7e76eaf2fb"
 :fontWeight 400
 :noFill true
-:point [960 280]
+:point [952 -312]
 :fontSize 20
 :handles 
 {:start 
@@ -1215,15 +1215,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [232 0]
+:point [856 0]
 :bindingId nil}}
 :decorations 
 {:end "arrow"}
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221295805
+:nonce 1688221296148
 :italic false}}
-:block/updated-at 1688221308128} 
-{:block/created-at 1688221364656
+:block/updated-at 1688221465427} 
+{:block/created-at 1688221476713
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1244,12 +1244,407 @@
 :fontWeight 400
 :noFill true
 :isLocked false
-:point [1216 -320]
+:point [1816 -320]
 :fontSize 32
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221242992
+:nonce 1688221243218
 :italic false}}
-:block/updated-at 1688221364656})
+:block/updated-at 1688221476713} 
+{:block/content "# 3. Gaussian random variables\nLet \\, X \\, be a Gaussian random variable with mean \\, \\mu \\, and variance \\, \\sigma ^2 \\,. Compute the following moments:\nRemember that we use the terms Gaussian random variable and normal random variable interchangeably.\n(Enter your answers in terms of \\, \\mu \\, and \\, \\sigma.)\n\\, \\mathbb E[X^2] = \\,\n, \\mathbb E[X^3] = \\,\n\\, \\mathbb E[X^4] = \\,\n\\, \\textsf{Var}(X^2) = \\,\nWrite \\, \\mathbf{P}(X>0) \\, in terms of the cumulative distribution function (cdf) \\, \\Phi \\, of the standard Gaussian distribution, evaluated at a function of \\mu and \\sigma.\nRecall that\n\\Phi (x) = \\mathbf{P}(Z \\leq x), \\quad x \\in \\mathbb {R},\nwhere \\, Z \\sim \\mathcal{N}(0,1) \\, is a standard normal variable. (Enter Phi for \\Phi, e.g. if the answer is \\Phi (\\mu ), enter Phi(mu).)\n\\, \\mathbf{P}(X > 0) = \\,"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64a035b2-1657-4fe3-bf14-4134c1cb120c"}
+:block/parent 
+{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
+:block/properties 
+{:heading 1}
+:block/uuid #uuid "64a03736-9d67-4f27-a142-1e5d60064044"} 
+{:block/created-at 1688221632700
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 13
+:scale [1 1]
+:pageId "64a03736-9d67-4f27-a142-1e5d60064044"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [928 389.99998569488514]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0b6adb40-181b-11ee-80bc-4b7e76eaf2fb"
+:noFill false
+:point [1824 -264]
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:collapsedHeight 0
+:nonce 1688221493173}}
+:block/updated-at 1688221632700} 
+{:block/content "**Solution**\n We can write a general Gaussian variable [mathjaxinline]\\, X \\sim \\mathcal{N}(\\mu , \\sigma ^2) \\,[/mathjaxinline] as [mathjaxinline]\\, X = \\sigma Z + \\mu \\,[/mathjaxinline], where [mathjaxinline]\\, Z \\sim \\mathcal{N}(0,1) \\,[/mathjaxinline] is a standard normal variable. Hence, the calculation can be made by factoring out the corresponding polynomials and calculating (or looking up) the moments of [mathjaxinline]\\, Z \\,[/mathjaxinline]:\n  \t[mathjaxinline]\\displaystyle \\mathbb E[Z] = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 0[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\mathbb E[Z^2] = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\mathbb E[Z^3] = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 0[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\mathbb E[Z^4] = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 3.[/mathjaxinline] \t  \t \nAs an example, let us compute [mathjaxinline]\\, \\mathbb E[X^3] \\,[/mathjaxinline]. Denote the density of a standard normal distribution by [mathjaxinline]\\varphi (z)[/mathjaxinline], i.e.,\n[mathjax] \\phi (z)=\\frac{1}{\\sqrt{2\\pi }} e^{-\\frac{z^2}{2}}.[/mathjax] \t \nWith this, we calculate\n  \t[mathjaxinline]\\displaystyle \\mathbb E[X^3][/mathjaxinline] \t[mathjaxinline]\\displaystyle =[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\int _{-\\infty }^{\\infty } \\left(\\sigma z+\\mu \\right)^3 \\phi (z) dz[/mathjaxinline] \t  \t \n  \t  \t[mathjaxinline]\\displaystyle =[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\sigma ^3 \\mathbb E[Z^3]+3\\sigma ^2 \\mu \\mathbb E[Z^2]+3\\sigma \\mu ^2 \\mathbb E[Z]+ \\mu ^3[/mathjaxinline] \t  \t \n  \t  \t[mathjaxinline]\\displaystyle =[/mathjaxinline] \t[mathjaxinline]\\displaystyle 3\\sigma ^2 \\mu +\\mu ^3.[/mathjaxinline] \t  \t \nFor [mathjaxinline]\\textsf{Var}(X^2)[/mathjaxinline], we can use the formula [mathjaxinline]\\, \\textsf{Var}(X^2)=\\mathbb E[X^4]-\\left(\\mathbb E[X^2]\\right)^2 \\,[/mathjaxinline].\nSimilarly, we can express the probability [mathjaxinline]\\, \\mathbf{P}( X > 0 ) \\,[/mathjaxinline] as\n  \t[mathjaxinline]\\displaystyle \\mathbf{P}(X > 0) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbf{P}( \\sigma Z + \\mu > 0 ) = \\mathbf{P}(\\sigma Z > - \\mu )[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbf{P}( Z > - \\frac{\\mu }{\\sigma } ) = 1 - \\Phi \\left( -\\frac{\\mu }{\\sigma } \\right).[/mathjaxinline]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64a03736-9d67-4f27-a142-1e5d60064044"}
+:block/parent 
+{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
+:block/properties 
+{}
+:block/uuid #uuid "64a037e6-5a7c-4e4e-ac40-d79d5605cd12"} 
+{:block/created-at 1688221751351
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 14
+:scale [1 1]
+:pageId "64a037e6-5a7c-4e4e-ac40-d79d5605cd12"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [912 616.9999241828917]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "72297fd0-181b-11ee-80bc-4b7e76eaf2fb"
+:noFill false
+:point [1824 160]
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:collapsedHeight 0
+:nonce 1688221665425}}
+:block/updated-at 1688221751351} 
+{:block/content "## Covariance of Gaussians\n Recall that i.i.d. stands for independent and identically distributed . A collection of random variables X_1, \\dots , X_ n are i.i.d. if all of them follow the same distribution, and each X_ i does not contain information about the other realizations.\nLet \\, X,Y \\, be i.i.d. standard normal random variables, that is, \\, X,Y \\sim \\mathcal{N}(0,1) \\,.\nRecall that the covariance of two random variables \\, X\\, and \\, Y,\\, denoted by {\\color{blue}{\\textsf{Cov}}} (X,Y),\\, is defined as\n  \t\\displaystyle \\displaystyle \\textsf{Cov}(X,Y) \t\\displaystyle = \t\\displaystyle \\mathbb E\\left[\\left(X-\\mathbb E[X]\\right)\\left(Y-\\mathbb E[Y]\\right)\\right]. \t  \t(3.3)\nCompute the following variances and covariances.\n\\, \\textsf{Var}(X+Y)= \\, \n\\, \\textsf{Var}(XY)= \\, \n\\, \\textsf{Cov}(X, X+Y)= \\, \n\\, \\textsf{Cov}(X,XY)= \\,"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64a037e6-5a7c-4e4e-ac40-d79d5605cd12"}
+:block/parent 
+{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "64a03868-82dd-4876-a44c-c654b11c6c5c"} 
+{:block/created-at 1688221858996
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 15
+:scale [1 1]
+:pageId "64a03868-82dd-4876-a44c-c654b11c6c5c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [920 350.9999513626098]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bf63b3b0-181b-11ee-80bc-4b7e76eaf2fb"
+:noFill false
+:point [1824 832]
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:collapsedHeight 0
+:nonce 1688221794981}}
+:block/updated-at 1688221858996} 
+{:block/created-at 1688221880589
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 16
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ee11c670-181b-11ee-80bc-4b7e76eaf2fb"
+:fontWeight 400
+:noFill true
+:point [487.37 -128]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.63 0]}
+:end 
+{:id "end"
+:canBind true
+:point [0 20]
+:bindingId "ee119f61-181b-11ee-80bc-4b7e76eaf2fb"}}
+:decorations 
+{:end "arrow"}
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688221873258
+:italic false}}
+:block/updated-at 1688221880589} 
+{:block/created-at 1688221889541
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f1f457d2-181b-11ee-80bc-4b7e76eaf2fb"
+:fontWeight 400
+:noFill true
+:point [503.8 512]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.2 0]}
+:end 
+{:id "end"
+:canBind true
+:point [0 12]
+:bindingId "f1f457d1-181b-11ee-80bc-4b7e76eaf2fb"}}
+:decorations 
+{:end "arrow"}
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688221879772
+:italic false}}
+:block/updated-at 1688221889541} 
+{:block/created-at 1688221900487
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 18
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f6aeab92-181b-11ee-80bc-4b7e76eaf2fb"
+:fontWeight 400
+:noFill true
+:point [458.75 1096]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [5.25 0]}
+:end 
+{:id "end"
+:canBind true
+:point [0 36]
+:bindingId "f6aeab91-181b-11ee-80bc-4b7e76eaf2fb"}}
+:decorations 
+{:end "arrow"}
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688221887725
+:italic false}}
+:block/updated-at 1688221900487} 
+{:block/created-at 1688221905270
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "fde6a982-181b-11ee-80bc-4b7e76eaf2fb"
+:fontWeight 400
+:noFill true
+:point [442.6 1608]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [5.4 0]}
+:end 
+{:id "end"
+:canBind true
+:point [0 20]
+:bindingId "fde6a981-181b-11ee-80bc-4b7e76eaf2fb"}}
+:decorations 
+{:end "arrow"}
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688221899816
+:italic false}}
+:block/updated-at 1688221905270} 
+{:block/created-at 1688221911115
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "00d00dd2-181c-11ee-80bc-4b7e76eaf2fb"
+:fontWeight 400
+:noFill true
+:point [448 1976]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]}
+:end 
+{:id "end"
+:canBind true
+:point [0.2 12]
+:bindingId "00d00dd1-181c-11ee-80bc-4b7e76eaf2fb"}}
+:decorations 
+{:end "arrow"}
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688221904691
+:italic false}}
+:block/updated-at 1688221911115} 
+{:block/created-at 1688222201630
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 21
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0454eed2-181c-11ee-80bc-4b7e76eaf2fb"
+:fontWeight 400
+:noFill true
+:point [2304.82 127]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "0454eed0-181c-11ee-80bc-4b7e76eaf2fb"}
+:end 
+{:id "end"
+:canBind true
+:point [2.49 29]
+:bindingId "0454eed1-181c-11ee-80bc-4b7e76eaf2fb"}}
+:decorations 
+{:end "arrow"}
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688221910613
+:italic false}}
+:block/updated-at 1688222201630} 
+{:block/content "**Solution**\nNote that by the definition of a standard Gaussian random variable,\n  \t[mathjaxinline]\\displaystyle \\mathbb E[X] = \\mathbb E[Y] = 0 \\quad \\mathbb E[X^2] = \\mathbb E[Y^2] = 1.[/mathjaxinline]\n \t  \t \nWith this, compute\n  \t[mathjaxinline]\\displaystyle \\textsf{Var}(X + Y) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\textsf{Var}(X) + \\textsf{Var}(Y)[/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 + 1 = 2,[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\textsf{Var}(XY) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[(XY)^2] - \\left(\\mathbb E[XY]\\right)^2[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] \\mathbb E[Y^2] - \\mathbb E[X]^2\\mathbb E[Y]^2[/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 \\times 1 - 0 = 1,[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\textsf{Cov}(X, X+Y) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X(X+Y)] - \\mathbb E[X] \\mathbb E[X+Y][/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] + \\mathbb E[XY] - \\mathbb E[X] (\\mathbb E[X] + \\mathbb E[Y])[/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(linearity of expectation)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] + \\mathbb E[X] \\mathbb E[Y] - \\mathbb E[X]^2 - \\mathbb E[X] \\mathbb E[Y][/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1,[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\textsf{Cov}(X,XY) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X(XY)] - \\mathbb E[X] \\mathbb E[XY][/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] \\mathbb E[Y] - \\mathbb E[X]^2 \\mathbb E[Y][/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 \\cdot 0 - 0 \\cdot 0 = 0.[/mathjaxinline] \t  \t \nRefer to 6.431x Probability–the Science of Uncertainty and Data. Sections: 8. Covariance, 9. Covariance properties, and 10. the variance of a sum in Lecture 12, Sums of independent random variables; covariance, and correlation."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64a03868-82dd-4876-a44c-c654b11c6c5c"}
+:block/parent 
+{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
+:block/properties 
+{}
+:block/uuid #uuid "64a039f9-01cb-4215-bc9c-16a3f8482466"} 
+{:block/created-at 1688222285920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 22
+:scale [1 1]
+:pageId "64a039f9-01cb-4215-bc9c-16a3f8482466"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [904 737.1432185173032]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b0c97e10-181c-11ee-80bc-4b7e76eaf2fb"
+:noFill false
+:point [1824 1232]
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:collapsedHeight 0
+:nonce 1688222200055}}
+:block/updated-at 1688222285920} 
+{:block/created-at 1688222285928
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "de04ee02-181c-11ee-80bc-4b7e76eaf2fb"
+:fontWeight 400
+:noFill true
+:point [2270.85 1184]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [2.63 0]
+:bindingId "de04ee00-181c-11ee-80bc-4b7e76eaf2fb"}
+:end 
+{:id "end"
+:canBind true
+:point [0 44]
+:bindingId "de04ee01-181c-11ee-80bc-4b7e76eaf2fb"}}
+:decorations 
+{:end "arrow"}
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688222275829
+:italic false}}
+:block/updated-at 1688222285928})
 :pages (
 {:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"
 :block/properties 
@@ -1258,11 +1653,82 @@
 {:id "649df952-8110-496b-afa5-b7cc85bc6de2"
 :name "homework 0 fundamentals of statistics"
 :bindings 
-{}
+{:0454eed0-181c-11ee-80bc-4b7e76eaf2fb 
+{:id "0454eed0-181c-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "0454eed2-181c-11ee-80bc-4b7e76eaf2fb"
+:toId "0b6adb40-181b-11ee-80bc-4b7e76eaf2fb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:de04ee01-181c-11ee-80bc-4b7e76eaf2fb 
+{:id "de04ee01-181c-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "de04ee02-181c-11ee-80bc-4b7e76eaf2fb"
+:toId "b0c97e10-181c-11ee-80bc-4b7e76eaf2fb"
+:handleId "end"
+:point [0.47 0.5]
+:distance 4}
+:0454eed1-181c-11ee-80bc-4b7e76eaf2fb 
+{:id "0454eed1-181c-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "0454eed2-181c-11ee-80bc-4b7e76eaf2fb"
+:toId "72297fd0-181b-11ee-80bc-4b7e76eaf2fb"
+:handleId "end"
+:point [0.56 0.52]
+:distance 4}
+:f6aeab91-181b-11ee-80bc-4b7e76eaf2fb 
+{:id "f6aeab91-181b-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "f6aeab92-181b-11ee-80bc-4b7e76eaf2fb"
+:toId "c72693e0-1818-11ee-80bc-4b7e76eaf2fb"
+:handleId "end"
+:point [0.45 0.53]
+:distance 4}
+:ee119f61-181b-11ee-80bc-4b7e76eaf2fb 
+{:id "ee119f61-181b-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "ee11c670-181b-11ee-80bc-4b7e76eaf2fb"
+:toId "bfee32b0-1816-11ee-80bc-4b7e76eaf2fb"
+:handleId "end"
+:point [0.5 0.55]
+:distance 4}
+:de04ee00-181c-11ee-80bc-4b7e76eaf2fb 
+{:id "de04ee00-181c-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "de04ee02-181c-11ee-80bc-4b7e76eaf2fb"
+:toId "bf63b3b0-181b-11ee-80bc-4b7e76eaf2fb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f1f457d1-181b-11ee-80bc-4b7e76eaf2fb 
+{:id "f1f457d1-181b-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "f1f457d2-181b-11ee-80bc-4b7e76eaf2fb"
+:toId "bd640ff0-1817-11ee-80bc-4b7e76eaf2fb"
+:handleId "end"
+:point [0.52 0.53]
+:distance 4}
+:00d00dd1-181c-11ee-80bc-4b7e76eaf2fb 
+{:id "00d00dd1-181c-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "00d00dd2-181c-11ee-80bc-4b7e76eaf2fb"
+:toId "1dcb40a0-181a-11ee-80bc-4b7e76eaf2fb"
+:handleId "end"
+:point [0.45 0.51]
+:distance 4}
+:fde6a981-181b-11ee-80bc-4b7e76eaf2fb 
+{:id "fde6a981-181b-11ee-80bc-4b7e76eaf2fb"
+:type "line"
+:fromId "fde6a982-181b-11ee-80bc-4b7e76eaf2fb"
+:toId "72c97b40-1819-11ee-80bc-4b7e76eaf2fb"
+:handleId "end"
+:point [0.44 0.53]
+:distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("799b6660-1803-11ee-80bc-4b7e76eaf2fb" "bfee32b0-1816-11ee-80bc-4b7e76eaf2fb" "52f13d00-1817-11ee-80bc-4b7e76eaf2fb" "bd640ff0-1817-11ee-80bc-4b7e76eaf2fb" "63ac44e0-1818-11ee-80bc-4b7e76eaf2fb" "c72693e0-1818-11ee-80bc-4b7e76eaf2fb" "26a59960-1819-11ee-80bc-4b7e76eaf2fb" "72c97b40-1819-11ee-80bc-4b7e76eaf2fb" "d60e1440-1819-11ee-80bc-4b7e76eaf2fb" "1dcb40a0-181a-11ee-80bc-4b7e76eaf2fb" "760c7bd0-181a-11ee-80bc-4b7e76eaf2fb" "95dbcb52-181a-11ee-80bc-4b7e76eaf2fb" "ab76ccd0-181a-11ee-80bc-4b7e76eaf2fb")}}
-:block/updated-at 1688221364656
+:shapes-index ("799b6660-1803-11ee-80bc-4b7e76eaf2fb" "bfee32b0-1816-11ee-80bc-4b7e76eaf2fb" "52f13d00-1817-11ee-80bc-4b7e76eaf2fb" "bd640ff0-1817-11ee-80bc-4b7e76eaf2fb" "63ac44e0-1818-11ee-80bc-4b7e76eaf2fb" "c72693e0-1818-11ee-80bc-4b7e76eaf2fb" "26a59960-1819-11ee-80bc-4b7e76eaf2fb" "72c97b40-1819-11ee-80bc-4b7e76eaf2fb" "d60e1440-1819-11ee-80bc-4b7e76eaf2fb" "1dcb40a0-181a-11ee-80bc-4b7e76eaf2fb" "760c7bd0-181a-11ee-80bc-4b7e76eaf2fb" "95dbcb52-181a-11ee-80bc-4b7e76eaf2fb" "ab76ccd0-181a-11ee-80bc-4b7e76eaf2fb" "0b6adb40-181b-11ee-80bc-4b7e76eaf2fb" "72297fd0-181b-11ee-80bc-4b7e76eaf2fb" "bf63b3b0-181b-11ee-80bc-4b7e76eaf2fb" "ee11c670-181b-11ee-80bc-4b7e76eaf2fb" "f1f457d2-181b-11ee-80bc-4b7e76eaf2fb" "f6aeab92-181b-11ee-80bc-4b7e76eaf2fb" "fde6a982-181b-11ee-80bc-4b7e76eaf2fb" "00d00dd2-181c-11ee-80bc-4b7e76eaf2fb" "0454eed2-181c-11ee-80bc-4b7e76eaf2fb" "b0c97e10-181c-11ee-80bc-4b7e76eaf2fb" "de04ee02-181c-11ee-80bc-4b7e76eaf2fb")}}
+:block/updated-at 1688222285952
 :block/created-at 1688074578862
 :block/type "whiteboard"
 :block/name "homework 0 fundamentals of statistics"
