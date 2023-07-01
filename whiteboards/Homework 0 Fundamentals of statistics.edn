@@ -17,7 +17,36 @@
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :nonce 1688208935875
 :clipping 0}}
-:block/updated-at 1688208954933})
+:block/updated-at 1688208954933} 
+{:block/created-at 1688210264421
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [57 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "dd350490-1800-11ee-80bc-4b7e76eaf2fb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1136 -120]
+:lineHeight 1.2
+:fontSize 20
+:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
+:nonce 1688210248552
+:italic false
+:text "ijlkjlk"}}
+:block/updated-at 1688210264421})
 :pages (
 {:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"
 :block/properties 
@@ -33,8 +62,8 @@
 :type "image"
 :src "../assets/image_1688208935283_0.png"
 :size [2634 1996]}]
-:shapes-index ("ceb99e60-17fd-11ee-80bc-4b7e76eaf2fb")}}
-:block/updated-at 1688208954901
+:shapes-index ("ceb99e60-17fd-11ee-80bc-4b7e76eaf2fb" "dd350490-1800-11ee-80bc-4b7e76eaf2fb")}}
+:block/updated-at 1688210264421
 :block/created-at 1688074578862
 :block/type "whiteboard"
 :block/name "homework 0 fundamentals of statistics"
