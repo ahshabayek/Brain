@@ -742,7 +742,7 @@
 :block/properties 
 {:heading 3}
 :block/uuid #uuid "64a030f8-3521-4615-8e6e-8a37b3276776"} 
-{:block/created-at 1688220888035
+{:block/created-at 1688223643222
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -768,8 +768,8 @@
 :point [56 112]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688219895115}}
-:block/updated-at 1688220888035} 
+:nonce 1688219895304}}
+:block/updated-at 1688223643222} 
 {:block/content "The {\\color{blue}{n^{\\text {th}}}} **moment**  of a random variable X is defined to be the expectation \\mathbb E[X^ n] of the n^{\\text {th}} power of X."
 :block/format :markdown
 :block/left 
@@ -814,7 +814,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64a031ab-8543-49d4-b13d-a5f2cb4d48c2"} 
-{:block/created-at 1688220461498
+{:block/created-at 1688223625581
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -831,7 +831,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [856 281]
+:size [856 281.035842987027]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -840,8 +840,8 @@
 :point [56 528]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688220073675}}
-:block/updated-at 1688220461498} 
+:nonce 1688220073677}}
+:block/updated-at 1688223625581} 
 {:block/content "|"
 :block/format :markdown
 :block/left 
@@ -995,7 +995,7 @@
 :block/properties 
 {:heading 3}
 :block/uuid #uuid "64a0340b-ab1a-4b90-a1df-ffcd59cbf024"} 
-{:block/created-at 1688220944660
+{:block/created-at 1688223625584
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1012,7 +1012,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [864 165.796875]
+:size [864 165.80004660547155]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -1021,8 +1021,8 @@
 :point [48 1448]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688220679766}}
-:block/updated-at 1688220944660} 
+:nonce 1688220679768}}
+:block/updated-at 1688223625584} 
 {:block/content "Given n i.i.d. realizations X_1, \\dots , X_ n \\sim \\mathrm{Ber}(p), what is the distribution of \\sum _{i=1}^{n} X_ i?"
 :block/format :markdown
 :block/left 
@@ -1060,7 +1060,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64a0348d-97c7-43e3-8084-b8dcfecff5d6"} 
-{:block/created-at 1688220905991
+{:block/created-at 1688223625587
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1077,7 +1077,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [856 65]
+:size [856 64.98505917481286]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -1086,8 +1086,8 @@
 :point [56 1632]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688220807465}}
-:block/updated-at 1688220905991} 
+:nonce 1688220807467}}
+:block/updated-at 1688223625587} 
 {:block/content "### Discrete uniform random variables\n Recall that a uniform random variable is a random variable that takes values with equal probability,\nLet \\, X \\, be a uniform random variable in the finite set \\, \\{ 1,2,\\ldots ,20\\} \\,.\nCompute the following quantities.\n\nThe probability that \\, X \\, is an even number:\n\\, \\mathbf{P}(X \\text { is an even number}) = \\, \n\nThe probability that \\, X \\, is a prime number:\n\\, \\mathbf{P}(X \\text { is a prime number}) = \\,"
 :block/format :markdown
 :block/left 
@@ -1296,7 +1296,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64a037e6-5a7c-4e4e-ac40-d79d5605cd12"} 
-{:block/created-at 1688221751351
+{:block/created-at 1688223695030
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1313,7 +1313,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [912 616.9999241828917]
+:size [912 617.1149178799809]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -1322,8 +1322,8 @@
 :point [1824 160]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688221665425}}
-:block/updated-at 1688221751351} 
+:nonce 1688221665482}}
+:block/updated-at 1688223695030} 
 {:block/content "## Covariance of Gaussians\n Recall that i.i.d. stands for independent and identically distributed . A collection of random variables X_1, \\dots , X_ n are i.i.d. if all of them follow the same distribution, and each X_ i does not contain information about the other realizations.\nLet \\, X,Y \\, be i.i.d. standard normal random variables, that is, \\, X,Y \\sim \\mathcal{N}(0,1) \\,.\nRecall that the covariance of two random variables \\, X\\, and \\, Y,\\, denoted by {\\color{blue}{\\textsf{Cov}}} (X,Y),\\, is defined as\n  \t\\displaystyle \\displaystyle \\textsf{Cov}(X,Y) \t\\displaystyle = \t\\displaystyle \\mathbb E\\left[\\left(X-\\mathbb E[X]\\right)\\left(Y-\\mathbb E[Y]\\right)\\right]. \t  \t(3.3)\nCompute the following variances and covariances.\n\\, \\textsf{Var}(X+Y)= \\, \n\\, \\textsf{Var}(XY)= \\, \n\\, \\textsf{Cov}(X, X+Y)= \\, \n\\, \\textsf{Cov}(X,XY)= \\,"
 :block/format :markdown
 :block/left 
@@ -1466,7 +1466,7 @@
 :nonce 1688221887725
 :italic false}}
 :block/updated-at 1688221900487} 
-{:block/created-at 1688221905270
+{:block/created-at 1688223625594
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1498,9 +1498,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221899816
+:nonce 1688221899818
 :italic false}}
-:block/updated-at 1688221905270} 
+:block/updated-at 1688223625594} 
 {:block/created-at 1688221911115
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1536,7 +1536,7 @@
 :nonce 1688221904691
 :italic false}}
 :block/updated-at 1688221911115} 
-{:block/created-at 1688222201630
+{:block/created-at 1688223695043
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1569,9 +1569,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221910613
+:nonce 1688221910635
 :italic false}}
-:block/updated-at 1688222201630} 
+:block/updated-at 1688223695043} 
 {:block/content "**Solution**\nNote that by the definition of a standard Gaussian random variable,\n  \t[mathjaxinline]\\displaystyle \\mathbb E[X] = \\mathbb E[Y] = 0 \\quad \\mathbb E[X^2] = \\mathbb E[Y^2] = 1.[/mathjaxinline]\n \t  \t \nWith this, compute\n  \t[mathjaxinline]\\displaystyle \\textsf{Var}(X + Y) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\textsf{Var}(X) + \\textsf{Var}(Y)[/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 + 1 = 2,[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\textsf{Var}(XY) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[(XY)^2] - \\left(\\mathbb E[XY]\\right)^2[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] \\mathbb E[Y^2] - \\mathbb E[X]^2\\mathbb E[Y]^2[/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 \\times 1 - 0 = 1,[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\textsf{Cov}(X, X+Y) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X(X+Y)] - \\mathbb E[X] \\mathbb E[X+Y][/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] + \\mathbb E[XY] - \\mathbb E[X] (\\mathbb E[X] + \\mathbb E[Y])[/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(linearity of expectation)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] + \\mathbb E[X] \\mathbb E[Y] - \\mathbb E[X]^2 - \\mathbb E[X] \\mathbb E[Y][/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1,[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\textsf{Cov}(X,XY) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X(XY)] - \\mathbb E[X] \\mathbb E[XY][/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] \\mathbb E[Y] - \\mathbb E[X]^2 \\mathbb E[Y][/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 \\cdot 0 - 0 \\cdot 0 = 0.[/mathjaxinline] \t  \t \nRefer to 6.431x Probability–the Science of Uncertainty and Data. Sections: 8. Covariance, 9. Covariance properties, and 10. the variance of a sum in Lecture 12, Sums of independent random variables; covariance, and correlation."
 :block/format :markdown
 :block/left 
@@ -1895,8 +1895,8 @@
 :nonce 1
 :assets []
 :shapes-index ("799b6660-1803-11ee-80bc-4b7e76eaf2fb" "bfee32b0-1816-11ee-80bc-4b7e76eaf2fb" "52f13d00-1817-11ee-80bc-4b7e76eaf2fb" "bd640ff0-1817-11ee-80bc-4b7e76eaf2fb" "63ac44e0-1818-11ee-80bc-4b7e76eaf2fb" "c72693e0-1818-11ee-80bc-4b7e76eaf2fb" "26a59960-1819-11ee-80bc-4b7e76eaf2fb" "72c97b40-1819-11ee-80bc-4b7e76eaf2fb" "d60e1440-1819-11ee-80bc-4b7e76eaf2fb" "1dcb40a0-181a-11ee-80bc-4b7e76eaf2fb" "760c7bd0-181a-11ee-80bc-4b7e76eaf2fb" "95dbcb52-181a-11ee-80bc-4b7e76eaf2fb" "ab76ccd0-181a-11ee-80bc-4b7e76eaf2fb" "0b6adb40-181b-11ee-80bc-4b7e76eaf2fb" "72297fd0-181b-11ee-80bc-4b7e76eaf2fb" "bf63b3b0-181b-11ee-80bc-4b7e76eaf2fb" "ee11c670-181b-11ee-80bc-4b7e76eaf2fb" "f1f457d2-181b-11ee-80bc-4b7e76eaf2fb" "f6aeab92-181b-11ee-80bc-4b7e76eaf2fb" "fde6a982-181b-11ee-80bc-4b7e76eaf2fb" "00d00dd2-181c-11ee-80bc-4b7e76eaf2fb" "0454eed2-181c-11ee-80bc-4b7e76eaf2fb" "b0c97e10-181c-11ee-80bc-4b7e76eaf2fb" "de04ee02-181c-11ee-80bc-4b7e76eaf2fb" "31754ac0-181e-11ee-80bc-4b7e76eaf2fb" "934a9c50-181e-11ee-80bc-4b7e76eaf2fb" "d12989f0-181e-11ee-80bc-4b7e76eaf2fb" "d12989f1-181e-11ee-80bc-4b7e76eaf2fb")}}
-:block/updated-at 1688223148602
+:block/updated-at 1688223705742
 :block/created-at 1688074578862
 :block/type "whiteboard"
 :block/name "homework 0 fundamentals of statistics"
-:block/original-name "homework 0 fundamentals of statistics"})}
+:block/original-name "Homework 0 fundamentals of statistics"})}
