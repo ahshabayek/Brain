@@ -742,7 +742,7 @@
 :block/properties 
 {:heading 3}
 :block/uuid #uuid "64a030f8-3521-4615-8e6e-8a37b3276776"} 
-{:block/created-at 1688223643222
+{:block/created-at 1688220888035
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -768,8 +768,8 @@
 :point [56 112]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688219895304}}
-:block/updated-at 1688223643222} 
+:nonce 1688219895115}}
+:block/updated-at 1688220888035} 
 {:block/content "The {\\color{blue}{n^{\\text {th}}}} **moment**  of a random variable X is defined to be the expectation \\mathbb E[X^ n] of the n^{\\text {th}} power of X."
 :block/format :markdown
 :block/left 
@@ -814,7 +814,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64a031ab-8543-49d4-b13d-a5f2cb4d48c2"} 
-{:block/created-at 1688223625581
+{:block/created-at 1688220461498
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -831,7 +831,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [856 281.035842987027]
+:size [856 281]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -840,8 +840,8 @@
 :point [56 528]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688220073677}}
-:block/updated-at 1688223625581} 
+:nonce 1688220073675}}
+:block/updated-at 1688220461498} 
 {:block/content "|"
 :block/format :markdown
 :block/left 
@@ -995,7 +995,7 @@
 :block/properties 
 {:heading 3}
 :block/uuid #uuid "64a0340b-ab1a-4b90-a1df-ffcd59cbf024"} 
-{:block/created-at 1688223625584
+{:block/created-at 1688220944660
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1012,7 +1012,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [864 165.80004660547155]
+:size [864 165.796875]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -1021,8 +1021,8 @@
 :point [48 1448]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688220679768}}
-:block/updated-at 1688223625584} 
+:nonce 1688220679766}}
+:block/updated-at 1688220944660} 
 {:block/content "Given n i.i.d. realizations X_1, \\dots , X_ n \\sim \\mathrm{Ber}(p), what is the distribution of \\sum _{i=1}^{n} X_ i?"
 :block/format :markdown
 :block/left 
@@ -1060,7 +1060,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64a0348d-97c7-43e3-8084-b8dcfecff5d6"} 
-{:block/created-at 1688223625587
+{:block/created-at 1688220905991
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1077,7 +1077,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [856 64.98505917481286]
+:size [856 65]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -1086,8 +1086,8 @@
 :point [56 1632]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688220807467}}
-:block/updated-at 1688223625587} 
+:nonce 1688220807465}}
+:block/updated-at 1688220905991} 
 {:block/content "### Discrete uniform random variables\n Recall that a uniform random variable is a random variable that takes values with equal probability,\nLet \\, X \\, be a uniform random variable in the finite set \\, \\{ 1,2,\\ldots ,20\\} \\,.\nCompute the following quantities.\n\nThe probability that \\, X \\, is an even number:\n\\, \\mathbf{P}(X \\text { is an even number}) = \\, \n\nThe probability that \\, X \\, is a prime number:\n\\, \\mathbf{P}(X \\text { is a prime number}) = \\,"
 :block/format :markdown
 :block/left 
@@ -1296,7 +1296,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64a037e6-5a7c-4e4e-ac40-d79d5605cd12"} 
-{:block/created-at 1688223695030
+{:block/created-at 1688221751351
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1313,7 +1313,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [912 617.1149178799809]
+:size [912 616.9999241828917]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -1322,8 +1322,8 @@
 :point [1824 160]
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :collapsedHeight 0
-:nonce 1688221665482}}
-:block/updated-at 1688223695030} 
+:nonce 1688221665425}}
+:block/updated-at 1688221751351} 
 {:block/content "## Covariance of Gaussians\n Recall that i.i.d. stands for independent and identically distributed . A collection of random variables X_1, \\dots , X_ n are i.i.d. if all of them follow the same distribution, and each X_ i does not contain information about the other realizations.\nLet \\, X,Y \\, be i.i.d. standard normal random variables, that is, \\, X,Y \\sim \\mathcal{N}(0,1) \\,.\nRecall that the covariance of two random variables \\, X\\, and \\, Y,\\, denoted by {\\color{blue}{\\textsf{Cov}}} (X,Y),\\, is defined as\n  \t\\displaystyle \\displaystyle \\textsf{Cov}(X,Y) \t\\displaystyle = \t\\displaystyle \\mathbb E\\left[\\left(X-\\mathbb E[X]\\right)\\left(Y-\\mathbb E[Y]\\right)\\right]. \t  \t(3.3)\nCompute the following variances and covariances.\n\\, \\textsf{Var}(X+Y)= \\, \n\\, \\textsf{Var}(XY)= \\, \n\\, \\textsf{Cov}(X, X+Y)= \\, \n\\, \\textsf{Cov}(X,XY)= \\,"
 :block/format :markdown
 :block/left 
@@ -1466,7 +1466,7 @@
 :nonce 1688221887725
 :italic false}}
 :block/updated-at 1688221900487} 
-{:block/created-at 1688223625594
+{:block/created-at 1688221905270
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1498,9 +1498,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221899818
+:nonce 1688221899816
 :italic false}}
-:block/updated-at 1688223625594} 
+:block/updated-at 1688221905270} 
 {:block/created-at 1688221911115
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1536,7 +1536,7 @@
 :nonce 1688221904691
 :italic false}}
 :block/updated-at 1688221911115} 
-{:block/created-at 1688223695043
+{:block/created-at 1688222201630
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1569,9 +1569,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221910635
+:nonce 1688221910613
 :italic false}}
-:block/updated-at 1688223695043} 
+:block/updated-at 1688222201630} 
 {:block/content "**Solution**\nNote that by the definition of a standard Gaussian random variable,\n  \t[mathjaxinline]\\displaystyle \\mathbb E[X] = \\mathbb E[Y] = 0 \\quad \\mathbb E[X^2] = \\mathbb E[Y^2] = 1.[/mathjaxinline]\n \t  \t \nWith this, compute\n  \t[mathjaxinline]\\displaystyle \\textsf{Var}(X + Y) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\textsf{Var}(X) + \\textsf{Var}(Y)[/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 + 1 = 2,[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\textsf{Var}(XY) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[(XY)^2] - \\left(\\mathbb E[XY]\\right)^2[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] \\mathbb E[Y^2] - \\mathbb E[X]^2\\mathbb E[Y]^2[/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 \\times 1 - 0 = 1,[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\textsf{Cov}(X, X+Y) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X(X+Y)] - \\mathbb E[X] \\mathbb E[X+Y][/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] + \\mathbb E[XY] - \\mathbb E[X] (\\mathbb E[X] + \\mathbb E[Y])[/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(linearity of expectation)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] + \\mathbb E[X] \\mathbb E[Y] - \\mathbb E[X]^2 - \\mathbb E[X] \\mathbb E[Y][/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1,[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle \\textsf{Cov}(X,XY) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X(XY)] - \\mathbb E[X] \\mathbb E[XY][/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbb E[X^2] \\mathbb E[Y] - \\mathbb E[X]^2 \\mathbb E[Y][/mathjaxinline] \t  \t[mathjaxinline]\\displaystyle \\text {(independence)}[/mathjaxinline] \t  \t \n  \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 \\cdot 0 - 0 \\cdot 0 = 0.[/mathjaxinline] \t  \t \nRefer to 6.431x Probability–the Science of Uncertainty and Data. Sections: 8. Covariance, 9. Covariance properties, and 10. the variance of a sum in Lecture 12, Sums of independent random variables; covariance, and correlation."
 :block/format :markdown
 :block/left 
@@ -1740,7 +1740,7 @@
 :collapsedHeight 0
 :nonce 1688223009548}}
 :block/updated-at 1688223067393} 
-{:block/created-at 1688230335863
+{:block/created-at 1688223148602
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1752,7 +1752,7 @@
 :scaleLevel "lg"
 :fill ""
 :type "box"
-:size [936 1872]
+:size [936 3000]
 :strokeType "line"
 :strokeWidth 3.2
 :opacity 1
@@ -1764,9 +1764,9 @@
 :point [3680 -328]
 :fontSize 32
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221244010
+:nonce 1688221243536
 :italic false}}
-:block/updated-at 1688230335863} 
+:block/updated-at 1688223148602} 
 {:block/created-at 1688223142422
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1803,779 +1803,7 @@
 :parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
 :nonce 1688221296259
 :italic false}}
-:block/updated-at 1688223142422} 
-{:block/content "# . Uniform random variables\n Let \\, X \\, be a uniform random variable in the interval \\, [2,8.5] \\,. Find the following quantities (if needed, round to the nearest 10^{-4}):\n\\, \\mathbb E[X] = \\, \n\\, \\textsf{Var}[X] = \\, \n\\, \\mathbf{P}(X > 4) = \\, \n\\, \\mathbf{P}(\\log (X) \\leq 1) = \\,\n(Note that the logarithm is the natural one to base \\, \\mathbf e \\,)"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a03d27-e1a0-409e-aa1f-98ee5ca7f900"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/properties 
-{:heading 1}
-:block/uuid #uuid "64a05004-96ce-4fd4-bf81-f1504643fb37"} 
-{:block/created-at 1688228675279
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 28
-:scale [1 1]
-:pageId "64a05004-96ce-4fd4-bf81-f1504643fb37"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [920 245.9759063720703]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "d4181d60-1829-11ee-a16e-a9595e8ec980"
-:noFill false
-:point [3688 -288]
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:collapsedHeight 0
-:nonce 1688227842693}}
-:block/updated-at 1688228675279} 
-{:block/content "**Solution:**\n We can write [mathjaxinline]\\, X = 6.5Z + 2 \\,[/mathjaxinline], where [mathjaxinline]\\, Z \\,[/mathjaxinline] follows a uniform distribution on [mathjaxinline]\\, [0, 1] \\,[/mathjaxinline]. By properties of the uniform distribution, we then conclude: [mathjax]\\mathbb E[X] = 2 + 6.5 \\mathbb E[Z] = 2 + 6.5 \\times \\frac{1}{2} = \\frac{21}{4},[/mathjax] \t [mathjax]\\textsf{Var}[X] = 6.5^2 \\times \\textsf{Var}[Z] = \\frac{169}{4} \\times \\frac{1}{12} = \\frac{169}{48},[/mathjax] \t  [mathjax]\\mathbf{P}(X \\geq 4) = \\mathbf{P}(Z \\geq \\frac{4}{13}) = 1 - \\frac{4}{13} = \\frac{9}{13},[/mathjax] \t  [mathjax]\\mathbf{P}(\\log (X) \\leq 1) = \\mathbf{P}(X \\leq e) = \\mathbf{P}(Z \\leq \\frac{2(\\mathbf e- 2)}{13}) \\approx 0.110549.[/mathjax] \t  Refer to 6.431x Probability–the Science of Uncertainty and Data. Sections: Uniform PDF in Lecture 8, Probability density functions."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a05004-96ce-4fd4-bf81-f1504643fb37"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/properties 
-{}
-:block/uuid #uuid "64a0532b-bb45-4943-933a-b28cf9d54ae5"} 
-{:block/created-at 1688228703331
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke "green"
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 29
-:scale [1 1]
-:pageId "64a0532b-bb45-4943-933a-b28cf9d54ae5"
-:scaleLevel "md"
-:fill "green"
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [912 233.02455139160156]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "b38014c0-182b-11ee-a16e-a9595e8ec980"
-:noFill false
-:point [3688 24]
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:collapsedHeight 0
-:nonce 1688228647126}}
-:block/updated-at 1688228703331} 
-{:block/created-at 1688228703331
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 30
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "cc00aa00-182b-11ee-a16e-a9595e8ec980"
-:fontWeight 400
-:noFill true
-:point [4185.38 -41.02]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "cc0082f0-182b-11ee-a16e-a9595e8ec980"}
-:end 
-{:id "end"
-:canBind true
-:point [18.4 61.02]
-:bindingId "cc0082f1-182b-11ee-a16e-a9595e8ec980"}}
-:decorations 
-{:end "arrow"}
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688228688108
-:italic false}}
-:block/updated-at 1688228703331} 
-{:block/content "## Two independent copies   \nLet \\, U,V \\, be i.i.d. random variables uniformly distributed in \\, [0,1] \\,. Compute the following quantities:  \n\\, \\mathbb E[\\, \\left|U-V\\right|\\, ] = \\, \n  \\, \\mathbf{P}(U=V) = \\, \n  \\, \\mathbf{P}(U \\leq V) = \\,"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0532b-bb45-4943-933a-b28cf9d54ae5"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/properties 
-{:heading 2}
-:block/uuid #uuid "64a05386-2bd5-494b-bfeb-53584838d0a2"} 
-{:block/created-at 1688228795313
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 31
-:scale [1 1]
-:pageId "64a05386-2bd5-494b-bfeb-53584838d0a2"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [904 158.98216247558594]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "e0e2bbc0-182b-11ee-a16e-a9595e8ec980"
-:noFill false
-:point [3688 288]
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:collapsedHeight 0
-:nonce 1688228723172}}
-:block/updated-at 1688228795313} 
-{:block/content "**Solution** \n For the first quantity, we write the joint expectation as an iterated expectation and conditional expectation, [mathjax]\\mathbb E[|U - V|] = \\mathbb E[\\mathbb E[|U - V| | V]].[/mathjax]\t \n  By independence, we can compute the inner expectation as \n \t[mathjaxinline]\\displaystyle \\mathbb E[|U - V| | V = v] = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\int _0^1 | u - v | \\, du[/mathjaxinline] \t \t   \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\int _0^ v (v-u) \\, du + \\int _ v^1 (u-v) \\, du[/mathjaxinline] \t \t   \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\left[ vu - \\frac{1}{2}u^2 \\, \\right]_0^ v + \\left[ \\frac{1}{2}u^2 - vu \\, \\right]_ v^1 = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle v^2 - \\frac{1}{2} v^2 + \\frac{1}{2} - v - \\frac{1}{2} v^2 + v^2[/mathjaxinline] \t \t   \t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle v^2 - v + \\frac{1}{2},[/mathjaxinline] \t \t   so [mathjax]\\mathbb E[\\, |U - V|\\, ] = \\mathbb E\\left[V^2 - V + \\frac{1}{2}\\right] = \\frac{1}{3} - \\frac{1}{2} + \\frac{1}{2} = \\frac{1}{3}.[/mathjax]\t \n  For the probability [mathjaxinline]\\, \\mathbf{P}(U = V) \\,[/mathjaxinline], just write this as double expectation as well and notice that [mathjax]\\mathbf{P}(U = V) = \\mathbb E[ \\mathbb E[ \\mathbf{1}(U = V) | V] ] = \\mathbb E[0] = 0,[/mathjax]\t   because the probability of a uniform random variable being equal to any fixed number between [mathjaxinline]\\, 0 \\,[/mathjaxinline] and [mathjaxinline]\\, 1 \\,[/mathjaxinline] is zero.  For [mathjaxinline]\\, \\mathbf{P}(U \\leq V) \\,[/mathjaxinline], write it again as a double expectation,  [mathjax]\\mathbf{P}(U \\leq V) = \\mathbb E[ \\mathbb E[\\mathbf{1}(U \\leq V) | V] ] = \\mathbb E[ \\mathbf{P}(U \\leq V) | V ] = \\mathbb E[V] = \\frac{1}{2}.[/mathjax]\t   Alternatively, this can also be seen by symmetry of the two variables, i.e., [mathjaxinline]\\, P(U \\leq V) = P(V \\leq U) \\,[/mathjaxinline] and either one of the two must be true, counting double the zero-set of [mathjaxinline]\\, \\, \\mathbf{P}(U = V) \\,[/mathjaxinline]."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a05386-2bd5-494b-bfeb-53584838d0a2"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/properties 
-{}
-:block/uuid #uuid "64a053e2-3954-4931-b2d9-65fa7a788af6"} 
-{:block/created-at 1688229245010
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke "green"
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 32
-:scale [1 1]
-:pageId "64a053e2-3954-4931-b2d9-65fa7a788af6"
-:scaleLevel "md"
-:fill "green"
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [912 520.9639892578125]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "0f7aae70-182c-11ee-a16e-a9595e8ec980"
-:noFill false
-:point [3696 480]
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:collapsedHeight 0
-:nonce 1688228801365}}
-:block/updated-at 1688229245010} 
-{:block/created-at 1688229297051
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 33
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "19c8d091-182d-11ee-a16e-a9595e8ec980"
-:fontWeight 400
-:noFill true
-:point [4138.21 447.98]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0.47 0]
-:bindingId "19c8a980-182d-11ee-a16e-a9595e8ec980"}
-:end 
-{:id "end"
-:canBind true
-:point [0 28.02]
-:bindingId "19c8d090-182d-11ee-a16e-a9595e8ec980"}}
-:decorations 
-{:end "arrow"}
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688229248049
-:italic false}}
-:block/updated-at 1688229297051} 
-{:block/content "## Maximum of uniform random variables   \nLet \\, U_1,\\ldots ,U_ n \\, be i.i.d. random variables uniformly distributed in \\, [0,1] \\, and let \\, \\displaystyle M_ n= \\max _{1\\leq i\\leq n} U_ i \\,.  Find the cdf of \\, M_ n \\,, which we denote by \\, G(t) \\,, for \\, t \\in [0,1] \\,.  For \\, t \\in [0, 1] \\,,  \\, G(t) = \\, unanswered  [Math Processing Error] Loading  Now, let \\, F_ n(t) \\, denote the cdf of \\, n(1-M_ n) \\,; for \\, t > 0 \\,, compute  \\, \\displaystyle \\lim _{n \\to \\infty } F_ n(t) = \\,"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a053e2-3954-4931-b2d9-65fa7a788af6"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/properties 
-{:heading 2}
-:block/uuid #uuid "64a055b0-1b4c-4649-8454-a32da73fcab2"} 
-{:block/created-at 1688229317590
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 34
-:scale [1 1]
-:pageId "64a055b0-1b4c-4649-8454-a32da73fcab2"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [904 158.98216247558594]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "2f259090-182d-11ee-a16e-a9595e8ec980"
-:noFill false
-:point [3696 1032]
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:collapsedHeight 0
-:nonce 1688229283946}}
-:block/updated-at 1688229317590} 
-{:block/content "**Solution**\nFirst, we compute the cdf. Let [mathjaxinline]\\, t \\in [0,1] \\,[/mathjaxinline]. Then,\n[mathjaxinline]\\displaystyle \\mathbf{P}(M_ n \\leq t) = \\mathbf{P}\\left(\\max _{i = 1, \\dots , n} U_ i \\leq t\\right) = \\mathbf{P}\\left(\\cap _{i=1}^ n \\{ U_ i \\leq t\\} \\right) = \\prod _{i=1}^ n \\mathbf{P}(U_ i \\leq t) = t^ n,[/mathjaxinline] \t  \t \nwhere we used the independence of the [mathjaxinline]\\, U_ i \\,[/mathjaxinline] to write the intersection as a product.\nNow,\n[mathjaxinline]\\displaystyle \\mathbf{P}\\left(n(1-M_ n) \\leq t\\right) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbf{P}\\left(1 - M_ n \\leq \\frac{t}{n}\\right) = \\mathbf{P}\\left(M_ n \\geq 1 - \\frac{t}{n}\\right)[/mathjaxinline] \t  \t \n[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 - \\mathbf{P}\\left(M_ n < 1 - \\frac{t}{n}\\right) = 1 - \\left( 1 - \\frac{t}{n} \\right)^ n \\xrightarrow {n \\to \\infty } 1 - \\mathbf e^{-t}.[/mathjaxinline] \t  \t \nHence, [mathjaxinline]\\, n(1-M_ n) \\,[/mathjaxinline] converges in distribution to [mathjaxinline]\\, \\mathrm{Exp}(1) \\,[/mathjaxinline]."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055b0-1b4c-4649-8454-a32da73fcab2"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/properties 
-{}
-:block/uuid #uuid "64a055e9-9635-4292-803e-90f268dc641b"} 
-{:block/created-at 1688229478248
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke "green"
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 35
-:scale [1 1]
-:pageId "64a055e9-9635-4292-803e-90f268dc641b"
-:scaleLevel "md"
-:fill "green"
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [912 305.04150390625]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "50b79eb0-182d-11ee-a16e-a9595e8ec980"
-:noFill false
-:point [3696 1208]
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:collapsedHeight 0
-:nonce 1688229340289}}
-:block/updated-at 1688229478248} 
-{:block/content "First, we compute the cdf. Let [mathjaxinline]\\,   t \\in [0,1]  \\,[/mathjaxinline]. Then,"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0560f-8a30-4fd4-89ee-e26627d265a1"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-afd2-4973-8e58-836f50e7dc6d"} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-afd2-4973-8e58-836f50e7dc6d"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-c796-4dd6-a132-892208434640"} 
-{:block/content "| \n           |   | \n           | \n   [mathjaxinline]\\displaystyle  \\mathbf{P}(M_ n \\leq t) = \n\\mathbf{P}\\left(\\max _{i = 1, \\dots , n} U_ i \\leq t\\right) = \n\\mathbf{P}\\left(\\cap _{i=1}^ n \\{ U_ i \\leq t\\} \\right) = \\prod _{i=1}^ n\n\\mathbf{P}(U_ i \\leq t) = t^ n,[/mathjaxinline]\n       | \n           |   | \n           |   | \n         |"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-c796-4dd6-a132-892208434640"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-0ab4-40dd-a641-5a5c5131bfa9"} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-0ab4-40dd-a641-5a5c5131bfa9"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-63a4-4076-95f7-8e2243b07efd"} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-63a4-4076-95f7-8e2243b07efd"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-2f54-4048-84a4-6bec8f55281f"} 
-{:block/content "where we used the independence of the [mathjaxinline]\\,   U_ i  \\,[/mathjaxinline] to write the intersection as a product."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-2f54-4048-84a4-6bec8f55281f"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-d127-4abd-bac7-f81b189c6e09"} 
-{:block/content "Now,"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-d127-4abd-bac7-f81b189c6e09"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-d4f7-4e21-882c-c40ec163428a"} 
-{:block/content "\n| \n           |   | \n           | \n   [mathjaxinline]\\displaystyle  \\mathbf{P}\\left(n(1-M_ n) \\leq t\\right) = {}[/mathjaxinline]\n       | \n           | \n   [mathjaxinline]\\displaystyle  \\mathbf{P}\\left(1 - M_ n \\leq \n\\frac{t}{n}\\right) = \\mathbf{P}\\left(M_ n \\geq 1 - \n\\frac{t}{n}\\right)[/mathjaxinline]\n       | \n           |   | \n           |   | \n         |\n| \n           |   | \n           | \n   [mathjaxinline]\\displaystyle = {}[/mathjaxinline]\n       | \n           | \n   [mathjaxinline]\\displaystyle  1 - \\mathbf{P}\\left(M_ n < 1 - \n\\frac{t}{n}\\right) = 1 - \\left( 1 - \\frac{t}{n} \\right)^ n \\xrightarrow \n{n \\to \\infty } 1 - \\mathbf e^{-t}.[/mathjaxinline]\n       | \n           |   | \n           |   | \n         |"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-d4f7-4e21-882c-c40ec163428a"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-a768-436e-b31b-c25402c44963"} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-a768-436e-b31b-c25402c44963"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-f1ce-46d0-b721-d2efee84cda5"} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-f1ce-46d0-b721-d2efee84cda5"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-55ee-472b-b99b-6ad3dfe12b86"} 
-{:block/content "Hence, [mathjaxinline]\\,   n(1-M_ n)  \\,[/mathjaxinline] converges in \ndistribution to [mathjaxinline]\\,   \\mathrm{Exp}(1)  \\,[/mathjaxinline]."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-55ee-472b-b99b-6ad3dfe12b86"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a055eb-0695-4b5c-bbc5-e9aa2c38c738"} 
-{:block/content "\nFirst, we compute the cdf. Let [mathjaxinline]\\, t \\in [0,1] \\,[/mathjaxinline]. Then,\n\t[mathjaxinline]\\displaystyle \\mathbf{P}(M_ n \\leq t) = \\mathbf{P}\\left(\\max _{i = 1, \\dots , n} U_ i \\leq t\\right) = \\mathbf{P}\\left(\\cap _{i=1}^ n \\{ U_ i \\leq t\\} \\right) = \\prod _{i=1}^ n \\mathbf{P}(U_ i \\leq t) = t^ n,[/mathjaxinline] \t  \t \nwhere we used the independence of the [mathjaxinline]\\, U_ i \\,[/mathjaxinline] to write the intersection as a product.\nNow,\n\t[mathjaxinline]\\displaystyle \\mathbf{P}\\left(n(1-M_ n) \\leq t\\right) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbf{P}\\left(1 - M_ n \\leq \\frac{t}{n}\\right) = \\mathbf{P}\\left(M_ n \\geq 1 - \\frac{t}{n}\\right)[/mathjaxinline] \t  \t \n\t[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 - \\mathbf{P}\\left(M_ n < 1 - \\frac{t}{n}\\right) = 1 - \\left( 1 - \\frac{t}{n} \\right)^ n \\xrightarrow {n \\to \\infty } 1 - \\mathbf e^{-t}.[/mathjaxinline] \t  \t \nHence, [mathjaxinline]\\, n(1-M_ n) \\,[/mathjaxinline] converges in distribution to [mathjaxinline]\\, \\mathrm{Exp}(1) \\,[/mathjaxinline]."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a05634-d67d-40c9-bea5-7222ed8edaab"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0560f-8a30-4fd4-89ee-e26627d265a1"} 
-{:block/content "\nFirst, we compute the cdf. Let [mathjaxinline]\\, t \\in [0,1] \\,[/mathjaxinline]. Then,\n[mathjaxinline]\\displaystyle \\mathbf{P}(M_ n \\leq t) = \\mathbf{P}\\left(\\max _{i = 1, \\dots , n} U_ i \\leq t\\right) = \\mathbf{P}\\left(\\cap _{i=1}^ n \\{ U_ i \\leq t\\} \\right) = \\prod _{i=1}^ n \\mathbf{P}(U_ i \\leq t) = t^ n,[/mathjaxinline] \t  \t \nwhere we used the independence of the [mathjaxinline]\\, U_ i \\,[/mathjaxinline] to write the intersection as a product.\nNow,\n[mathjaxinline]\\displaystyle \\mathbf{P}\\left(n(1-M_ n) \\leq t\\right) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbf{P}\\left(1 - M_ n \\leq \\frac{t}{n}\\right) = \\mathbf{P}\\left(M_ n \\geq 1 - \\frac{t}{n}\\right)[/mathjaxinline] \t  \t \n[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 - \\mathbf{P}\\left(M_ n < 1 - \\frac{t}{n}\\right) = 1 - \\left( 1 - \\frac{t}{n} \\right)^ n \\xrightarrow {n \\to \\infty } 1 - \\mathbf e^{-t}.[/mathjaxinline] \t  \t \nHence, [mathjaxinline]\\, n(1-M_ n) \\,[/mathjaxinline] converges in distribution to [mathjaxinline]\\, \\mathrm{Exp}(1) \\,[/mathjaxinline]."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a05636-9598-4f2e-8ce2-93800cb0ac83"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a05634-d67d-40c9-bea5-7222ed8edaab"} 
-{:block/content "\nFirst, we compute the cdf. Let [mathjaxinline]\\, t \\in [0,1] \\,[/mathjaxinline]. Then,\n[mathjaxinline]\\displaystyle \\mathbf{P}(M_ n \\leq t) = \\mathbf{P}\\left(\\max _{i = 1, \\dots , n} U_ i \\leq t\\right) = \\mathbf{P}\\left(\\cap _{i=1}^ n \\{ U_ i \\leq t\\} \\right) = \\prod _{i=1}^ n \\mathbf{P}(U_ i \\leq t) = t^ n,[/mathjaxinline] \t  \t \nwhere we used the independence of the [mathjaxinline]\\, U_ i \\,[/mathjaxinline] to write the intersection as a product.\nNow,\n[mathjaxinline]\\displaystyle \\mathbf{P}\\left(n(1-M_ n) \\leq t\\right) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbf{P}\\left(1 - M_ n \\leq \\frac{t}{n}\\right) = \\mathbf{P}\\left(M_ n \\geq 1 - \\frac{t}{n}\\right)[/mathjaxinline] \t  \t \n[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 - \\mathbf{P}\\left(M_ n < 1 - \\frac{t}{n}\\right) = 1 - \\left( 1 - \\frac{t}{n} \\right)^ n \\xrightarrow {n \\to \\infty } 1 - \\mathbf e^{-t}.[/mathjaxinline] \t  \t \nHence, [mathjaxinline]\\, n(1-M_ n) \\,[/mathjaxinline] converges in distribution to [mathjaxinline]\\, \\mathrm{Exp}(1) \\,[/mathjaxinline]."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0563e-8f79-4bad-ae7b-905943c07ec2"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a05636-9598-4f2e-8ce2-93800cb0ac83"} 
-{:block/content "\nFirst, we compute the cdf. Let [mathjaxinline]\\, t \\in [0,1] \\,[/mathjaxinline]. Then,\n[mathjaxinline]\\displaystyle \\mathbf{P}(M_ n \\leq t) = \\mathbf{P}\\left(\\max _{i = 1, \\dots , n} U_ i \\leq t\\right) = \\mathbf{P}\\left(\\cap _{i=1}^ n \\{ U_ i \\leq t\\} \\right) = \\prod _{i=1}^ n \\mathbf{P}(U_ i \\leq t) = t^ n,[/mathjaxinline] \t  \t \nwhere we used the independence of the [mathjaxinline]\\, U_ i \\,[/mathjaxinline] to write the intersection as a product.\nNow,\n[mathjaxinline]\\displaystyle \\mathbf{P}\\left(n(1-M_ n) \\leq t\\right) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbf{P}\\left(1 - M_ n \\leq \\frac{t}{n}\\right) = \\mathbf{P}\\left(M_ n \\geq 1 - \\frac{t}{n}\\right)[/mathjaxinline] \t  \t \n[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 - \\mathbf{P}\\left(M_ n < 1 - \\frac{t}{n}\\right) = 1 - \\left( 1 - \\frac{t}{n} \\right)^ n \\xrightarrow {n \\to \\infty } 1 - \\mathbf e^{-t}.[/mathjaxinline] \t  \t \nHence, [mathjaxinline]\\, n(1-M_ n) \\,[/mathjaxinline] converges in distribution to [mathjaxinline]\\, \\mathrm{Exp}(1) \\,[/mathjaxinline]."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0563f-ddcd-410f-b6d9-7ec41a64c937"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0563e-8f79-4bad-ae7b-905943c07ec2"} 
-{:block/content "\nFirst, we compute the cdf. Let [mathjaxinline]\\, t \\in [0,1] \\,[/mathjaxinline]. Then,\n[mathjaxinline]\\displaystyle \\mathbf{P}(M_ n \\leq t) = \\mathbf{P}\\left(\\max _{i = 1, \\dots , n} U_ i \\leq t\\right) = \\mathbf{P}\\left(\\cap _{i=1}^ n \\{ U_ i \\leq t\\} \\right) = \\prod _{i=1}^ n \\mathbf{P}(U_ i \\leq t) = t^ n,[/mathjaxinline] \t  \t \nwhere we used the independence of the [mathjaxinline]\\, U_ i \\,[/mathjaxinline] to write the intersection as a product.\nNow,\n[mathjaxinline]\\displaystyle \\mathbf{P}\\left(n(1-M_ n) \\leq t\\right) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbf{P}\\left(1 - M_ n \\leq \\frac{t}{n}\\right) = \\mathbf{P}\\left(M_ n \\geq 1 - \\frac{t}{n}\\right)[/mathjaxinline] \t  \t \n[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 - \\mathbf{P}\\left(M_ n < 1 - \\frac{t}{n}\\right) = 1 - \\left( 1 - \\frac{t}{n} \\right)^ n \\xrightarrow {n \\to \\infty } 1 - \\mathbf e^{-t}.[/mathjaxinline] \t  \t \nHence, [mathjaxinline]\\, n(1-M_ n) \\,[/mathjaxinline] converges in distribution to [mathjaxinline]\\, \\mathrm{Exp}(1) \\,[/mathjaxinline]."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0563f-dd0f-451b-b26c-ef6467792dda"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0563f-ddcd-410f-b6d9-7ec41a64c937"} 
-{:block/content "\nFirst, we compute the cdf. Let [mathjaxinline]\\, t \\in [0,1] \\,[/mathjaxinline]. Then,\n[mathjaxinline]\\displaystyle \\mathbf{P}(M_ n \\leq t) = \\mathbf{P}\\left(\\max _{i = 1, \\dots , n} U_ i \\leq t\\right) = \\mathbf{P}\\left(\\cap _{i=1}^ n \\{ U_ i \\leq t\\} \\right) = \\prod _{i=1}^ n \\mathbf{P}(U_ i \\leq t) = t^ n,[/mathjaxinline] \t  \t \nwhere we used the independence of the [mathjaxinline]\\, U_ i \\,[/mathjaxinline] to write the intersection as a product.\nNow,\n[mathjaxinline]\\displaystyle \\mathbf{P}\\left(n(1-M_ n) \\leq t\\right) = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle \\mathbf{P}\\left(1 - M_ n \\leq \\frac{t}{n}\\right) = \\mathbf{P}\\left(M_ n \\geq 1 - \\frac{t}{n}\\right)[/mathjaxinline] \t  \t \n[mathjaxinline]\\displaystyle = {}[/mathjaxinline] \t[mathjaxinline]\\displaystyle 1 - \\mathbf{P}\\left(M_ n < 1 - \\frac{t}{n}\\right) = 1 - \\left( 1 - \\frac{t}{n} \\right)^ n \\xrightarrow {n \\to \\infty } 1 - \\mathbf e^{-t}.[/mathjaxinline] \t  \t \nHence, [mathjaxinline]\\, n(1-M_ n) \\,[/mathjaxinline] converges in distribution to [mathjaxinline]\\, \\mathrm{Exp}(1) \\,[/mathjaxinline]."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055e9-9635-4292-803e-90f268dc641b"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0563f-dd0f-451b-b26c-ef6467792dda"} 
-{:block/created-at 1688230368702
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 37
-:scale [1 1]
-:scaleLevel "lg"
-:fill ""
-:type "box"
-:size [936 1872]
-:strokeType "line"
-:strokeWidth 3.2
-:opacity 1
-:label ""
-:id "b22235a0-182f-11ee-a16e-a9595e8ec980"
-:fontWeight 400
-:noFill true
-:isLocked false
-:point [5536 -336]
-:fontSize 32
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221244172
-:italic false}}
-:block/updated-at 1688230368702} 
-{:block/created-at 1688230368703
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 36
-:scale [1 1]
-:scaleLevel "lg"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "b2220e90-182f-11ee-a16e-a9595e8ec980"
-:fontWeight 400
-:noFill true
-:isLocked false
-:point [4608 -328]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId nil}
-:end 
-{:id "end"
-:canBind true
-:point [928 0]
-:bindingId nil}}
-:decorations 
-{:end "arrow"}
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221296421
-:italic false}}
-:block/updated-at 1688230368703} 
-{:block/created-at 1688230401261
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 38
-:scale [1 1]
-:scaleLevel "lg"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "c2f46470-182f-11ee-a16e-a9595e8ec980"
-:fontWeight 400
-:noFill true
-:isLocked false
-:point [6392 -336]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId nil}
-:end 
-{:id "end"
-:canBind true
-:point [928 0]
-:bindingId nil}}
-:decorations 
-{:end "arrow"}
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221296441
-:italic false}}
-:block/updated-at 1688230401261} 
-{:block/created-at 1688230401262
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 39
-:scale [1 1]
-:scaleLevel "lg"
-:fill ""
-:type "box"
-:size [936 1872]
-:strokeType "line"
-:strokeWidth 3.2
-:opacity 1
-:label ""
-:id "c2f46471-182f-11ee-a16e-a9595e8ec980"
-:fontWeight 400
-:noFill true
-:isLocked false
-:point [7320 -344]
-:fontSize 32
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688221244192
-:italic false}}
-:block/updated-at 1688230401262} 
-{:block/content "## Exponential random variables\nSums and products\nLet \\, X \\, be an exponential random variable with parameter \\, \\lambda >0 \\, and \\, Y \\, be a Poisson random variable with parameter \\, \\mu >0 \\,. Assume that \\, X \\, and \\, Y \\, are independent. Compute the following quantities:\n\\, \\mathbb E[X^2 + Y^2] = \\,\n\\left(\\frac{2}{\\lambda^{2}}\\right)+\\mu+\\mu^{2} \n\\, \\mathbb E[X^2 Y] = \\,\n\\frac{2\\cdot \\mu}{\\lambda^{2}} \n\\, \\textsf{Var}(2X + 3Y) = \\,\n\\left(\\frac{4}{\\lambda^{2}}\\right)+9\\cdot \\mu"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a055eb-0695-4b5c-bbc5-e9aa2c38c738"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/properties 
-{:heading 2}
-:block/uuid #uuid "64a05a79-6045-4940-ad7c-51aa293d139d"} 
-{:block/created-at 1688232916467
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 40
-:scale [1 1]
-:pageId "64a05a79-6045-4940-ad7c-51aa293d139d"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [912 279.0104448795318]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "0e7c0650-1830-11ee-a16e-a9595e8ec980"
-:noFill false
-:point [5544 -304]
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:collapsedHeight 0
-:nonce 1688230517615}}
-:block/updated-at 1688232916467} 
-{:block/content "**Solution:** \nFirst, let us review the moments of the Exponential and Poisson distribution: If \\, X \\sim \\mathrm{Exp}(\\lambda ) \\, with \\, \\lambda > 0 \\,, then \\displaystyle \\mathbb E[X] = \\frac{1}{\\lambda }, \\quad \\mathbb E[X^2] = \\frac{2}{\\lambda ^2}, \\quad \\textsf{Var}(X) = \\frac{1}{\\lambda ^2}. \t \t(3.4) If \\, Y \\sim \\mathrm{Poi}(\\mu ) \\,, again with \\, \\mu > 0 \\,, then \\displaystyle \\mathbb E[Y] = \\mu , \\quad \\mathbb E[Y^2] = \\mu + \\mu ^2, \\quad \\textsf{Var}(Y) = \\mu (3.5) Now, we can use the rules for expectation and variance to calculate: \\displaystyle \\mathbb E[X^2 + Y^2] = {} \t\\displaystyle \\mathbb E[X^2] + \\mathbb E[Y^2] \\quad \t  \t\\displaystyle \\text {(linearity of expectation)} \t \t  \\displaystyle = {} \t\\displaystyle \\frac{2}{\\lambda ^2} + \\mu + \\mu ^2 \\quad \t  \t  \t \t  \\displaystyle \\mathbb E[X^2 Y] = {} \t\\displaystyle \\mathbb E[X^2] \\mathbb E[Y] \\quad \t  \t\\displaystyle \\text {(multiplicativity of expectation for independent variables)} \t \t  \\displaystyle = {} \t\\displaystyle \\frac{2 \\mu }{\\lambda ^2} \\quad \t  \t  \t \t  \\displaystyle \\textsf{Var}(2X + 3Y) = {} \t\\displaystyle \\textsf{Var}(2 X) + \\textsf{Var}(3 Y) \\quad \t\\displaystyle \\text {(additivity of variance for independent variables)} \t \t  \\displaystyle = {} \t\\displaystyle 2^2 \\textsf{Var}(X) + 3^2 \\textsf{Var}(Y) \\quad \t  \t\\displaystyle \\text {(scaling property of variance)} \t \t  \\displaystyle = {} \t\\displaystyle \\frac{4}{\\lambda ^2} + 9 \\mu"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a05a79-6045-4940-ad7c-51aa293d139d"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/properties 
-{}
-:block/uuid #uuid "64a0642f-cdb8-4340-8fb0-52c6b70d33a8"} 
-{:block/created-at 1688233027663
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke "green"
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 41
-:scale [1 1]
-:pageId "64a0642f-cdb8-4340-8fb0-52c6b70d33a8"
-:scaleLevel "md"
-:fill "green"
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [904 305.0415217876434]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "a6dfeb50-1835-11ee-a16e-a9595e8ec980"
-:noFill false
-:point [5544 16]
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:collapsedHeight 0
-:nonce 1688232920759}}
-:block/updated-at 1688233027663} 
-{:block/created-at 1688233195396
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 42
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "f0a9b090-1835-11ee-a16e-a9595e8ec980"
-:fontWeight 400
-:noFill true
-:point [5973.96 -23.99]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [5.31 0]
-:bindingId "f0a98980-1835-11ee-a16e-a9595e8ec980"}
-:end 
-{:id "end"
-:canBind true
-:point [0 35.99]
-:bindingId "f0a98981-1835-11ee-a16e-a9595e8ec980"}}
-:decorations 
-{:end "arrow"}
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:nonce 1688233044534
-:italic false}}
-:block/updated-at 1688233195396} 
-{:block/content "## Estimators\n Let \\, X_1,\\ldots ,X_ n \\, be i.i.d exponential random variables with parameter \\, \\lambda \\, and let \\, Z_ i= \\mathbf{1}(X_ i\\leq 1), i=1,\\ldots ,n \\,. Recall that \\, {\\color{blue}{\\mathbf{1}(X \\leq 1)}} \\, denotes the indicator function that takes the value \\, 1 \\, when \\, X\\leq 1 \\, and \\, 0 \\, otherwise.\nWhat is the limit in probability, as \\, n \\, goes to infinity, of \\, \\displaystyle \\frac{1}{n}\\sum _{i=1}^ n Z_ i \\,?\n\\, \\displaystyle \\frac{1}{n} \\sum _{i=1}^{n} Z_ i \\xrightarrow [n \\to \\infty ]{\\mathrm{\\mathbf{P}}} \\,"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0642f-cdb8-4340-8fb0-52c6b70d33a8"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/properties 
-{:heading 2}
-:block/uuid #uuid "64a0650d-76fb-44fc-8b00-2da629b23e4f"} 
-{:block/created-at 1688233506056
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 43
-:scale [1 1]
-:pageId "64a0650d-76fb-44fc-8b00-2da629b23e4f"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [896 182.9878538846969]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "540f3f10-1836-11ee-a16e-a9595e8ec980"
-:noFill false
-:point [5552 360]
-:parentId "649df952-8110-496b-afa5-b7cc85bc6de2"
-:collapsedHeight 0
-:nonce 1688233211378}}
-:block/updated-at 1688233506056} 
-{:block/content "Let \\,  X_1,\\ldots ,X_ n \\, be i.i.d exponential random variables with parameter \\,  \\lambda  \\, and let \\,  Z_ i= \\mathbf{1}(X_ i\\leq 1), i=1,\\ldots ,n \\,. Recall that \\,  {\\color{blue}{\\mathbf{1}(X \\leq 1)}}  \\, denotes the **indicator function**  that takes the value \\,  1 \\, when \\,  X\\leq 1 \\, and \\,  0 \\, otherwise."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a06511-de35-4ccc-a3d5-facba28c659d"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0650f-fe58-42b3-a74b-c4df77eb5b8d"} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0650f-fe58-42b3-a74b-c4df77eb5b8d"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0650f-b62a-417f-b754-b35f3cb44374"} 
-{:block/content "What is the limit in probability, as \\,  n \\, goes to infinity, of \\,  \\displaystyle \\frac{1}{n}\\sum _{i=1}^ n Z_ i \\,?"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0650f-b62a-417f-b754-b35f3cb44374"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0650f-d234-4bf1-9c1b-318406850f03"} 
-{:block/content "\\,   \\displaystyle \\frac{1}{n} \\sum _{i=1}^{n} Z_ i \\xrightarrow [n \\to \\infty ]{\\mathrm{\\mathbf{P}}} \\,"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0650f-d234-4bf1-9c1b-318406850f03"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0650f-25a9-4621-a56a-14bb0879aea1"} 
-{:block/content "Let \\,  X_1,\\ldots ,X_ n \\, be i.i.d exponential random variables with parameter \\,  \\lambda  \\, and let \\,  Z_ i= \\mathbf{1}(X_ i\\leq 1), i=1,\\ldots ,n \\,. Recall that \\,  {\\color{blue}{\\mathbf{1}(X \\leq 1)}}  \\, denotes the **indicator function**  that takes the value \\,  1 \\, when \\,  X\\leq 1 \\, and \\,  0 \\, otherwise."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0656e-a20c-486f-9465-4a7074ac9041"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a06511-fd7c-4cb6-b763-fabe160344f7"} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a06511-fd7c-4cb6-b763-fabe160344f7"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a06511-9e7d-4534-8477-15b0c60dfe09"} 
-{:block/content "What is the limit in probability, as \\,  n \\, goes to infinity, of \\,  \\displaystyle \\frac{1}{n}\\sum _{i=1}^ n Z_ i \\,?"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a06511-9e7d-4534-8477-15b0c60dfe09"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a06511-873f-4650-84ba-0cb01def4b85"} 
-{:block/content "\\,   \\displaystyle \\frac{1}{n} \\sum _{i=1}^{n} Z_ i \\xrightarrow [n \\to \\infty ]{\\mathrm{\\mathbf{P}}} \\,"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a06511-873f-4650-84ba-0cb01def4b85"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a06511-de35-4ccc-a3d5-facba28c659d"} 
-{:block/content "Let \\,  X_1,\\ldots ,X_ n \\, be i.i.d exponential random variables with parameter \\,  \\lambda  \\, and let \\,  Z_ i= \\mathbf{1}(X_ i\\leq 1), i=1,\\ldots ,n \\,. Recall that \\,  {\\color{blue}{\\mathbf{1}(X \\leq 1)}}  \\, denotes the **indicator function**  that takes the value \\,  1 \\, when \\,  X\\leq 1 \\, and \\,  0 \\, otherwise."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0650d-76fb-44fc-8b00-2da629b23e4f"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0656e-785e-4537-a94a-d8a6eb1dcb42"} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0656e-785e-4537-a94a-d8a6eb1dcb42"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0656e-0510-4321-b763-4d801ac71261"} 
-{:block/content "What is the limit in probability, as \\,  n \\, goes to infinity, of \\,  \\displaystyle \\frac{1}{n}\\sum _{i=1}^ n Z_ i \\,?"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0656e-0510-4321-b763-4d801ac71261"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0656e-c722-4f73-a58b-f77a373cd57e"} 
-{:block/content "\\,   \\displaystyle \\frac{1}{n} \\sum _{i=1}^{n} Z_ i \\xrightarrow [n \\to \\infty ]{\\mathrm{\\mathbf{P}}} \\,"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "64a0656e-c722-4f73-a58b-f77a373cd57e"}
-:block/parent 
-{:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"}
-:block/uuid #uuid "64a0656e-a20c-486f-9465-4a7074ac9041"})
+:block/updated-at 1688223142422})
 :pages (
 {:block/uuid #uuid "649df952-8110-496b-afa5-b7cc85bc6de2"
 :block/properties 
@@ -2592,14 +1820,6 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
-:19c8a980-182d-11ee-a16e-a9595e8ec980 
-{:id "19c8a980-182d-11ee-a16e-a9595e8ec980"
-:type "line"
-:fromId "19c8d091-182d-11ee-a16e-a9595e8ec980"
-:toId "e0e2bbc0-182b-11ee-a16e-a9595e8ec980"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
 :de04ee01-181c-11ee-80bc-4b7e76eaf2fb 
 {:id "de04ee01-181c-11ee-80bc-4b7e76eaf2fb"
 :type "line"
@@ -2607,14 +1827,6 @@
 :toId "b0c97e10-181c-11ee-80bc-4b7e76eaf2fb"
 :handleId "end"
 :point [0.47 0.5]
-:distance 4}
-:f0a98980-1835-11ee-a16e-a9595e8ec980 
-{:id "f0a98980-1835-11ee-a16e-a9595e8ec980"
-:type "line"
-:fromId "f0a9b090-1835-11ee-a16e-a9595e8ec980"
-:toId "0e7c0650-1830-11ee-a16e-a9595e8ec980"
-:handleId "start"
-:point [0.5 0.5]
 :distance 4}
 :0454eed1-181c-11ee-80bc-4b7e76eaf2fb 
 {:id "0454eed1-181c-11ee-80bc-4b7e76eaf2fb"
@@ -2632,14 +1844,6 @@
 :handleId "end"
 :point [0.45 0.53]
 :distance 4}
-:cc0082f0-182b-11ee-a16e-a9595e8ec980 
-{:id "cc0082f0-182b-11ee-a16e-a9595e8ec980"
-:type "line"
-:fromId "cc00aa00-182b-11ee-a16e-a9595e8ec980"
-:toId "d4181d60-1829-11ee-a16e-a9595e8ec980"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
 :ee119f61-181b-11ee-80bc-4b7e76eaf2fb 
 {:id "ee119f61-181b-11ee-80bc-4b7e76eaf2fb"
 :type "line"
@@ -2647,14 +1851,6 @@
 :toId "bfee32b0-1816-11ee-80bc-4b7e76eaf2fb"
 :handleId "end"
 :point [0.5 0.55]
-:distance 4}
-:cc0082f1-182b-11ee-a16e-a9595e8ec980 
-{:id "cc0082f1-182b-11ee-a16e-a9595e8ec980"
-:type "line"
-:fromId "cc00aa00-182b-11ee-a16e-a9595e8ec980"
-:toId "b38014c0-182b-11ee-a16e-a9595e8ec980"
-:handleId "end"
-:point [0.61 0.57]
 :distance 4}
 :de04ee00-181c-11ee-80bc-4b7e76eaf2fb 
 {:id "de04ee00-181c-11ee-80bc-4b7e76eaf2fb"
@@ -2688,22 +1884,6 @@
 :handleId "start"
 :point [0.87 0]
 :distance 4}
-:f0a98981-1835-11ee-a16e-a9595e8ec980 
-{:id "f0a98981-1835-11ee-a16e-a9595e8ec980"
-:type "line"
-:fromId "f0a9b090-1835-11ee-a16e-a9595e8ec980"
-:toId "a6dfeb50-1835-11ee-a16e-a9595e8ec980"
-:handleId "end"
-:point [0.45 0.51]
-:distance 4}
-:19c8d090-182d-11ee-a16e-a9595e8ec980 
-{:id "19c8d090-182d-11ee-a16e-a9595e8ec980"
-:type "line"
-:fromId "19c8d091-182d-11ee-a16e-a9595e8ec980"
-:toId "0f7aae70-182c-11ee-a16e-a9595e8ec980"
-:handleId "end"
-:point [0.48 0.53]
-:distance 4}
 :fde6a981-181b-11ee-80bc-4b7e76eaf2fb 
 {:id "fde6a981-181b-11ee-80bc-4b7e76eaf2fb"
 :type "line"
@@ -2714,8 +1894,8 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("799b6660-1803-11ee-80bc-4b7e76eaf2fb" "bfee32b0-1816-11ee-80bc-4b7e76eaf2fb" "52f13d00-1817-11ee-80bc-4b7e76eaf2fb" "bd640ff0-1817-11ee-80bc-4b7e76eaf2fb" "63ac44e0-1818-11ee-80bc-4b7e76eaf2fb" "c72693e0-1818-11ee-80bc-4b7e76eaf2fb" "26a59960-1819-11ee-80bc-4b7e76eaf2fb" "72c97b40-1819-11ee-80bc-4b7e76eaf2fb" "d60e1440-1819-11ee-80bc-4b7e76eaf2fb" "1dcb40a0-181a-11ee-80bc-4b7e76eaf2fb" "760c7bd0-181a-11ee-80bc-4b7e76eaf2fb" "95dbcb52-181a-11ee-80bc-4b7e76eaf2fb" "ab76ccd0-181a-11ee-80bc-4b7e76eaf2fb" "0b6adb40-181b-11ee-80bc-4b7e76eaf2fb" "72297fd0-181b-11ee-80bc-4b7e76eaf2fb" "bf63b3b0-181b-11ee-80bc-4b7e76eaf2fb" "ee11c670-181b-11ee-80bc-4b7e76eaf2fb" "f1f457d2-181b-11ee-80bc-4b7e76eaf2fb" "f6aeab92-181b-11ee-80bc-4b7e76eaf2fb" "fde6a982-181b-11ee-80bc-4b7e76eaf2fb" "00d00dd2-181c-11ee-80bc-4b7e76eaf2fb" "0454eed2-181c-11ee-80bc-4b7e76eaf2fb" "b0c97e10-181c-11ee-80bc-4b7e76eaf2fb" "de04ee02-181c-11ee-80bc-4b7e76eaf2fb" "31754ac0-181e-11ee-80bc-4b7e76eaf2fb" "934a9c50-181e-11ee-80bc-4b7e76eaf2fb" "d12989f0-181e-11ee-80bc-4b7e76eaf2fb" "d12989f1-181e-11ee-80bc-4b7e76eaf2fb" "d4181d60-1829-11ee-a16e-a9595e8ec980" "b38014c0-182b-11ee-a16e-a9595e8ec980" "cc00aa00-182b-11ee-a16e-a9595e8ec980" "e0e2bbc0-182b-11ee-a16e-a9595e8ec980" "0f7aae70-182c-11ee-a16e-a9595e8ec980" "19c8d091-182d-11ee-a16e-a9595e8ec980" "2f259090-182d-11ee-a16e-a9595e8ec980" "50b79eb0-182d-11ee-a16e-a9595e8ec980" "b2220e90-182f-11ee-a16e-a9595e8ec980" "b22235a0-182f-11ee-a16e-a9595e8ec980" "c2f46470-182f-11ee-a16e-a9595e8ec980" "c2f46471-182f-11ee-a16e-a9595e8ec980" "0e7c0650-1830-11ee-a16e-a9595e8ec980" "a6dfeb50-1835-11ee-a16e-a9595e8ec980" "f0a9b090-1835-11ee-a16e-a9595e8ec980" "540f3f10-1836-11ee-a16e-a9595e8ec980")}}
-:block/updated-at 1688233506056
+:shapes-index ("799b6660-1803-11ee-80bc-4b7e76eaf2fb" "bfee32b0-1816-11ee-80bc-4b7e76eaf2fb" "52f13d00-1817-11ee-80bc-4b7e76eaf2fb" "bd640ff0-1817-11ee-80bc-4b7e76eaf2fb" "63ac44e0-1818-11ee-80bc-4b7e76eaf2fb" "c72693e0-1818-11ee-80bc-4b7e76eaf2fb" "26a59960-1819-11ee-80bc-4b7e76eaf2fb" "72c97b40-1819-11ee-80bc-4b7e76eaf2fb" "d60e1440-1819-11ee-80bc-4b7e76eaf2fb" "1dcb40a0-181a-11ee-80bc-4b7e76eaf2fb" "760c7bd0-181a-11ee-80bc-4b7e76eaf2fb" "95dbcb52-181a-11ee-80bc-4b7e76eaf2fb" "ab76ccd0-181a-11ee-80bc-4b7e76eaf2fb" "0b6adb40-181b-11ee-80bc-4b7e76eaf2fb" "72297fd0-181b-11ee-80bc-4b7e76eaf2fb" "bf63b3b0-181b-11ee-80bc-4b7e76eaf2fb" "ee11c670-181b-11ee-80bc-4b7e76eaf2fb" "f1f457d2-181b-11ee-80bc-4b7e76eaf2fb" "f6aeab92-181b-11ee-80bc-4b7e76eaf2fb" "fde6a982-181b-11ee-80bc-4b7e76eaf2fb" "00d00dd2-181c-11ee-80bc-4b7e76eaf2fb" "0454eed2-181c-11ee-80bc-4b7e76eaf2fb" "b0c97e10-181c-11ee-80bc-4b7e76eaf2fb" "de04ee02-181c-11ee-80bc-4b7e76eaf2fb" "31754ac0-181e-11ee-80bc-4b7e76eaf2fb" "934a9c50-181e-11ee-80bc-4b7e76eaf2fb" "d12989f0-181e-11ee-80bc-4b7e76eaf2fb" "d12989f1-181e-11ee-80bc-4b7e76eaf2fb")}}
+:block/updated-at 1688223148602
 :block/created-at 1688074578862
 :block/type "whiteboard"
 :block/name "homework 0 fundamentals of statistics"
