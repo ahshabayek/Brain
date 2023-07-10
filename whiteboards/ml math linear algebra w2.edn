@@ -1,12 +1,14 @@
 {:blocks (
-{:block/content "## Systems of equations"
+{:block/content "## Systems of equations\n![image.png](../assets/image_1689022674097_0.png)\n![image.png](../assets/image_1689024615227_0.png)\n![image.png](../assets/image_1689031058147_0.png)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64ab07db-ae54-4328-9592-98724c89fdf4"}
 :block/parent 
 {:block/uuid #uuid "64ab07db-ae54-4328-9592-98724c89fdf4"}
+:block/properties 
+{:heading 2}
 :block/uuid #uuid "64ab277e-959f-40c8-9070-73ee404ab75d"} 
-{:block/created-at 1688938369777
+{:block/created-at 1689031061291
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -22,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 41]
+:size [400 628.0000273164335]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -31,8 +33,44 @@
 :point [104 96]
 :parentId "64ab07db-ae54-4328-9592-98724c89fdf4"
 :collapsedHeight 0
-:nonce 1688938341473}}
-:block/updated-at 1688938369777})
+:nonce 1688938341500}}
+:block/updated-at 1689031061291} 
+{:block/content "## Matrix row reduction.\n![image.png](../assets/image_1689031534804_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64ab277e-959f-40c8-9070-73ee404ab75d"}
+:block/parent 
+{:block/uuid #uuid "64ab07db-ae54-4328-9592-98724c89fdf4"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "64ac936c-dae8-4128-97d7-a3a09400d2a9"} 
+{:block/created-at 1689031537905
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "64ac936c-dae8-4128-97d7-a3a09400d2a9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 243.65623789385327]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "02010830-1f79-11ee-a919-83cb8cda5630"
+:noFill false
+:point [544 120]
+:parentId "64ab07db-ae54-4328-9592-98724c89fdf4"
+:collapsedHeight 0
+:nonce 1689031508027}}
+:block/updated-at 1689031537905})
 :pages (
 {:block/uuid #uuid "64ab07db-ae54-4328-9592-98724c89fdf4"
 :block/properties 
@@ -44,8 +82,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("166989c0-1ea0-11ee-b2bd-ad0a84e4036d")}}
-:block/updated-at 1688938369777
+:shapes-index ("166989c0-1ea0-11ee-b2bd-ad0a84e4036d" "02010830-1f79-11ee-a919-83cb8cda5630")}}
+:block/updated-at 1689031537905
 :block/created-at 1688930267023
 :block/type "whiteboard"
 :block/name "ml math linear algebra w2"
