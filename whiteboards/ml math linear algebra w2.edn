@@ -1,0 +1,52 @@
+{:blocks (
+{:block/content "## Systems of equations"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64ab07db-ae54-4328-9592-98724c89fdf4"}
+:block/parent 
+{:block/uuid #uuid "64ab07db-ae54-4328-9592-98724c89fdf4"}
+:block/uuid #uuid "64ab277e-959f-40c8-9070-73ee404ab75d"} 
+{:block/created-at 1688938369777
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64ab277e-959f-40c8-9070-73ee404ab75d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "166989c0-1ea0-11ee-b2bd-ad0a84e4036d"
+:noFill false
+:point [104 96]
+:parentId "64ab07db-ae54-4328-9592-98724c89fdf4"
+:collapsedHeight 0
+:nonce 1688938341473}}
+:block/updated-at 1688938369777})
+:pages (
+{:block/uuid #uuid "64ab07db-ae54-4328-9592-98724c89fdf4"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64ab07db-ae54-4328-9592-98724c89fdf4"
+:name "ml math linear algebra w2"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("166989c0-1ea0-11ee-b2bd-ad0a84e4036d")}}
+:block/updated-at 1688938369777
+:block/created-at 1688930267023
+:block/type "whiteboard"
+:block/name "ml math linear algebra w2"
+:block/original-name "ml math linear algebra w2"})}
