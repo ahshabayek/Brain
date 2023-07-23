@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "## Norm of a vector\n![image.png](../assets/image_1689717805733_0.png)\n![image.png](../assets/image_1689717948112_0.png)\n![image.png](../assets/image_1690018951785_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64b7063d-394f-4f01-9ff2-de6a501f462f"}
+:block/parent 
+{:block/uuid #uuid "64b7063d-394f-4f01-9ff2-de6a501f462f"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "64b70c2b-a4ee-447a-9482-70f5e8dc1d26"} 
+{:block/created-at 1690018953614
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64b70c2b-a4ee-447a-9482-70f5e8dc1d26"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 637.359373137516]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e545da60-25b6-11ee-8bf3-a7a741849c6b"
+:noFill false
+:point [232 296]
+:parentId "64b7063d-394f-4f01-9ff2-de6a501f462f"
+:collapsedHeight 0
+:nonce 1689717795612}}
+:block/updated-at 1690018953614})
+:pages (
+{:block/uuid #uuid "64b7063d-394f-4f01-9ff2-de6a501f462f"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64b7063d-394f-4f01-9ff2-de6a501f462f"
+:name "ml math linear algebra w3"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("e545da60-25b6-11ee-8bf3-a7a741849c6b")}}
+:block/updated-at 1690018953614
+:block/created-at 1689716285090
+:block/type "whiteboard"
+:block/name "ml math linear algebra w3"
+:block/original-name "ml math linear algebra w3"})}
