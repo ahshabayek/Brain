@@ -71,7 +71,7 @@
 :collapsedHeight 0
 :nonce 1690134871508}}
 :block/updated-at 1690135139468} 
-{:block/content "## multiplying a matrix by a vector\n![image.png](../assets/image_1690135338223_0.png)"
+{:block/content "## multiplying a matrix by a vector\n![image.png](../assets/image_1690135338223_0.png)\n![image.png](../assets/image_1690135366231_0.png)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64bd6969-054c-4262-ac33-fbf090c6ab27"}
@@ -80,7 +80,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "64bd6ad4-f87a-489f-9dd8-f518d8ec43c5"} 
-{:block/created-at 1690135340532
+{:block/created-at 1690135369612
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -96,7 +96,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 255.40624068715113]
+:size [400 447.8124895854343]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -105,8 +105,44 @@
 :point [-48 984]
 :parentId "64b7063d-394f-4f01-9ff2-de6a501f462f"
 :collapsedHeight 0
-:nonce 1690135222128}}
-:block/updated-at 1690135340532})
+:nonce 1690135222135}}
+:block/updated-at 1690135369612} 
+{:block/content "## Matrices as Linear transformations\n![image.png](../assets/image_1690142573082_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bd6ad4-f87a-489f-9dd8-f518d8ec43c5"}
+:block/parent 
+{:block/uuid #uuid "64b7063d-394f-4f01-9ff2-de6a501f462f"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "64bd8370-d13b-4b98-ba10-d797ab1b5ea9"} 
+{:block/created-at 1690142575370
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "64bd8370-d13b-4b98-ba10-d797ab1b5ea9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 297.34374881167565]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "73fb7480-2991-11ee-ab1f-c7cf24efaafe"
+:noFill false
+:point [496 1008]
+:parentId "64b7063d-394f-4f01-9ff2-de6a501f462f"
+:collapsedHeight 0
+:nonce 1690141518807}}
+:block/updated-at 1690142575370})
 :pages (
 {:block/uuid #uuid "64b7063d-394f-4f01-9ff2-de6a501f462f"
 :block/properties 
@@ -118,8 +154,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("e545da60-25b6-11ee-8bf3-a7a741849c6b" "f9e098b0-2981-11ee-ab1f-c7cf24efaafe" "cadf1950-2982-11ee-ab1f-c7cf24efaafe")}}
-:block/updated-at 1690135340532
+:shapes-index ("e545da60-25b6-11ee-8bf3-a7a741849c6b" "f9e098b0-2981-11ee-ab1f-c7cf24efaafe" "cadf1950-2982-11ee-ab1f-c7cf24efaafe" "73fb7480-2991-11ee-ab1f-c7cf24efaafe")}}
+:block/updated-at 1690142575370
 :block/created-at 1689716285090
 :block/type "whiteboard"
 :block/name "ml math linear algebra w3"
