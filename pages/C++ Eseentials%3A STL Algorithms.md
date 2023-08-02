@@ -1,0 +1,10 @@
+- The STL in a nutshell:
+	- Containers: implementation of data collections.
+	- Algorithms: work on data contained in containers.
+	- Iterators: The glue between containers and algorithms.(the abstraction layer)
+	- Function Objects: provide flexibility and customizability.
+	- Adapters: adapting the basic containers to special ones.
+	- Allocators : Generalization and customization of memory allocation.
+-
+- No Raw loops:
+	-
