@@ -1,8 +1,8 @@
 - What is discrete optimization:
 	- search Algorithms:
 	- Traveling salesman problem
-		- shortest path across many points.
+		- shortest path across many points
 -
 -
 -
--
+- Discrete optimizations coursera.

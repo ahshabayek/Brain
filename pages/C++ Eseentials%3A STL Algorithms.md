@@ -7,4 +7,11 @@
 	- Allocators : Generalization and customization of memory allocation.
 -
 - No Raw loops:
+	- which
+- Increments
+	- prefix: ++iter
+	- Postfix: iter++  returns a copy, high cost
+	- alittle like pointer
+	- an iterator is a pointer one way relationship.
 	-
+-
