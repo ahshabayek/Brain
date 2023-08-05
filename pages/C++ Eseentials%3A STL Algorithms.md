@@ -34,7 +34,7 @@
 	- boolean return functions named as a question
 	- why braces instead of brackets ? recommended.
 	- std::partition() and stable_partition which preserves previous order.
-	-
+	- std::accumulate()
 - C++ webtools:
 	- cppinsights.io
 	-
