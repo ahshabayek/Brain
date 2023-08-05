@@ -7,7 +7,8 @@
 	- Allocators : Generalization and customization of memory allocation.
 -
 - No Raw loops:
-	- which
+	- when using range loop pair with auto reference.
+	-
 - Increments
 	- prefix: ++iter
 	- Postfix: iter++  returns a copy, high cost
