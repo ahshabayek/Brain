@@ -35,7 +35,7 @@
 :collapsedHeight 0
 :nonce 1691270774011}}
 :block/updated-at 1691270817456} 
-{:block/content "## rank of Linear transformations:\n![image.png](../assets/image_1691271333337_0.png)\n![image.png](../assets/image_1691271590886_0.png)\n![image.png](../assets/image_1691271676416_0.png)"
+{:block/content "## rank of Linear transformations:\n![image.png](../assets/image_1691271333337_0.png)\n![image.png](../assets/image_1691271590886_0.png)\n![image.png](../assets/image_1691271676416_0.png)\n![image.png](../assets/image_1691271809783_0.png)\n![image.png](../assets/image_1691311362639_0.png)\n![image.png](../assets/image_1691311485822_0.png)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64cebe81-912a-434c-956b-fd4915d98d48"}
@@ -44,7 +44,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "64cec0a3-ee79-4d93-a40b-86c041b382ff"} 
-{:block/created-at 1691271677169
+{:block/created-at 1691311497401
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -60,17 +60,17 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 640.2890625]
+:size [400 1217.578125]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "ec322ac0-33d7-11ee-906d-af763cac2a87"
 :noFill false
-:point [704 264]
+:point [640 88]
 :parentId "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :collapsedHeight 0
-:nonce 1691271296896}}
-:block/updated-at 1691271677169})
+:nonce 1691271297009}}
+:block/updated-at 1691311497401})
 :pages (
 {:block/uuid #uuid "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :block/properties 
@@ -83,7 +83,7 @@
 :nonce 1
 :assets []
 :shapes-index ("b4899f00-33d6-11ee-906d-af763cac2a87" "ec322ac0-33d7-11ee-906d-af763cac2a87")}}
-:block/updated-at 1691271677169
+:block/updated-at 1691315379332
 :block/created-at 1691270727930
 :block/type "whiteboard"
 :block/name "ml math linear algebra w4"
