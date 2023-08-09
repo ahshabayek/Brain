@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1691436636269
+{:block/created-at 1691526110413
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -16,7 +16,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [188 307.22270879596425]
+:size [188 307.2226676478191]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -26,8 +26,8 @@
 :point [128 504]
 :parentId "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :collapsedHeight 0
-:nonce 1688502606032}}
-:block/updated-at 1691436636269} 
+:nonce 1688502606034}}
+:block/updated-at 1691526110413} 
 {:block/created-at 1691319123624
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -378,7 +378,7 @@
 :nonce 1691319077504
 :isComplete true}}
 :block/updated-at 1691319089730} 
-{:block/created-at 1691436636247
+{:block/created-at 1691526110406
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -394,7 +394,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 1217.5780579437617]
+:size [400 1217.5781402400519]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -403,8 +403,8 @@
 :point [640 88]
 :parentId "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :collapsedHeight 0
-:nonce 1691271297015}}
-:block/updated-at 1691436636247} 
+:nonce 1691271297017}}
+:block/updated-at 1691526110406} 
 {:block/created-at 1691319171275
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -519,7 +519,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "64cebe81-912a-434c-956b-fd4915d98d48"} 
-{:block/content "## Basis in LInear Algebra\nwhat is a basis? what is a span?\nbasis is a minimal spaning set.\n![image.png](../assets/image_1691437007492_0.png)"
+{:block/content "## Basis in LInear Algebra\nwhat is a basis? what is a span?\nbasis is a minimal spaning set.\n![image.png](../assets/image_1691437007492_0.png)\n![image.png](../assets/image_1691526115070_0.png)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64cec0a3-ee79-4d93-a40b-86c041b382ff"}
@@ -528,7 +528,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "64d14676-0233-4599-a5db-a1c29dc35eef"} 
-{:block/created-at 1691437011315
+{:block/created-at 1691526118238
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -544,7 +544,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 299.99211558826335]
+:size [400 494.57807279892813]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -553,8 +553,8 @@
 :point [184 1152]
 :parentId "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :collapsedHeight 0
-:nonce 1691436640096}}
-:block/updated-at 1691437011315})
+:nonce 1691436640105}}
+:block/updated-at 1691526118238})
 :pages (
 {:block/uuid #uuid "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :block/properties 
@@ -567,7 +567,7 @@
 :nonce 1
 :assets []
 :shapes-index ("b4899f00-33d6-11ee-906d-af763cac2a87" "ec322ac0-33d7-11ee-906d-af763cac2a87" "0eee3a80-3447-11ee-bbc8-cb9233d14d77" "29c91370-3447-11ee-bbc8-cb9233d14d77" "2a4680d0-3447-11ee-bbc8-cb9233d14d77" "2b6f2250-3447-11ee-bbc8-cb9233d14d77" "2ba9ba50-3447-11ee-bbc8-cb9233d14d77" "324f6350-3447-11ee-bbc8-cb9233d14d77" "3ac81ea0-3447-11ee-bbc8-cb9233d14d77" "3cf4c2a0-3447-11ee-bbc8-cb9233d14d77" "3d312f60-3447-11ee-bbc8-cb9233d14d77" "3ed6f020-3447-11ee-bbc8-cb9233d14d77" "3efc0450-3447-11ee-bbc8-cb9233d14d77" "3f35b1f0-3447-11ee-bbc8-cb9233d14d77" "3f905510-3447-11ee-bbc8-cb9233d14d77" "3fb987f0-3447-11ee-bbc8-cb9233d14d77" "3fe10d20-3447-11ee-bbc8-cb9233d14d77" "46902c00-3447-11ee-bbc8-cb9233d14d77" "473b6020-3447-11ee-bbc8-cb9233d14d77" "477a16d0-3447-11ee-bbc8-cb9233d14d77" "63462d90-3447-11ee-bbc8-cb9233d14d77" "63be43c0-3447-11ee-bbc8-cb9233d14d77" "da986290-344d-11ee-bbc8-cb9233d14d77" "e46cbdf0-3558-11ee-8d7f-01055de5f4b5")}}
-:block/updated-at 1691437011315
+:block/updated-at 1691526118237
 :block/created-at 1691270727930
 :block/type "whiteboard"
 :block/name "ml math linear algebra w4"
