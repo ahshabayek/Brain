@@ -1,0 +1,9 @@
+- -O0 all optimization off
+- Overloading v.s Template:
+	- same behavior different types:template
+	- overload different types different implementations.
+	- templates sre a compile time/ static polymorphiosim
+	- dynamic polymorphsim
+- one Definition Rule:
+	- uses the first encountered definition
+	-

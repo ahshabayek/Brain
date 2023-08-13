@@ -37,4 +37,7 @@
 	- std::accumulate()
 - C++ webtools:
 	- cppinsights.io
+	- wandbox.org
+	- godbolt.org
+	-
 	-
