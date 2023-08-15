@@ -3,4 +3,6 @@
 - ML project lifecycle: proof of concept.
 - DVC: data versioning
 - ![courseintro1689623628102.pdf](../assets/courseintro1689623628102_1691426697899_0.pdf)
+- pip freeze > requirements.txt
+-
 -
