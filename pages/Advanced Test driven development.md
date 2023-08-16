@@ -1,3 +1,15 @@
 - cleancode.com
 - Not alone to write any production code before writing the test.
   id:: 64dc8096-b354-4337-90a4-a4249e6265ad
+- you are not allowed to write more of a unit test than is sufficient to fail.
+- you are not to allowed to write more production code than is sufficient to cause currently failing tests to pass.
+- forces decoupling of code
+- enforces documentation
+- easier to make production ready changes faster
+- we all write bad code
+- to clean up code
+- as many threads for test as in code.
+- ((64dc8096-b354-4337-90a4-a4249e6265ad))((64dc8096-b354-4337-90a4-a4249e6265ad))((64dc8096-b354-4337-90a4-a4249e6265ad))
+- race conditions dont work well with them
+- jitter tests: run multiple executables together
+- functions that return nothing :
