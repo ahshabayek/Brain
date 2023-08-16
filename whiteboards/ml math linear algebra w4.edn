@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1691526110413
+{:block/created-at 1692215273896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -16,7 +16,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [188 307.2226676478191]
+:size [188 307.22266201789495]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -26,8 +26,8 @@
 :point [128 504]
 :parentId "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :collapsedHeight 0
-:nonce 1688502606034}}
-:block/updated-at 1691526110413} 
+:nonce 1688502606037}}
+:block/updated-at 1692215273896} 
 {:block/created-at 1691319123624
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -79,7 +79,7 @@
 :nonce 1691319109676
 :isComplete true}}
 :block/updated-at 1691319110801} 
-{:block/created-at 1691436636242
+{:block/created-at 1692215273884
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -95,7 +95,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 279.42968795597886]
+:size [400 279.42969519959473]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -104,8 +104,8 @@
 :point [184 232]
 :parentId "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :collapsedHeight 0
-:nonce 1691270774017}}
-:block/updated-at 1691436636242} 
+:nonce 1691270774020}}
+:block/updated-at 1692215273884} 
 {:block/created-at 1691319077849
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -189,6 +189,33 @@
 :nonce 1691319170811
 :isComplete true}}
 :block/updated-at 1691319172252} 
+{:block/created-at 1692215569148
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 23
+:scale [1 1]
+:pageId "64d14676-0233-4599-a5db-a1c29dc35eef"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 494.5780036993562]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e46cbdf0-3558-11ee-8d7f-01055de5f4b5"
+:noFill false
+:point [184 1152]
+:parentId "64cebe47-763a-416c-807c-fbb9b73b8b4e"
+:collapsedHeight 0
+:nonce 1691436640111}}
+:block/updated-at 1692215569148} 
 {:block/created-at 1691319111818
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -294,6 +321,15 @@
 :nonce 1691319106914
 :isComplete true}}
 :block/updated-at 1691319110247} 
+{:block/content "## Basis in LInear Algebra\nwhat is a basis? what is a span?\nbasis is a minimal spaning set.\n![image.png](../assets/image_1691437007492_0.png)\n![image.png](../assets/image_1691526115070_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64cec0a3-ee79-4d93-a40b-86c041b382ff"}
+:block/parent 
+{:block/uuid #uuid "64cebe47-763a-416c-807c-fbb9b73b8b4e"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "64d14676-0233-4599-a5db-a1c29dc35eef"} 
 {:block/created-at 1691319107275
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -378,7 +414,7 @@
 :nonce 1691319077504
 :isComplete true}}
 :block/updated-at 1691319089730} 
-{:block/created-at 1691526110406
+{:block/created-at 1692215273890
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -394,7 +430,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 1217.5781402400519]
+:size [400 1217.578015648462]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -403,8 +439,8 @@
 :point [640 88]
 :parentId "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :collapsedHeight 0
-:nonce 1691271297017}}
-:block/updated-at 1691526110406} 
+:nonce 1691271297020}}
+:block/updated-at 1692215273890} 
 {:block/created-at 1691319171275
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -519,16 +555,16 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "64cebe81-912a-434c-956b-fd4915d98d48"} 
-{:block/content "## Basis in LInear Algebra\nwhat is a basis? what is a span?\nbasis is a minimal spaning set.\n![image.png](../assets/image_1691437007492_0.png)\n![image.png](../assets/image_1691526115070_0.png)"
+{:block/content "## Eigen vectors and values\n![image.png](../assets/image_1692215666344_0.png)\n![image.png](../assets/image_1692215723953_0.png)"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "64cec0a3-ee79-4d93-a40b-86c041b382ff"}
+{:block/uuid #uuid "64d14676-0233-4599-a5db-a1c29dc35eef"}
 :block/parent 
 {:block/uuid #uuid "64cebe47-763a-416c-807c-fbb9b73b8b4e"}
 :block/properties 
 {:heading 2}
-:block/uuid #uuid "64d14676-0233-4599-a5db-a1c29dc35eef"} 
-{:block/created-at 1691526118238
+:block/uuid #uuid "64dd292a-9661-4098-95fc-2083346cc445"} 
+{:block/created-at 1692215725367
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -536,25 +572,25 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 23
+:index 24
 :scale [1 1]
-:pageId "64d14676-0233-4599-a5db-a1c29dc35eef"
+:pageId "64dd292a-9661-4098-95fc-2083346cc445"
 :scaleLevel "md"
 :fill ""
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 494.57807279892813]
+:size [400 451.34364852920277]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "e46cbdf0-3558-11ee-8d7f-01055de5f4b5"
+:id "7d0da760-3c6e-11ee-84a1-63dbff839127"
 :noFill false
-:point [184 1152]
+:point [648 1368]
 :parentId "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :collapsedHeight 0
-:nonce 1691436640105}}
-:block/updated-at 1691526118238})
+:nonce 1692215573742}}
+:block/updated-at 1692215725367})
 :pages (
 {:block/uuid #uuid "64cebe47-763a-416c-807c-fbb9b73b8b4e"
 :block/properties 
@@ -566,8 +602,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("b4899f00-33d6-11ee-906d-af763cac2a87" "ec322ac0-33d7-11ee-906d-af763cac2a87" "0eee3a80-3447-11ee-bbc8-cb9233d14d77" "29c91370-3447-11ee-bbc8-cb9233d14d77" "2a4680d0-3447-11ee-bbc8-cb9233d14d77" "2b6f2250-3447-11ee-bbc8-cb9233d14d77" "2ba9ba50-3447-11ee-bbc8-cb9233d14d77" "324f6350-3447-11ee-bbc8-cb9233d14d77" "3ac81ea0-3447-11ee-bbc8-cb9233d14d77" "3cf4c2a0-3447-11ee-bbc8-cb9233d14d77" "3d312f60-3447-11ee-bbc8-cb9233d14d77" "3ed6f020-3447-11ee-bbc8-cb9233d14d77" "3efc0450-3447-11ee-bbc8-cb9233d14d77" "3f35b1f0-3447-11ee-bbc8-cb9233d14d77" "3f905510-3447-11ee-bbc8-cb9233d14d77" "3fb987f0-3447-11ee-bbc8-cb9233d14d77" "3fe10d20-3447-11ee-bbc8-cb9233d14d77" "46902c00-3447-11ee-bbc8-cb9233d14d77" "473b6020-3447-11ee-bbc8-cb9233d14d77" "477a16d0-3447-11ee-bbc8-cb9233d14d77" "63462d90-3447-11ee-bbc8-cb9233d14d77" "63be43c0-3447-11ee-bbc8-cb9233d14d77" "da986290-344d-11ee-bbc8-cb9233d14d77" "e46cbdf0-3558-11ee-8d7f-01055de5f4b5")}}
-:block/updated-at 1691526118237
+:shapes-index ("b4899f00-33d6-11ee-906d-af763cac2a87" "ec322ac0-33d7-11ee-906d-af763cac2a87" "0eee3a80-3447-11ee-bbc8-cb9233d14d77" "29c91370-3447-11ee-bbc8-cb9233d14d77" "2a4680d0-3447-11ee-bbc8-cb9233d14d77" "2b6f2250-3447-11ee-bbc8-cb9233d14d77" "2ba9ba50-3447-11ee-bbc8-cb9233d14d77" "324f6350-3447-11ee-bbc8-cb9233d14d77" "3ac81ea0-3447-11ee-bbc8-cb9233d14d77" "3cf4c2a0-3447-11ee-bbc8-cb9233d14d77" "3d312f60-3447-11ee-bbc8-cb9233d14d77" "3ed6f020-3447-11ee-bbc8-cb9233d14d77" "3efc0450-3447-11ee-bbc8-cb9233d14d77" "3f35b1f0-3447-11ee-bbc8-cb9233d14d77" "3f905510-3447-11ee-bbc8-cb9233d14d77" "3fb987f0-3447-11ee-bbc8-cb9233d14d77" "3fe10d20-3447-11ee-bbc8-cb9233d14d77" "46902c00-3447-11ee-bbc8-cb9233d14d77" "473b6020-3447-11ee-bbc8-cb9233d14d77" "477a16d0-3447-11ee-bbc8-cb9233d14d77" "63462d90-3447-11ee-bbc8-cb9233d14d77" "63be43c0-3447-11ee-bbc8-cb9233d14d77" "da986290-344d-11ee-bbc8-cb9233d14d77" "e46cbdf0-3558-11ee-8d7f-01055de5f4b5" "7d0da760-3c6e-11ee-84a1-63dbff839127")}}
+:block/updated-at 1692215725367
 :block/created-at 1691270727930
 :block/type "whiteboard"
 :block/name "ml math linear algebra w4"
