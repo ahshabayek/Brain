@@ -22,4 +22,9 @@
 	- data split
 		- Evaluate
 		- Train
+- a sequence of python or Jupyter
+- once all pipeline is ready exec like such
+	- ``` pipline
+	  dvc exp run -S train.params.n_estimators=120
+	  ```
 -
