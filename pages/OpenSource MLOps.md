@@ -28,4 +28,15 @@
 	  dvc exp run -S train.params.n_estimators=120
 	  ```
 - dvc dag: dag = directed acyclic graph
+- dvc exp run : run the experiment .
+- dvc lock file: ensures reproducability of runs.
+- ```experiment
+  dvc exp run -S data_split.test_size=0.2
+  ```
+- ```experiment
+  k
+  ```
+- --queue queues all experiments that will run with the same parameter
+- run all option to run all experiments .
+- dvc exp show
 -
