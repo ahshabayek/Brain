@@ -4,5 +4,22 @@
 - DVC: data versioning
 - ![courseintro1689623628102.pdf](../assets/courseintro1689623628102_1691426697899_0.pdf)
 - pip freeze > requirements.txt
+- https://ritza.co/articles/dvc-s3-set-up-s3-as-dvc-remote/
 -
+- MLOPS Goals
+	- Achieve best performance
+	- Ensure reproducibility
+		- transparency and team collabration
+		- audits
+	- Minimal setup and dependcy of 3rd party services
+		- vendor lock in
+		- maintence cost
+		- security
+- DVC helps ensure versioning of everything dataset models other artifacts
+- DVC pipeline
+	- data_load
+	- featurize
+	- data split
+		- Evaluate
+		- Train
 -
