@@ -27,4 +27,5 @@
 	- ``` pipline
 	  dvc exp run -S train.params.n_estimators=120
 	  ```
+- dvc dag: dag = directed acyclic graph
 -
