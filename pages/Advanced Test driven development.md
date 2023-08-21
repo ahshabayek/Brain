@@ -17,3 +17,15 @@
 	- Arrange: setup
 	- Act: single act rule
 	- Assert: multiple asserts from 1 action
+- Problems:
+	- accidental complexity.
+	- too slow: in asystem is a hinderence.
+	- wide scope
+	- colloquialisms: test data should be enough to carry out intent of test.
+- solutions for good test:
+	- one logical assert
+	- no accidental  complexity
+	- fast
+	- narrow scope
+	- meaningful values.
+-
