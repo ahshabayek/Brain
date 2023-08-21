@@ -28,4 +28,40 @@
 	- fast
 	- narrow scope
 	- meaningful values.
+- composed test result: may only want to know if test result worked properly but not the details.
+- Stubbing vs Mocking( endo testing)
+	- idea of mock object.
+	- test double stands in for the actual object for testing
+	- test double derives from interface.
+	- dummy do nothing return degenerate values.
+		- int then 0, bool then false
+		- allow you to call a function that requires an argument untouched by your test.
+		- why? if real object requires complex construction.
+	- a Stub is a dummy. they also do nothing but return test needed values.
+	- drive system through tested pathway
+	- Spy is a stub with a memory. A programmable stubs
+	- not all spies are stubs
+	- validate if a function is called correctly
+	  id:: 64e3715b-e61f-4140-b29f-be66c5a04dcf
+	- Mock Object: is a spy , returns values monitors functions. but also expects values
+	- this means it asserts expectations
+	- pass input authenticator and expectation
+	- when you spy you couple to implementation.
+	- stub and spy are easy.
+- The FAke
+	- a simulator. has business rules.
+	- Fakes grow bigger with time. to a point that might need their own test.
+	- TDD uncertainty principle.
+	- stubs dnt break when implementation is changed.
+- 2 ways
+  id:: 64e374e1-c1e2-441b-81e5-a2aecec750fa
+	- Chicago:
+		- by return values
+		- less certainty of input combination but more robust
+	- LOndon
+		- by implementation.
+		- tests are more certain. but more fragile
+	- in a component dnt use spies.
+	- between components and architectural boundaries use spies.
+- repple: write and execute code directly.
 -
