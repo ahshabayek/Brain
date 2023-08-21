@@ -65,4 +65,7 @@
 	- between components and architectural boundaries use spies.
 - repple: write and execute code directly.
 - data driven test.
--
+- Test Design:
+	- fragile test  problem: coupled to low level interfaces
+	- Decouple the structure.
+	-
