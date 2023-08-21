@@ -1,2 +1,4 @@
 - Week 1:
-	-
+	- Introduction to derviates:
+		- velocity as an example.
+		- instantaneous velocity, derivative is the instantaneous rate of change.
