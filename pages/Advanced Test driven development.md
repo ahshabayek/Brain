@@ -13,3 +13,7 @@
 - race conditions dont work well with them
 - jitter tests: run multiple executables together
 - functions that return nothing :
+- THree A rule:
+	- Arrange: setup
+	- Act: single act rule
+	- Assert: multiple asserts from 1 action
