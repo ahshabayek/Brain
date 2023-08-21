@@ -64,4 +64,5 @@
 	- in a component dnt use spies.
 	- between components and architectural boundaries use spies.
 - repple: write and execute code directly.
+- data driven test.
 -
