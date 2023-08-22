@@ -95,6 +95,7 @@
 			- add all junk to setup. the union for all test function.
 			- this can get ugly with huge setup
 			- each will then have setup and teardown.
-	-
+	- dnt test through gui
+	- testing api without gui
 	-
 	-
