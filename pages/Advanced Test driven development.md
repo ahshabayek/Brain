@@ -68,4 +68,7 @@
 - Test Design:
 	- fragile test  problem: coupled to low level interfaces
 	- Decouple the structure.
+		- dnt create a test class for each production code class.
+		- shouldnt test every class explicitly but public APIs.
+		-
 	-
