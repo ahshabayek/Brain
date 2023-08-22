@@ -68,7 +68,33 @@
 - Test Design:
 	- fragile test  problem: coupled to low level interfaces
 	- Decouple the structure.
-		- dnt create a test class for each production code class.
+		- Naive structure :dnt create a test class for each production code class.
 		- shouldnt test every class explicitly but public APIs.
-		-
+		- extract  class: extract functions/ methods specially private one
+		- App class becomes an API a Facade.
+		- test grow more specific while code become more abstract.
+	- Code and Test diverge in design.
+	- F.I.R.S.T
+		- Fast: test runs <1 second
+		- Isolated fault clearly isolated
+		- Repeatable: constant behavior, in all different contexts/ enviroments
+		- Self verifying: pass or fail , no interpretation required
+		- Timely: 1 code change 1 test, tests come first, developed refactored optimized.
+	- Test Patterns:
+		- test specific subclass.
+			- safe specific class for test(mock or spy)
+		- Self Shunt
+			- create a spy without creating a new class.
+			- derive class from test double and implement the changes.
+		- Humble object
+			- Hardware boundary: leave computer boundary
+			- no answer to question ex: CSS
+			- close to physical boundary, create a driver as stupid as possible by creating a data formater and a data structure.
+			- test data formater and data structure no need to test driver.
+		- Hierarchical tests: Junit
+			- add all junk to setup. the union for all test function.
+			- this can get ugly with huge setup
+			- each will then have setup and teardown.
+	-
+	-
 	-
