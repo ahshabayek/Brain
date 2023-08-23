@@ -30,4 +30,12 @@
   }
   ```
 - Inheritance( dynamic polymorphisim) and templates(static polymorphisim) dont combine different paradigms. virtual and template dnt mix.
--
+- explicit instantiation function_name<type>();
+- preferable to use without explicit instantiation.
+- order matters when wanting to define explicitly
+- trailing return type
+	- ```trailing return
+	  auto function() -> int
+	  
+	  auto function2() -> std::common_type<T,U>::type
+	  ```
