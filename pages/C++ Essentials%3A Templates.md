@@ -29,4 +29,5 @@
   
   }
   ```
-- this work with
+- Inheritance( dynamic polymorphisim) and templates(static polymorphisim) dont combine different paradigms. virtual and template dnt mix.
+-
