@@ -65,3 +65,9 @@
 - ```empty check
   if constexpr(sizeof...(Ts)> 0) //C++17
   ```
+- ```fold expressions
+  (os<<...<<values);//fold expression(C++17)
+  ```
+- fold only for operators except ., -> , []
+- (...+values);// left to right, doesnt work with 0 parameters
+- values+...);// right to left;
