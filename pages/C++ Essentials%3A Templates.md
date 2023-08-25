@@ -39,3 +39,25 @@
 	  
 	  auto function2() -> std::common_type<T,U>::type
 	  ```
+- typename std::common_type<T,U>::type : return type changes.
+- just auto works as return type since c++14 return type deduction
+- doesnt work when we have different possible return types.
+- use Conditional operator: a<b? b:a . as its an expression. which has a type. by determining the common type.
+- SFINAE(substitution Failure is not an error)
+- overload template functions
+- function template instantiation  or specialization. might have collision in overloads.
+	- they are second class citizens template function needs to be considered then branch to specialization if possible . function overloading is better.
+- C++20 concept : 
+  ```requires
+  template<typename T>
+  requires std::integral<T> ||std::floating_point<T>
+  ```
+- vardic templates:
+	- ```vardic
+	  template< typename T,typename... Ts> //parameter pack
+	  void function(int x, const T& value, const Ts&... values)
+	  {
+	  function(x, values...)//Tail recursion
+	  }
+	  ```
+- packs come last
