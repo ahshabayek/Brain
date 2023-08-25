@@ -41,6 +41,7 @@
 	  ```
 - typename std::common_type<T,U>::type : return type changes.
 - just auto works as return type since c++14 return type deduction
+	-
 - doesnt work when we have different possible return types.
 - use Conditional operator: a<b? b:a . as its an expression. which has a type. by determining the common type.
 - SFINAE(substitution Failure is not an error)
@@ -61,3 +62,6 @@
 	  }
 	  ```
 - packs come last
+- ```empty check
+  if constexpr(sizeof...(Ts)> 0) //C++17
+  ```
