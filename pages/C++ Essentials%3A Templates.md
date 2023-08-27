@@ -86,4 +86,9 @@
 - a constructor to allow initial size, explicit for single value constructor
 - sts::unitialized_fill(begin(), end(), Type{})
 - on demand instantiation
+- prefixing name with class name
+- auto classname<>::() -> membername;
+- c++ templates the complete guide
+- walter brown
+- back to basics
 -
