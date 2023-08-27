@@ -79,3 +79,11 @@
 - tail recursion with overloading insures when called there is more values otherwise the others are called. can be still merged in one function.
 - the majority of inputs types is the one picked.
 - sixeof((Ts...) to get a pack of sizes
+- fundmental types are not intiallized,
+- class types are intialized.
+- non type template parameter. used for instantiation
+- store a srd::byte array[Capacity*sizeoftype(types)] to create without instantiation.
+- a constructor to allow initial size, explicit for single value constructor
+- sts::unitialized_fill(begin(), end(), Type{})
+- on demand instantiation
+-
