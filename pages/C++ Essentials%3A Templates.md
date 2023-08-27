@@ -71,4 +71,11 @@
 - fold only for operators except ., -> , []
 - (...+values);// left to right, doesnt work with 0 parameters
 - values+...);// right to left;
--
+- silience return with a void; (void)(function);
+- paranthersis are a must with foldable expressions.
+- fold expressions are muuuuuch better on compile time.
+- constexpr function is compile time;
+- -> typeneame std::common_type<T1,T2,Ts...>::type
+- tail recursion with overloading insures when called there is more values otherwise the others are called. can be still merged in one function.
+- the majority of inputs types is the one picked.
+- sixeof((Ts...) to get a pack of sizes
