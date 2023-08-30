@@ -39,4 +39,11 @@
 - --queue queues all experiments that will run with the same parameter
 - run all option to run all experiments .
 - dvc exp show
--
+- CI/CD for ML
+	- CML: continuous machine learning
+		- command line tool
+		- github actions:
+			- yaml files defined in a special directory , tells workflows when to runs
+	- Common Problems:
+	- dvc repro
+	-
