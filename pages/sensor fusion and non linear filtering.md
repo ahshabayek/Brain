@@ -1,0 +1,5 @@
+- using a sequence of noisy observations from one or more sensors to better estimate unknown quantity(state) and associated  uncertainty measures at the time.
+- prediction (predicted position)and motion model. old information shows what we knew. update with current information and update prediction adding uncertainty measures.
+- repeat and keep updating information.
+- Tracking vehicles:
+	-

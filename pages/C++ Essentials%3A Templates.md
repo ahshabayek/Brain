@@ -88,7 +88,8 @@
 - on demand instantiation
 - prefixing name with class name
 - auto classname<>::() -> membername;
-- c++ templates the complete guide
-- walter brown
-- back to basics
+- recommendations
+	- c++ templates the complete guide
+	- walter brown
+	- back to basics
 -
