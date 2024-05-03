@@ -1,0 +1,17 @@
+- ![SmartSelect_20230218_203422_Coursera.jpg](../assets/SmartSelect_20230218_203422_Coursera_1676807773999_0.jpg) ![SmartSelect_20230218_204208_Coursera.jpg](../assets/SmartSelect_20230218_204208_Coursera_1676807781510_0.jpg) ![SmartSelect_20230218_204443_Coursera.jpg](../assets/SmartSelect_20230218_204443_Coursera_1676807785729_0.jpg) ![SmartSelect_20230218_204630_Coursera.jpg](../assets/SmartSelect_20230218_204630_Coursera_1676807790331_0.jpg) ![SmartSelect_20230218_205217_Coursera.jpg](../assets/SmartSelect_20230218_205217_Coursera_1676807795230_0.jpg) ![SmartSelect_20230218_202504_Coursera.jpg](../assets/SmartSelect_20230218_202504_Coursera_1676807800375_0.jpg) ![SmartSelect_20230218_202638_Coursera.jpg](../assets/SmartSelect_20230218_202638_Coursera_1676807804632_0.jpg) ![SmartSelect_20230218_202716_Coursera.jpg](../assets/SmartSelect_20230218_202716_Coursera_1676807809081_0.jpg)
+	- ![SmartSelect_20230218_203005_Coursera.jpg](../assets/SmartSelect_20230218_203005_Coursera_1676807816058_0.jpg)
+		- ![SmartSelect_20230218_203310_Coursera.jpg](../assets/SmartSelect_20230218_203310_Coursera_1676807820830_0.jpg) ![SmartSelect_20230218_203335_Coursera.jpg](../assets/SmartSelect_20230218_203335_Coursera_1676807830503_0.jpg) ![SmartSelect_20230218_203711_Coursera.jpg](../assets/SmartSelect_20230218_203711_Coursera_1676807837362_0.jpg) ![SmartSelect_20230218_203737_Coursera.jpg](../assets/SmartSelect_20230218_203737_Coursera_1676807842596_0.jpg)
+- Real number evalution:
+	- ![image.png](../assets/image_1676812477825_0.png)
+	- ![image.png](../assets/image_1676812633992_0.png)
+	- ![image.png](../assets/image_1676812779022_0.png)
+- anomly detection v.s supervised:
+	- ![image.png](../assets/image_1676812979466_0.png)
+	- ![image.png](../assets/image_1676813083872_0.png)
+- features:
+	- ![image.png](../assets/image_1676813330266_0.png)
+	- apply same transformations you will use in training to test and cross validation.
+	- try to spot new features that donot have a low/ anomalies probability with the old feature.
+	- ![image.png](../assets/image_1676814098572_0.png)
+	- ![image.png](../assets/image_1676814131889_0.png)
+	-

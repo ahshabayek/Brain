@@ -1,0 +1,4 @@
+- Multi tier architecture
+- 3 layer system monlothic problems.
+- break logic and data layers into micro services.
+-

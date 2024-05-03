@@ -1,0 +1,55 @@
+- kalman filter vs monte carlo localization
+	- kalman is continuous/uni modal while monte carlo is discrete and multi- modal.
+	- usually gaussian is used as the unimodal(single peak distribbbution)
+	- usually Gaussian is used as the unimodal(single peak distribution)
+- [[Kalman]]
+-
+- ![image.png](../assets/image_1705852974831_0.png)
+- ![image.png](../assets/image_1705853542405_0.png)
+-
+- ![image.png](../assets/image_1705853610725_0.png)
+- ![image.png](../assets/image_1705857544751_0.png)
+- ![image.png](../assets/image_1709336421269_0.png)
+- Multivariant Gaussians for higher dimension Kalman filter
+	- mean  is now a vector , one  element for each of the dimensions.
+	- variance is now covariance: DxD size.
+- ![image.png](../assets/image_1705865257838_0.png)
+- ![image.png](../assets/image_1705871731645_0.png)
+- Design a Kalman filter:
+	- state transition function for state: a matrix
+	- measurement function.
+- ![image.png](../assets/image_1705872022542_0.png)
+- ![image.png](../assets/image_1705872409330_0.png){:height 488, :width 780}
+	- y is the error
+	- error is mapped by variable S, K is Kalman gain.
+- Simple 2D Navigation Problem
+- ![image.png](../assets/image_1705960766812_0.png)
+- Q is model errors. used to account for inaccurate design /model  or F matrix not suitable to problem.(to include errors in the model)
+- Uncertainty P model is part of v(motion)
+- measurement is also known as observations.
+- measurement noise == measurement uncertainty
+- ![image.png](../assets/image_1706049248533_0.png)
+- gain is weighting term (innovation covariance)/  ratio of uncertainty predicted measurement to total uncertainty in measurement/observation and prediction.
+- ![image.png](../assets/image_1706049626042_0.png)
+- result covariance will be smaller than both measurement and predicted.
+- ![image.png](../assets/image_1706049756959_0.png)
+- ![image.png](../assets/image_1706115353161_0.png)
+- ![image.png](../assets/image_1706115353161_0.png){:height 254, :width 780}
+- ![image.png](../assets/image_1706136802867_0.png)
+- H indicator matrix.
+- 2  covariance matrix, 1 for state  = variance for each.
+- P intialization value need to make sense as a value in the state space of each state. not too small not too large. better a larger then smaller value.
+- ![image.png](../assets/image_1706137570004_0.png)
+- ![image.png](../assets/image_1706175291396_0.png)
+- ![image.png](../assets/image_1706366263829_0.png)
+- constant acceleration model through modeling the basic kinematic equation
+- ![image.png](../assets/image_1706366695137_0.png)
+- ![image.png](../assets/image_1706367290104_0.png)
+- estimation is more general
+- ![image.png](../assets/image_1706367384478_0.png)
+- ![image.png](../assets/image_1706367586684_0.png)
+- ![image.png](../assets/image_1706367960193_0.png)
+- ![image.png](../assets/image_1706368031364_0.png)
+- if black dots are mostly not in the red envelop the R might be too small
+- Innovation is the measurement -expected measurement
+- Kalman filter is a whitening filter

@@ -1,0 +1,6 @@
+- Output Classes or categories
+- distinct output, small finite possible outputs
+- fitting boundaries
+- binary classification for 2 distinct classes only.
+- [[Machine Learning/ Supervised Learning/ Classification/ Logistic regression]]
+-

@@ -1,0 +1,4 @@
+- Always use explicit constructors unless otherwise needed.
+- Check: CALL_WITH_MAX(++a, b); why a incremented twice. Page 16
+- RAII(Resource Acquisition Is Initialization). objects created to manage resources.
+-

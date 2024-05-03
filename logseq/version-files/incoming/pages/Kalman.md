@@ -1,0 +1,10 @@
+- Kalman Filter Lesson:
+	- {{video https://www.youtube.com/watch?v=zcIxJAOIx50&ab_channel=SteppeSchool}}
+	-
+- {{video https://www.youtube.com/watch?v=o_HW6GnLqvg&ab_channel=CyrillStachniss}}
+- prediction step and correction step. recursively.
+- correction using input to optimize.
+- assumption all is gaussian. all models are linear
+- Extended for non linear world through taylor linearaization.
+- {{video https://www.youtube.com/watch?v=E-6paM_Iwfc&ab_channel=CyrillStachniss}}
+- least squares approach will be same in a linear world

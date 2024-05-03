@@ -1,0 +1,91 @@
+- extreme programming
+- annotative turing, charles
+- preagile:
+	- BEST FOR LOW COST CHANGE
+	- partially defined
+- scientific
+	- best for high cost of change well defined projects.
+- software?
+	- low cost.
+- The waterfall/ Watershed 1970
+  id:: 651d2df0-5460-4def-bcdf-9eb6856cd02a
+	- system requiements
+	- software requiremensts
+	- Analysis
+	- program design
+	- coding
+	- testing
+	- operations
+- mismanagment:
+	- wrong product
+	- inferior quality
+	- late
+	- working more
+- find the compromise
+	- data while project is running
+- Agile is knowing where you are so that you manage outcome.
+	- delievers needed bad news
+- Trade offs:
+	- quality
+	- fast
+	- cheap
+	- done
+	-
+- pick three iron cross
+	- cant have all at 100%
+- customer changes can disrupt planning and programmers change estimates(encourged)
+- date doesnt change but software specs does.
+- more status:
+	- ![image.png](../assets/image_1695626280100_0.png){:height 518, :width 748}
+	- tradeoffs
+		- ![image.png](../assets/image_1695626446314_0.png)
+	- feature implementation follows stake holders order.
+	  id:: 651d2df0-c0cc-41f2-a286-4cc4dded67ce
+	- Outer practices and inner practices:
+		- inner practices :
+			- Continuous development integration.
+			- extreme programing
+			- simple design
+			- pair programming
+- Extreme Programming:
+	- ![image.png](../assets/image_1695727724185_0.png)
+	-
+- what is a story?:
+	- a brief description of how to use the system.
+	- ![image.png](../assets/image_1695727878776_0.png)
+	- a use case.
+	- Estimable requires expected result to be concise.
+	- can always be broken up and estimations flexible.
+	- buisness value.
+	- at most 1 man week.
+	- the test is the specification
+	-
+	- index cards:
+		- one word like flashcards
+		- no details should be captured
+		- memory triggering
+		- capture spirit and intend not details
+		- ![image.png](../assets/image_1695736674322_0.png)
+		-
+		-
+		-
+		-
+		-
+		-
+		-
+-
+- how to estimate:
+- 1 hand estimation
+- break feature down
+- make it a card even if 0 then clip together to 1.
+- tear card in half put one in deck and  the other half finished before sprint end.
+- turn estimation into a story if need be:
+	- called a spike (tracer bullet)
+	- may need to even write code.
+-
+- acceptance tests are the requirements.
+-
+- Team coposition: 1:2 tester developer ratio. same with QA and should be part of the team.
+- book: fit for developing software
+- no iteration can fail.:
+	- generating data is the point of an iteration.

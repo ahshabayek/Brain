@@ -1,0 +1,35 @@
+- Recall the statements of the **(strong/weak) law of large numbers**  and the **central limit theorem**  and know to apply these for large sample sizes.
+- (Optional:) Apply **Hoeffding's inequality**  to the sample means of bounded i.i.d. random variables.
+- Recall the probability density function and properties of the **Gaussian distribution** .
+- Use **Gaussian probability tables**  to obtain probabilities and **quantiles** .
+- Distinguish between **convergence almost surely** , **convergence in probability**  and **convergence in distribution** , understand that these notions are from strongest to weakest.
+- Determine convergence of sums and products of sequences that converge almost surely or in probability.
+- Apply **Slutsky's theorem**  to the sum and product of a sequence that converges in distribution and another that converges in probability to a constant.
+- Use the **continuous mapping theorem**  to determine convergence of sequences of a function of random variables.
+-
+- ![image.png](../assets/image_1684588808543_0.png)
+- LLn doesnt handle cases as 1/ log log log n
+- while central limit theorem approximates to some degree to Gaussian it could also reach the same road block but most likely doesnt as shown by berry essen bounds.
+- when is close? rule of thumb n> =30
+- ![image.png](../assets/image_1684589428671_0.png)
+- ![image.png](../assets/image_1684683008079_0.png)
+-
+- ![image.png](../assets/image_1684682831702_0.png)
+-
+-
+-
+- Hoeffding's inequality:
+	- not as generic as CTL
+	- random variables that are surely bounded.
+	- rules out Gaussians, exponentials RVs. anything that takes on arbitrary variables. large or small.
+	- works with RVs like Bernoulli.
+	- provides an exponential decay, n doesnt need to be large.
+	- multiply gaussians rule:
+		- mean is multiplied by  this number
+		- variance it multiplied by the square root of the number.
+	- ![image.png](../assets/image_1684700392553_0.png)
+	- more conservative than CTL but less precise .
+	- ![image.png](../assets/image_1684703673590_0.png)
+- Modes of Convegence:
+	- ![image.png](../assets/image_1684859671642_0.png)
+- [Fundmentals ]

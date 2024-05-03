@@ -1,0 +1,35 @@
+- minimum cost plan
+-
+-
+-
+- Dynamic programming: value iteration:
+	- every step /position has a plan/computation.
+	- work recursively from goal to current and add up cost.
+	- hill climbing action
+- ![image.png](../assets/image_1708960159936_0.png)
+- ![image.png](../assets/image_1709145676034_0.png)
+- ![image.png](../assets/image_1709145924646_0.png)
+	- assets:///home/ashabayek/Documents/Thoughts/Brain/assets/image_1709145924646_0.png
+- brute force is not a best first search algo but its optimal.
+- ![image.png](../assets/image_1709146704646_0.png)
+- is it a best fit search? yes. priority applied by looking at all current level. prioritazation makes it a breadth first search.
+- is it optimal, yes.  this is under the assumption of uniform cost. otherwise it is not optimal. only with equal action cost.
+- ![image.png](../assets/image_1709148624095_0.png)
+- best first search , yes
+- optimal? yes.
+- ![image.png](../assets/image_1709149828868_0.png)
+- best first search? yes
+- optimal? no
+- Also known as greedy best first search
+- ![image.png](../assets/image_1709150773662_0.png)
+- best first search, yes
+- optimal,yes. but
+-
+- Heuristics dont need to be the correct one
+- should not strive for accuracy in heuristics.
+- A* with admissible heuristics is optimal.
+  id:: 65e056f4-89d2-47a9-bc31-680f339e43aa
+- what is an admissible heuristic:
+	- never overestimates cost, lower than lowest actual cost
+	- optimistic by nature
+	-

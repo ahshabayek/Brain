@@ -1,0 +1,39 @@
+- coffee roasting
+	- ![image.png](../assets/image_1675166754395_0.png)
+	- undercooked
+	- overcooked
+-
+- Dense (fully connected)
+	- ![image.png](../assets/image_1675166827905_0.png)
+	- ![image.png](../assets/image_1675199160724_0.png)
+	-
+- Tensorflow data representation:
+	- feature vectors:
+		- numpy version:
+		- ![image.png](../assets/image_1675200725675_0.png)
+		- ![image.png](../assets/image_1675200803318_0.png)
+	- Tensorflow only uses matrices nt vectors.
+	- ![image.png](../assets/image_1675200919551_0.png)
+	- tensor is the type used for tensor flow and needs conversion back and forth between numpy.
+	- ![image.png](../assets/image_1675284781477_0.png)
+	- sequential function patches layers to create a nn.
+	- ![image.png](../assets/image_1675284910836_0.png)
+	- ![image.png](../assets/image_1675284980536_0.png)
+- Numpy naive implementation
+	- ![image.png](../assets/image_1675290985482_0.png)
+	- ![image.png](../assets/image_1675377901678_0.png)
+- Vectorization of neural networks.
+	- ![image.png](../assets/image_1675379478144_0.png)
+	- ![image.png](../assets/image_1675537013168_0.png)
+	- ![image.png](../assets/image_1675555446609_0.png)
+	-
+	- ![image.png](../assets/image_1675555390965_0.png)
+	-
+- Numerical roundoffs for softmax
+	- ![image.png](../assets/image_1675611176066_0.png)
+	- ![image.png](../assets/image_1675611752132_0.png)
+	- ![image.png](../assets/image_1675611820303_0.png)
+	- need to understand more
+- adam algorithm:
+	- ![image.png](../assets/image_1675620099033_0.png)
+	-

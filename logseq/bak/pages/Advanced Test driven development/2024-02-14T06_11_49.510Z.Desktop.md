@@ -1,0 +1,101 @@
+- cleancode.com
+- Not alone to write any production code before writing the test.
+  id:: 64dc8096-b354-4337-90a4-a4249e6265ad
+- you are not allowed to write more of a unit test than is sufficient to fail.
+- you are not to allowed to write more production code than is sufficient to cause currently failing tests to pass.
+- forces decoupling of code
+- enforces documentation
+- easier to make production ready changes faster
+- we all write bad code
+- to clean up code
+- as many threads for test as in code.
+- ((64dc8096-b354-4337-90a4-a4249e6265ad))((64dc8096-b354-4337-90a4-a4249e6265ad))((64dc8096-b354-4337-90a4-a4249e6265ad))
+- race conditions dont work well with them
+- jitter tests: run multiple executables together
+- functions that return nothing :
+- THree A rule:
+	- Arrange: setup
+	- Act: single act rule
+	- Assert: multiple asserts from 1 action
+- Problems:
+	- accidental complexity.
+	- too slow: in asystem is a hinderence.
+	- wide scope
+	- colloquialisms: test data should be enough to carry out intent of test.
+- solutions for good test:
+	- one logical assert
+	- no accidental  complexity
+	- fast
+	- narrow scope
+	- meaningful values.
+- composed test result: may only want to know if test result worked properly but not the details.
+- Stubbing vs Mocking( endo testing)
+	- idea of mock object.
+	- test double stands in for the actual object for testing
+	- test double derives from interface.
+	- dummy do nothing return degenerate values.
+		- int then 0, bool then false
+		- allow you to call a function that requires an argument untouched by your test.
+		- why? if real object requires complex construction.
+	- a Stub is a dummy. they also do nothing but return test needed values.
+	- drive system through tested pathway
+	- Spy is a stub with a memory. A programmable stubs
+	- not all spies are stubs
+	- validate if a function is called correctly
+	  id:: 64e3715b-e61f-4140-b29f-be66c5a04dcf
+	- Mock Object: is a spy , returns values monitors functions. but also expects values
+	- this means it asserts expectations
+	- pass input authenticator and expectation
+	- when you spy you couple to implementation.
+	- stub and spy are easy.
+- The FAke
+	- a simulator. has business rules.
+	- Fakes grow bigger with time. to a point that might need their own test.
+	- TDD uncertainty principle.
+	- stubs dnt break when implementation is changed.
+- 2 ways
+  id:: 64e374e1-c1e2-441b-81e5-a2aecec750fa
+	- Chicago:
+		- by return values
+		- less certainty of input combination but more robust
+	- LOndon
+		- by implementation.
+		- tests are more certain. but more fragile
+	- in a component dnt use spies.
+	- between components and architectural boundaries use spies.
+- repple: write and execute code directly.
+- data driven test.
+- Test Design:
+	- fragile test  problem: coupled to low level interfaces
+	- Decouple the structure.
+		- Naive structure :dnt create a test class for each production code class.
+		- shouldnt test every class explicitly but public APIs.
+		- extract  class: extract functions/ methods specially private one
+		- App class becomes an API a Facade.
+		- test grow more specific while code become more abstract.
+	- Code and Test diverge in design.
+	- F.I.R.S.T
+		- Fast: test runs <1 second
+		- Isolated fault clearly isolated
+		- Repeatable: constant behavior, in all different contexts/ enviroments
+		- Self verifying: pass or fail , no interpretation required
+		- Timely: 1 code change 1 test, tests come first, developed refactored optimized.
+	- Test Patterns:
+		- test specific subclass.
+			- safe specific class for test(mock or spy)
+		- Self Shunt
+			- create a spy without creating a new class.
+			- derive class from test double and implement the changes.
+		- Humble object
+			- Hardware boundary: leave computer boundary
+			- no answer to question ex: CSS
+			- close to physical boundary, create a driver as stupid as possible by creating a data formater and a data structure.
+			- test data formater and data structure no need to test driver.
+		- Hierarchical tests: Junit
+			- add all junk to setup. the union for all test function.
+			- this can get ugly with huge setup
+			- each will then have setup and teardown.
+	- dnt test through gui
+	- testing api without gui
+	-
+	-

@@ -1,0 +1,56 @@
+- Mars rover example:
+	- ![image.png](../assets/image_1677938771766_0.png){:height 338, :width 723}
+- The Return
+	- ![image.png](../assets/image_1677950241215_0.png)
+	- ![image.png](../assets/image_1677950472493_0.png)
+- Making decisions: policies:
+	- ![image.png](../assets/image_1677950966029_0.png)
+	- policy is the controller
+- ![image.png](../assets/image_1677955412774_0.png)
+- Markov decision process:
+	- depends on where you are now not how you got here.
+	- ![image.png](../assets/image_1677955577149_0.png)
+- state action value function definition:
+	- ![image.png](../assets/image_1677965230051_0.png){:height 363, :width 723}
+	- ![image.png](../assets/image_1677966509124_0.png)
+	-
+- Bellman equation:
+	- ![image.png](../assets/image_1677967777099_0.png){:height 361, :width 723}
+	- ![image.png](../assets/image_1678021783624_0.png)
+	- R1 is called immediate reward,
+	- ![image.png](../assets/image_1678024367491_0.png)
+	-
+- ![image.png](../assets/image_1678024497600_0.png)
+-
+- action outcome reliability is not always guaranteed.
+	-
+	- Stochastic environment :
+		- in a stochastic reinforcement environment we dnt seek highest reward but highest average.
+		- ![image.png](../assets/image_1678036464431_0.png)
+	- continuous states:
+		- ![image.png](../assets/image_1678053671509_0.png)
+		-
+- ![image.png](../assets/image_1678053733325_0.png){:height 442, :width 754}
+- ![image.png](../assets/image_1678054201671_0.png)
+- ![image.png](../assets/image_1678054310328_0.png){:height 366, :width 754}
+- Learning the state value:
+	- ![image.png](../assets/image_1678054608978_0.png)
+	- make use of supervised learning and bellman equation to train the model.
+	- ![image.png](../assets/image_1678224638594_0.png)
+	- deep q network algorithm:
+		- ![image.png](../assets/image_1678224844704_0.png)
+	- refine network:
+		- infer only once and have 4 outcomes instead of inferring 4 times one for each state, network then only computes q values. (more understanding needed)
+		-
+		- ![image.png](../assets/image_1678225024426_0.png)
+		- use epsilon greedy approach:
+			- why not use max Q always?  due to initialization bias that might lead the algorithm to always think another action is a bad idea :
+			- exploration v.s exploitation
+			- ![image.png](../assets/image_1678226042225_0.png)
+		- Mini batch and soft updates:
+			- [[Machine Learning/ Mini-batch]]
+			- soft update:
+				- ![image.png](../assets/image_1678227163350_0.png)
+				-
+- due to the fickness of reinforcement learning one misconfiguring could the deter the algorithm much more than in supervised cases.
+-

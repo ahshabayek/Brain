@@ -1,0 +1,51 @@
+- Takeaways:
+	- outcomes affect desicions.
+	- options affect decisions
+- types of actions:
+	- Stochastic:
+		- deterministic is a special case stochastic that has 100% of fulfillment
+- confidence:
+	- no errors
+	- strenght in numbers
+	- reference
+	- ground truth
+	- similar scenario
+	- test on variations.
+	- ###########
+	- unit tests
+	- sample problems with corner cases
+	- full code coverage
+	- robust to input deviations
+- solution KPI:
+	- robust:
+		- action cost
+		- success probabilty
+		- wall cost
+		- goal location
+		- grid layout
+		- allowable actions.
+- [[Dynamic Programming]]:
+	- value iteration:
+	- decisions have both immediate consequences and long term
+	- ![image.png](../assets/image_1711631347511_0.png)
+- Value iteration:
+	- ![image.png](../assets/image_1711631731738_0.png)
+	- ![image.png](../assets/image_1711632347944_0.png)
+	- ![image.png](../assets/image_1711633008177_0.png)
+	- gamma is a discount factor. environment doesnt end till terminal change.
+	- initialize with values that can be updated by VI
+	- ![image.png](../assets/image_1711633077374_0.png)
+- when no change happened then convergence happened.
+- ![image.png](../assets/image_1711633249145_0.png)
+- ![image.png](../assets/image_1711648314784_0.png)
+- for stochastic policy
+- ![image.png](../assets/image_1711648906987_0.png)
+- fibonnacci == memoization
+- value iteration is not cyclic/circular its different based on:
+	- bellman equation
+	- contract mapping
+- stochastic VI:
+	- ![image.png](../assets/image_1711750092988_0.png)
+	- ![image.png](../assets/image_1711750327566_0.png)
+	- ![image.png](../assets/image_1711750620215_0.png)
+	-

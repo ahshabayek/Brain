@@ -1,0 +1,68 @@
+- ![image.png](../assets/image_1707590049269_0.png)
+- ![image.png](../assets/image_1707590171059_0.png)
+- points that align with sensor measurement survive and others with lower weight die out.
+- particles center around higher posterior probablity
+- ![image.png](../assets/image_1707654203466_0.png)
+- ![image.png](../assets/image_1707684637319_0.png)
+- ![image.png](../assets/image_1707947807226_0.png)
+- Terminology:
+	- process noisy data (observations/ motions) to estimate underlying true value of a system.
+	- genetic algorithm a class iterative algorithms which evolves a population of candidate hypotheses:
+		- starting population.
+		- fitness function
+		- selection process
+		- crossover
+		- mutation
+	- ![image.png](../assets/image_1708442110851_0.png)
+	- after each step only samples are retained.
+	- ![image.png](../assets/image_1708442380216_0.png)
+	- ![image.png](../assets/image_1708444585153_0.png)
+	- ![image.png](../assets/image_1708444725380_0.png)
+		- assets:///home/ashabayek/Documents/Thoughts/Brain/assets/image_1708444725380_0.png
+	-
+	- Intialization:
+		- ![image.png](../assets/image_1708446313571_0.png)
+		- ![image.png](../assets/image_1708458489059_0.png)
+		- we dont have access to the target though
+		- so..indirect comparison
+		- compare target data/ detections with particles
+		- localization by indirectly inferring where it exists
+		- you can come up with infinite weighting algorithms.
+		- weighting:
+			- weights are relative, we need to be able to compare them
+			- Deterministic: outputs are deductible, same input same output
+			- consistent: more similar greater weight.
+			- relative proportions: proportions are tunable , irrelevant after PF is developed
+			- ![image.png](../assets/image_1708470136354_0.png)
+			-
+		- ![image.png](../assets/image_1708461250810_0.png)
+		-
+		- tuning by changing the variance thus assigning different weights as desired.
+	- Resampling:
+		- process of choosing a sample from a poulation
+		- In PF we sample with replacement
+		- with respect to weight
+		- lowbias
+		- fast
+		- not Deterministic
+	- Fuzzing:
+		-
+	- Gist of PF: how likely would it be to observe  a target measurement for each hypothesis? NOT how likely target Hypothesis for measurement.
+	- ![image.png](../assets/image_1708471259735_0.png)
+	- direct fuzzing applied after resampling, while indirect happens while moving/mimicing the movement.
+- aggregate:
+	- ![image.png](../assets/image_1708472017565_0.png)
+	-
+- Mimicing:
+- ![image.png](../assets/image_1708471286000_0.png)
+- ![image.png](../assets/image_1708472465945_0.png)
+- ![image.png](../assets/image_1708472481742_0.png)
+- unit test code.
+-
+- wheel algorithm:
+	- ![image.png](../assets/image_1708548468821_0.png)
+	- ![image.png](../assets/image_1708550985314_0.png)
+	- ![image.png](../assets/image_1708551915326_0.png)
+	-
+	- ![image.png](../assets/image_1708553255861_0.png)
+	-

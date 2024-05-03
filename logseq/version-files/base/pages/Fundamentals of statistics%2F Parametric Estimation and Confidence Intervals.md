@@ -1,0 +1,15 @@
+- Statistic : any measurable function once data can be given.
+- ![image.png](../assets/image_1685373663427_0.png)
+-
+- there are unbiased estimators but with alot of variability :
+	- ![image.png](../assets/image_1685387428793_0.png)
+- Indicator function is bernoulli.
+	- ![image.png](../assets/image_1685392086806_0.png)
+	- ![image.png](../assets/image_1685392429458_0.png)
+- Variance of an estimator:
+-
+- Quadratic Risk:
+	- ![image.png](../assets/image_1685438007890_0.png)
+- confidence intervals
+	- intervals 2 extreme limits.
+	-

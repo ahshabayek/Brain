@@ -1,0 +1,33 @@
+- [[Python]]
+- What is architecture:
+	- ability ,utility and beauty
+	- durable usable
+	- The art and science in which the components of a computer systems are organized and integrated.
+		- the art and science of designing and making buildings
+		- the internal organization of a computers components with particular reference to the way in which data is transmitted.
+	- do we need it?
+		- objects are a form of a distributed system.
+		- easy to understand  where it is , what it is and why it is in the system.
+- what is clean architecturre(robert martin)
+	- ![image.png](../assets/image_1680225198130_0.png)
+	- layer components only see themselves and inwards.
+	- ![image.png](../assets/image_1680225308046_0.png)
+	- what is an interface?:
+		- ![image.png](../assets/image_1680310098503_0.png)
+		- ![image.png](../assets/image_1680310388782_0.png)
+		- data encapsulation
+		- ![image.png](../assets/image_1680310416927_0.png)
+		- what is the task:
+			- ![image.png](../assets/image_1680310550593_0.png)
+	- ![image.png](../assets/image_1680310699502_0.png)
+	- ![image.png](../assets/image_1680310747561_0.png)
+	- a detail: not part of buisness model aka  not part of feature sold or output.
+	- decouple usecases from details.
+	- facade a set of methods common to a detail.
+	- ![image.png](../assets/image_1680310897518_0.png)
+	- dependency injection:
+- ![image.png](../assets/image_1680310952654_0.png)
+- ![image.png](../assets/image_1680311000471_0.png)
+- ![image.png](../assets/image_1681565098227_0.png)
+- Golden rule:
+	-

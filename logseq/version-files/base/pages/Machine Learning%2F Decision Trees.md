@@ -1,0 +1,30 @@
+- categorical binary classification.
+- ex:
+	- ![image.png](../assets/image_1676332166774_0.png)
+	- ![image.png](../assets/image_1676332194683_0.png)
+	- ![image.png](../assets/image_1676405929451_0.png)
+	-
+- ![image.png](../assets/image_1676406458548_0.png)
+- ![image.png](../assets/image_1676406566109_0.png)
+- ![image.png](../assets/image_1676407213163_0.png)
+- ![image.png](../assets/image_1676407759797_0.png)
+	-
+- ![image.png](../assets/image_1676408073980_0.png)
+- ![image.png](../assets/image_1676413755644_0.png)
+- ![image.png](../assets/image_1676413885452_0.png)
+- ![image.png](../assets/image_1676414036315_0.png)
+- ![image.png](../assets/image_1676414197620_0.png)
+- split into multiple binary features(one hot encoding):
+	- ![image.png](../assets/image_1676414241714_0.png)
+	- ![image.png](../assets/image_1676414308456_0.png)
+	- [[Machine Learning/ Neural Networks]]
+	- [[MachineLearning/ Supervised Learning/ Regression/ Linear Regression]]
+	- [[Machine Learning/ Supervised Learning/ Classification/ Logistic regression]]
+- Continuous features:
+	- ![image.png](../assets/image_1676416055575_0.png)
+-
+- when to use decision trees?
+	- ![image.png](../assets/image_1676582861568_0.png)
+	- ![image.png](../assets/image_1676582954385_0.png)
+	- ![image.png](../assets/image_1676583007040_0.png)
+	-

@@ -1,0 +1,6 @@
+- look at the subset that are not performing well and focus on them.
+	- ![image.png](../assets/image_1676582554378_0.png)
+	- ![image.png](../assets/image_1676582651969_0.png)
+	- doesnt use sampling with replacement rather assigns different weights to different samples to be more efficient.
+	- ![image.png](../assets/image_1676582739082_0.png)
+	-

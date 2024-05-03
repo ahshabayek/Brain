@@ -1,0 +1,6 @@
+- Measurement affects how our belief function would look like. (posterior belief)
+- we shit our belief then based on the motion, a convolution. since motion is uncertain convoluted positions are flatter or with less
+- now the previous(prior belief ) is multiplies with the current.
+- ![image.png](../assets/image_1704555545523_0.png)
+- Probability after sense:
+	- incorporate belief into probability by  us multiplication/ chain rule.

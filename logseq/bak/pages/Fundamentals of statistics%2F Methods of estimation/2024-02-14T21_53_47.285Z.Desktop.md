@@ -1,0 +1,10 @@
+- Estimate the distribution itself
+	- Total  variation distance
+		- 2 distributions close? event probability to be close.
+		- max|ptheta - ptheta^|
+		- distance between PMFs.:
+			- what is the notion:
+			- half sum of absolute distance
+- an estimation strategy
+	- kullback leibler divergence (relative entropy):
+		-

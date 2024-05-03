@@ -1,0 +1,24 @@
+- What is overfitting:
+	- ![image.png](../assets/image_1674853161661_0.png)
+	- ![image.png](../assets/image_1674853307283_0.png)
+- How to address overfitting:
+	- collect more training data
+	- correctly select features to include and exclude
+		- useful features + insufficient data == overfitting
+		- useful features might be lost.
+	- regularization:  gently reduce impact of features without elimination.
+		- ![image.png](../assets/image_1674856855027_0.png)
+		- a way to penalize features that dnt add to the fitting much.
+		- Lambda ==> regularization parameter.
+		- for regression :
+		- [[Machine Learning/ Supervised Learning/ Regression]]
+		- ![image.png](../assets/image_1674858951106_0.png)
+		- ![image.png](../assets/image_1674859054549_0.png)
+		-
+	- b is not regularized :
+		- ![image.png](../assets/image_1674860566143_0.png)
+	- ![image.png](../assets/image_1674861084028_0.png)
+	- ![image.png](../assets/image_1674861294573_0.png)
+	- [[Machine Learning/ Supervised Learning/ Classification/ Logistic regression]]
+	- ![image.png](../assets/image_1674861579094_0.png)
+	-

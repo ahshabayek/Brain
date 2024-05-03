@@ -1,0 +1,40 @@
+- ![image.png](../assets/image_1708892561332_0.png)
+-
+- y_{i\:}\longleftarrow\: y_i+\alpha\left(x_i-y_i\right)+\beta\left(y_{i+1}+y_{i-1}-2y_i\right)
+- what if smoothing puts us in a path with  an obstacle?
+	- use dynamic programming with stochastic action function to push you away,
+	- or include a term to push away from obstacles.
+- fix inbound smoothing in cyclic world or else:
+	- ![image.png](../assets/image_1709294615426_0.png)
+	-
+- PID control:
+	- Problem statment:
+		- how would you set steering angle to follow along a line
+			- steer according to cross track error
+		- P is for proportional
+		- ![image.png](../assets/image_1709219452726_0.png)
+		- correction will always overshoot, and will at best best be marginally stable.:
+			- ![image.png](../assets/image_1709219585449_0.png)
+			- move to front  axle:
+				- y_distance_to_front_axle = math.sin(robot.orientation) * robot.length
+				  cte = robot.y + y_distance_to_front_axle
+			- to remove oscillations:
+			- ![image.png](../assets/image_1709225264769_0.png)
+			- then to deal with bias or systematic error:
+				- ![image.png](../assets/image_1709226744520_0.png)
+			- How to know the correct gains to use? Twiddle:
+				- ![image.png](../assets/image_1709227701459_0.png)
+				- ![image.png](../assets/image_1709228416219_0.png)
+-
+- Gradient decent:
+	- ![image.png](../assets/image_1714217945973_0.png)
+	-
+- ![image.png](../assets/image_1709237756500_0.png)
+- ![image.png](../assets/image_1709245501297_0.png)
+- ![image.png](../assets/image_1709248525397_0.png)
+- ![image.png](../assets/image_1709249187704_0.png)
+- ![image.png](../assets/image_1709249825117_0.png)
+- integral windup, to account for system limits that are not apparent. max steer thrust or so that is not acquirable.
+- ![image.png](../assets/image_1710026219044_0.png)
+- ![image.png](../assets/image_1709993295501_0.png)
+-

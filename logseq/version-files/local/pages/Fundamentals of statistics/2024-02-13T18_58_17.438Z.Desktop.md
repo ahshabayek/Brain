@@ -1,0 +1,14 @@
+- *Statistics: A Concise Course in Statistical Inference*, by Larry Wasserman.
+- ![image.png](../assets/image_1684177375865_0.png)
+- ![image.png](../assets/image_1684177406376_0.png)
+- ![image.png](../assets/image_1684177453714_0.png)
+- ![image.png](../assets/image_1684182977482_0.png)
+- [[Probability Redux]]
+- [[Fundamentals of statistics/ Foundation of inference]]
+- [[Fundamentals of statistics/ Parametric Estimation and Confidence Intervals]]
+- [[Fundamentals of statistics/ Methods of estimation ]]
+- [[Fundamentals of statistics/ Statistical properties of  the MLE]]
+-
+-
+-
+-

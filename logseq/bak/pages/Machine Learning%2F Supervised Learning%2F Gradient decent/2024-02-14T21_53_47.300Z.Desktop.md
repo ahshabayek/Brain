@@ -1,0 +1,42 @@
+- algorithm for minimizing cost functions
+- with least squares error function you will all always end up with a bow shape.
+- ![image.png](../assets/image_1671838588179_0.png)
+- get to bottom of hill:
+	- look around 360 to find best next step downwards.
+	- repeat.
+- ![image.png](../assets/image_1671838731212_0.png)
+- ![image.png](../assets/image_1671840447140_0.png)
+- larger alpha(learning rate)the more aggressive it is.
+- ![image.png](../assets/image_1671841584540_0.png)
+- alpha , Learning rate too small  then alot of steps to reach goal.
+- alpha too large GD might overshoot and never converge or even diverge.
+- GD is likely to converge at a local minimum. and will automatically choose a smaller learning rate while approaching it.
+- ![image.png](../assets/image_1672098387894_0.png)
+- ![image.png](../assets/image_1672170413996_0.png)
+- chain rule to derive differentiation.
+- square error cost  is a convex function and will never  have a local minimum, as long as you choose the algorithm correctly you will always converge.
+- Batch Gradient decent  evaluates on entire training data.
+- Multi variant is not Multiple  Linear regression.
+- Multi Features:
+	- Multiple Linear regression.
+		- methods
+			- divide by max value (x-min)/(max-min).
+			- mean normalization, first find mean/average of feature .  input - mean / max - min
+			- z-score normalization. mean and standard deviation. input - mean/ standard deviation.
+	- ![image.png](../assets/image_1672183508468_0.png)
+	- ![image.png](../assets/image_1672183887092_0.png)
+	- vectorization
+		- [[Linear Algebra/ Vectors]]
+		- shorter code, parallel execution
+	- ![image.png](../assets/image_1672408921884_0.png)
+- check for convergence:
+	- graph results
+	- automatic convergence test
+	- ![image.png](../assets/image_1672609534919_0.png)
+- Choose learning rate:
+	- ![image.png](../assets/image_1672609777850_0.png)
+	- try very small and very large and adjust from there.
+- Gradient Decent implementation:
+	- ![image.png](../assets/image_1674517824502_0.png)
+	- ![image.png](../assets/image_1674517852941_0.png)
+	-

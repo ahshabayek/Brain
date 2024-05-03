@@ -1,0 +1,31 @@
+- [[Artificial Intelligence for Robotics/ Bayes filter]]
+- ![image.png](../assets/image_1705613400243_0.png)
+- ![image.png](../assets/image_1705615112577_0.png)
+- ![image.png](../assets/image_1705615537513_0.png)
+- ![image.png](../assets/image_1705616482549_0.png)
+- ![image.png](../assets/image_1705617168226_0.png)
+- hypothersis are possible predictions
+- evidences are observations
+- ![image.png](../assets/image_1705686160907_0.png)
+-
+- Histogram filters(grid localization):
+	- create discrete regions to get some granularity.
+	- more of a point mass
+	- ![image.png](../assets/image_1705687032181_0.png)
+	- ![image.png](../assets/image_1705687116252_0.png)
+	- ![image.png](../assets/image_1705687231428_0.png)
+	- normalizing is the dividing dominatrix in bayes rule.
+	- ![image.png](../assets/image_1705758059215_0.png)
+	-
+- Practice:
+	- prior affects posterior.
+	- evidence affects posterior
+	- likelihood affects posterior
+- ![image.png](../assets/image_1707855580947_0.png)
+- marginal is the evidence
+- ![image.png](../assets/image_1707855968555_0.png)
+- HF has a probability distribution output
+- measurement we gain information
+- move is loss of information
+- ![image.png](../assets/image_1707903132962_0.png)
+-

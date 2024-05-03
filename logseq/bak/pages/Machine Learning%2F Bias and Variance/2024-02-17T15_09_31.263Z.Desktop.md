@@ -1,0 +1,17 @@
+- Diagnosing bias and variance
+	- ![image.png](../assets/image_1675895661208_0.png)
+	- ![image.png](../assets/image_1675895768820_0.png)
+	- ![image.png](../assets/image_1675895874057_0.png)
+	- over fitting happens due to training data or using very high order polynomial .
+	- Regularization?:
+		- ![image.png](../assets/image_1675962497964_0.png)
+		- ![image.png](../assets/image_1675962582780_0.png){:height 360, :width 696}
+		- ![image.png](../assets/image_1675963254283_0.png)
+- Performance baseline:
+	- ![image.png](../assets/image_1676147151091_0.png)
+		-
+	- ![image.png](../assets/image_1676157177202_0.png)
+	- ![image.png](../assets/image_1676199541025_0.png)
+	- ![image.png](../assets/image_1676200936773_0.png)
+- ![image.png](../assets/image_1676222923871_0.png)
+-

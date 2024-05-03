@@ -1,0 +1,11 @@
+- create different decisions trees and collect votes to fix problem
+- ![image.png](../assets/image_1676580358059_0.png)
+- ![image.png](../assets/image_1676580374270_0.png)
+- how do we build them ?  sampling with replacement.
+	- ![image.png](../assets/image_1676580937756_0.png)
+	- ![image.png](../assets/image_1676581001662_0.png)
+	- construct a training set that is a bit different than the original
+	- repeat samples randomly based on sampling with replacement.
+	- ![image.png](../assets/image_1676581361569_0.png)
+	- ![image.png](../assets/image_1676582081405_0.png)
+	- more useful with more number of features. averages over huge data and small changes in datasets.

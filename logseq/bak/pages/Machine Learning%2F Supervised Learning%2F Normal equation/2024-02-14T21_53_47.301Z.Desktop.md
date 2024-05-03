@@ -1,0 +1,2 @@
+- a method to minimize weights and bias only for LR
+- very slow for many features.

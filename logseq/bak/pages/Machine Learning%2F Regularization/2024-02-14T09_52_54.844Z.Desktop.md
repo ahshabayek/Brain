@@ -1,0 +1,23 @@
+- ![image.png](../assets/image_1681566233732_0.png)
+- Shrink parameters to avoid overfit:
+	- ![image.png](../assets/image_1681566355213_0.png)
+- ![image.png](../assets/image_1681566412565_0.png)
+- adding penalty on highe parameters:
+	- L2:
+		- ![image.png](../assets/image_1681566501631_0.png)
+	- L1:
+		- ![image.png](../assets/image_1681566684203_0.png)
+		-
+- one hot encoding
+	- dummy variable trap
+	-
+- L1 and L2 regularization:
+	- ![image.png](../assets/image_1681603554042_0.png)
+	- ![image.png](../assets/image_1681603854007_0.png)
+	- lasso the coefficients can shrink to zero so features shrink to zero
+	- ridge features shrink but rarely directly to zero.
+	- ![image.png](../assets/image_1681603954684_0.png)
+	- ![image.png](../assets/image_1681604009985_0.png)
+	- in collinear feature drop will nt be known(greedy algorithm)
+	- use elasticnet.
+	-

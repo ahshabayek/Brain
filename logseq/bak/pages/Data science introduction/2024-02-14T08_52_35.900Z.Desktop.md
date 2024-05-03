@@ -1,0 +1,9 @@
+- #[[Data Science]]
+- ![Screenshot 2022-11-10 232258.png](../assets/Screenshot_2022-11-10_232258_1668290640595_0.png)
+- ![image.png](../assets/image_1668338742934_0.png)
+- ![image.png](../assets/image_1668338892271_0.png)
+- #[[Artificial Intelligence ]] is the ability to simulate human knowledge and decision making.
+- #[[machine learning]] ability to predict outcomes without being explicitly programmed.
+- #[[machine learning]] is about creating and implementing algorithms that let machines receive data an us it for prediction, patterns and recommendations.
+-
+-

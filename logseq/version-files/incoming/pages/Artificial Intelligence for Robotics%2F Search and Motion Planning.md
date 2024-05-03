@@ -1,0 +1,13 @@
+- minimum cost plan
+-
+-
+-
+- Dynamic programming: value iteration:
+	- every step /position has a plan/computation.
+	- work recursively from goal to current and add up cost.
+	- hill climbing action
+- ![image.png](../assets/image_1708960159936_0.png)
+- ![image.png](../assets/image_1709145676034_0.png)
+- ![image.png](../assets/image_1709145924646_0.png)
+-
+-

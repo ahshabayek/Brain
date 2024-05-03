@@ -1,0 +1,91 @@
+- a set of neurons connected to compute a problem
+- a neuron is a tiny computer very similar to a single logistic regression [[Machine Learning/ Supervised Learning/ Classification/ Logistic regression]] algo.
+	- ![image.png](../assets/image_1675036183682_0.png)
+- relevant features for each neuron is weight during training to pick the relevant ones and focus on them
+- ![image.png](../assets/image_1675036477515_0.png)
+- features are made into a vector, so are weights.
+- so neural network is a set of layers with input vectors processed to output a vector at each layer or hidden layers (middle layers).
+- Neural networks architecture is the choice of number of hidden layers, neurons per layer.
+- ![image.png](../assets/image_1675108912325_0.png)
+- ![image.png](../assets/image_1675110542818_0.png)
+- by giving different data the neural network will learn how to generalize.
+- Neural networks layers:
+	- ![image.png](../assets/image_1675121270496_0.png)
+	- ![image.png](../assets/image_1675121367580_0.png)
+	- ![image.png](../assets/image_1675122005590_0.png)
+	- ![image.png](../assets/image_1675122557240_0.png)
+	- output of each layer is the estimated probability of input vector/ image
+- Neural network frameworks:
+	- [[Machine Learning/ Neural Networks/ TensorFlow]]
+	-
+- Logistic loss for classification  or logistic regression, while mean loss is for regression problems(mean squared error)
+- [[Machine Learning/Logistic Loss]]
+- Steps:
+	- define model and activation function.
+	- define loss and cost function.
+		- ![image.png](../assets/image_1675555868118_0.png)
+	- gradient descent or correction function.
+		- ![image.png](../assets/image_1675555695721_0.png)
+- Activations functions:
+	- ![image.png](../assets/image_1675557441411_0.png)
+	- Most popular:
+		- ![image.png](../assets/image_1675557526661_0.png)
+	- How to choose for output layer:
+		- binary classification sigmoid is often best
+		- regression linear activation is better: values can be negative aswell
+		- ![image.png](../assets/image_1675557716550_0.png)
+	- How to chose hidden layers:
+		- why use relu instead of sigmoid:
+			- sig. less efficient in computing
+			- 2 flat regions. flatness slows down gradient decent...why?flattens scoring potential
+			- ![image.png](../assets/image_1675597677339_0.png)
+			-
+	- why use activation functions
+		- ![image.png](../assets/image_1675598175240_0.png)
+		- Linear function of a linear function is a linear function therefore
+		- ![image.png](../assets/image_1675598245041_0.png)
+		- why is RELU so different than a linear unit:
+			- ![image.png](../assets/image_1675599075103_0.png)
+			- ![image.png](../assets/image_1675599175025_0.png)
+- MultiClass classification:
+	- Softmax:
+		- ![image.png](../assets/image_1675599685533_0.png)
+		- ![image.png](../assets/image_1675603049156_0.png)
+	- NN softmax:
+		- ![image.png](../assets/image_1675603950141_0.png)
+		- ![image.png](../assets/image_1675604358678_0.png)
+		-
+- multi label
+	- and or of each output
+	- ![image.png](../assets/image_1675618665002_0.png)
+- Advanced optimization(better than gradient descent)
+	- adam algorithm
+		- adapting learning rate() adaptive moment estimation.
+		- ![image.png](../assets/image_1675620016998_0.png)
+		- in code [[Machine Learning/ Neural Networks/ TensorFlow]]
+		-
+		-
+		-
+- Additional layer types:
+	- convolutional layer
+		- ![image.png](../assets/image_1675620302292_0.png)
+		- ![image.png](../assets/image_1675620450942_0.png)
+		- uses windows to iterate step wise throught data.
+			-
+-
+- Back propagation
+	- ![image.png](../assets/image_1675636827957_0.png)
+		-
+	- ![image.png](../assets/image_1675637493127_0.png)
+	- ![image.png](../assets/image_1675637591484_0.png)
+	- ![image.png](../assets/image_1675637730524_0.png)
+	- ![image.png](../assets/image_1675639005147_0.png)
+	- ![image.png](../assets/image_1675639233308_0.png)
+	- ![image.png](../assets/image_1675719742277_0.png)
+-
+- Bias and Variance:
+	- ![image.png](../assets/image_1676227773701_0.png)
+	- ![image.png](../assets/image_1676227804508_0.png)
+	- ![image.png](../assets/image_1676227885306_0.png)
+- [[Machine Learning/ Neural Networks/ Transfer Learning]]
+-

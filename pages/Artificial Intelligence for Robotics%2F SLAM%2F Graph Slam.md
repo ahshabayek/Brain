@@ -1,0 +1,31 @@
+- ![image.png](../assets/image_1712523208482_0.png)
+- CSP: have to adhere to it in all solutions (Constraint satisfaction problem)
+- global constraint
+- Graph Slam:
+	- given:
+		- Constraints : used to sketch the world
+		- ![image.png](../assets/image_1712524849934_0.png)
+		- correct to better match constraints
+		- ![image.png](../assets/image_1712524890918_0.png)
+		- Graph Slam hard constraints:
+			- no hard points in graph slam
+		- Soft Constraints:
+			- given distances , anchor point.
+		- ![image.png](../assets/image_1712533870054_0.png)
+		- unique solution:
+			- substitution:
+				- ![image.png](../assets/image_1712533964314_0.png)
+			- method of least squares:
+				- ![image.png](../assets/image_1712534025597_0.png)
+				- ![image.png](../assets/image_1712534100888_0.png)
+		- no solution :
+			- least squares result in lower violation magnitude
+		- unbounded : infinite solutions
+			- without an anchor relevant to chosen coordinate system infinte solution are possible.
+		- ![image.png](../assets/image_1712537252756_0.png)
+		- Least squares is least error in graph slam
+		- UnCertainty:
+			- ![image.png](../assets/image_1712615500452_0.png)
+			- dividing means more certainty
+			- ![image.png](../assets/image_1712615554369_0.png)
+			-

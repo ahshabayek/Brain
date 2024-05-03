@@ -1,0 +1,27 @@
+- steps:
+	- first assign points to cluster centroids
+	- ![image.png](../assets/image_1676671692944_0.png)
+	- move centroids to average of all points:
+	- ![image.png](../assets/image_1676671735299_0.png)
+	- keep Repeating steps again till no more changes happen.
+	- ![image.png](../assets/image_1676671788923_0.png)
+	- ![image.png](../assets/image_1676673986504_0.png)
+	- ![image.png](../assets/image_1676674982894_0.png)
+	- optimization:
+		- ![image.png](../assets/image_1676676507387_0.png)
+		- ![image.png](../assets/image_1676676543523_0.png)
+		- ![image.png](../assets/image_1676676570486_0.png)
+		- ![image.png](../assets/image_1676676677143_0.png)
+		- ![image.png](../assets/image_1676676729109_0.png)
+		- random Initialization:
+			- ![image.png](../assets/image_1676677552959_0.png)
+			- ![image.png](../assets/image_1676677665512_0.png)
+			- ![image.png](../assets/image_1676677719224_0.png)
+		- choosing number of clusters:
+			- elbow method
+				- ![image.png](../assets/image_1676678116090_0.png)
+				- not often will a clear elbow will be found.
+			- sometimes different cluster numbers are valid and application dependent:
+			- ![image.png](../assets/image_1676678383540_0.png)
+			-
+-

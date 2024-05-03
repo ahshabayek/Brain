@@ -1,0 +1,10 @@
+- Benefits:
+	- same environment.
+	- sandbox projects.
+	- works! like virtual machine but without the kernel and headache:
+		- ![image.png](../assets/image_1680738048281_0.png)
+-
+- is a container --> running version of an image:
+	- image is a snap shot  of the system at a point in time
+	- ![image.png](../assets/image_1680738262180_0.png)
+	-

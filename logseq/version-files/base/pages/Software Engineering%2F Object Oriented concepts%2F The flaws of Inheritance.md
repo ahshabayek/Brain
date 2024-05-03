@@ -1,0 +1,24 @@
+- https://www.youtube.com/watch?v=hxGOiiR9ZKg&ab_channel=CodeAesthetic
+- Composition v.s inheritance:
+	- Inheritance forces structure of parent even when its not needed.
+	- change is the enemy of perfect design.
+- What is composition:
+	- reusing code without inheritance
+	- pass in object ,  create class that does changes instead.
+	- extends and reuses but also abstraction.
+	- cons:
+		- initialize all internal types, code will be repeated
+		- alot of wrapper methods when in need to expose info from internal types
+	- Pros:
+		- reduces coupling to reused code.
+		- adaptable as changes come in.
+- Interfaces
+	- what a class can do:
+	- only critical part of the contract and are tact on existing classes.
+	- Dependency Injection: passing in interface of what you re going to do.
+- Inheritance when to use:
+	- Highly repetitive code with few needed changes.
+	- tips:
+		- avoid  protected member variables with direct access
+		- create apis for everything
+		- all else private.

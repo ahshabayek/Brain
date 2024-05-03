@@ -1,0 +1,5 @@
+- squared or cubic function:
+	- ![image.png](../assets/image_1672868918256_0.png)
+- square root:
+	- ![image.png](../assets/image_1672868967788_0.png)
+	-

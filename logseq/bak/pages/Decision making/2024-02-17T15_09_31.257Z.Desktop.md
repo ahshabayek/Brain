@@ -1,0 +1,5 @@
+- uncertainties == probailities
+- sequential decisions.
+- fast convergence.
+- [[Decision making/ Decision making for autonomous sytems]]
+-

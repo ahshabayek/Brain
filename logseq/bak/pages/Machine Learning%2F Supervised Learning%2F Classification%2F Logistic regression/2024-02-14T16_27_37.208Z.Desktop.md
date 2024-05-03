@@ -1,0 +1,20 @@
+- threshold function , sigmoid or logistic function output of 0 or 1.
+- ![image.png](../assets/image_1673478972166_0.png)
+- ![image.png](../assets/image_1673559250945_0.png)
+- output of sigmoid is like the probability of classification:
+	- ![image.png](../assets/image_1673559573570_0.png)
+	- Desicion Boundary:
+		- ![image.png](../assets/image_1673562703057_0.png)
+		- ![image.png](../assets/image_1673562734185_0.png)
+		- Cost function:
+			- why squared error is not good for logistic regression:
+				- many local minma:
+				- ![image.png](../assets/image_1673814838308_0.png)
+			- ![image.png](../assets/image_1673817970478_0.png)
+			- ![image.png](../assets/image_1673818040883_0.png)
+			-
+		-
+- ![image.png](../assets/image_1674516567338_0.png)
+- ![image.png](../assets/image_1674516681286_0.png)
+- idea of how to efficiently find parameters for different models from statistics.
+-

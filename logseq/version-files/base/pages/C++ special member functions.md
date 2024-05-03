@@ -1,0 +1,7 @@
+- wandbox.org
+- 6 types of special member functions
+	- ![image.png](../assets/image_1696802141755_0.png)
+	- default constructor:
+		- constructor is the one with no parameters or taking defaults
+		- if you write any constructor compiler will not generate default constructor
+		-

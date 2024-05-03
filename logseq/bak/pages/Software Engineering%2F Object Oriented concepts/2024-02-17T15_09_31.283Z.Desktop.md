@@ -1,0 +1,2 @@
+- [[Software Engineering/ Object Oriented concepts/ The flaws of Inheritance]]
+-

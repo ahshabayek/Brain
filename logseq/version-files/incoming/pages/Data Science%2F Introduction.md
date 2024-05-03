@@ -1,0 +1,9 @@
+- ![image.png](../assets/image_1668340196242_0.png)
+- ![image.png](../assets/image_1668340419714_0.png)
+- ![image.png](../assets/image_1668340474575_0.png)
+- #[[Artificial Intelligence ]] is the ability to simulate human knowledge and decision making.
+- #[[machine learning]] ability to predict outcomes without being explicitly programmed.
+- #[[machine learning]] is about creating and implementing algorithms that let machines receive data an us it for prediction, patterns and recommendations.
+- ![365 Data Science Infographic.png](../assets/365_Data_Science_Infographic_1668460333293_0.png)
+-
+-

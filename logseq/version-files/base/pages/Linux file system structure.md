@@ -1,0 +1,20 @@
+- case sensitive
+- ls to list directories
+- cat to display output of a file
+- bin: system installed apps
+- boot where bootloaders are
+- dev where disks live where devices and drivers are
+- etc
+- home
+- lib : lib dependencies
+- media/ mnt : mnt for manual mounting.
+- opt: optional software from vendors
+- proc: process folders, processes info stored also info from kernel system cpu
+- root : root home
+- run: runs in ram for root procedures
+- srv: server
+- sys: system files emptied on reboot dnt store here
+- usr: user installed applications
+- var: directories that will constantly grow in size
+- {{video https://www.youtube.com/watch?v=HbgzrKJvDRw&ab_channel=DorianDotSlash}}
+-

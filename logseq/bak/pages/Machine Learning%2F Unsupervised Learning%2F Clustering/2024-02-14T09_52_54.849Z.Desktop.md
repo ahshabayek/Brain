@@ -1,0 +1,5 @@
+- grouping similar data samples together into different categories
+- ![image.png](../assets/image_1676670648315_0.png)
+- algorithms:
+	- [[Machine Learning/ Unsupervised Learning/ Clustering/ Kmeans]]
+	-

@@ -1,0 +1,2 @@
+- conda env create -f rait_env.yml
+-

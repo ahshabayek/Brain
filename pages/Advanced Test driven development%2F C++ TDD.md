@@ -1,0 +1,25 @@
+- Test driven development or test driven design
+	- as an aim to mainly improve design
+	- ![image.png](../assets/image_1713732425716_0.png)
+- Write afailing test:
+	- failed calls are a failing test.
+- write justt```
+  git remote -v
+  ``` the code to pass test
+	- not clean ,just tinkery code to pass
+- refactor
+	- no functionality or test changes
+	- dont miss unless very conscious about it
+- SOLID
+- functional requirment:
+	- what can be test as value from the API
+- Practicing takes time and requires a safe environment , deliberate repetitive problem
+- limit test to the scope of your changes
+- write good names for tests
+	- helps code design and furture development
+- ![image.png](../assets/image_1713780763191_0.png)
+- ![image.png](../assets/image_1713780920345_0.png)
+- ![image.png](../assets/image_1713781380625_0.png)
+- ![image.png](../assets/image_1713781782064_0.png)
+- ![image.png](../assets/image_1713782785145_0.png)
+- "only test things that can possibly break " ken beck

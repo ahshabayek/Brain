@@ -1,0 +1,2 @@
+- one of the main purposes is to have a name corresponding to structures which helps us better understand and organize code.
+-

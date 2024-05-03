@@ -1,0 +1,43 @@
+- The STL in a nutshell:
+	- Containers: implementation of data collections.
+	- Algorithms: work on data contained in containers.
+	- Iterators: The glue between containers and algorithms.(the abstraction layer)
+	- Function Objects: provide flexibility and customizability.
+	- Adapters: adapting the basic containers to special ones.
+	- Allocators : Generalization and customization of memory allocation.
+-
+- No Raw loops:
+	- when using range loop pair with auto reference.
+	-
+- Increments
+	- prefix: ++iter
+	- Postfix: iter++  returns a copy, high cost
+	- alittle like pointer
+	- an iterator is a pointer one way relationship.
+	-
+- STL Algorithms:
+	- shuffle (start iterator, end iterator, how to get random numbers == std::random_device{})/ random_shuffle
+	- std::begin() or .begin() . first better to be generic.
+	- std::find(), std::min(), std::max(). returns first smallest/largest encounter. last if empty.
+	- std::min_element(start, end, function"possibly lambda")
+		- std::less<>{} 17 or after without <>
+	- p.s: < works with strings
+	- Lambda: [](){}:
+		- L: [](parameter1, parameter2 ,...etc){implementation}
+		- std::sort(begin, end, [](p1, p2){return comparison});
+		- std:stable_sort()
+		- saves performance than function pointers 3 to 5 that are slower: check C++ core guidelines.
+		- always use function objects instead when not using lambda. lambda is a function object itself.
+		- a global lambda is possible but occupies memory. not recommended in big projects.
+		- global  lambda = "auto isx = [](){}"
+		-
+	- boolean return functions named as a question
+	- why braces instead of brackets ? recommended.
+	- std::partition() and stable_partition which preserves previous order.
+	- std::accumulate()
+- C++ webtools:
+	- cppinsights.io
+	- wandbox.org
+	- godbolt.org
+	-
+	-

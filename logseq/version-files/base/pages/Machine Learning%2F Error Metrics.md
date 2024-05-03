@@ -1,0 +1,9 @@
+- ![image.png](../assets/image_1676238644200_0.png)
+- ![image.png](../assets/image_1676238955032_0.png)
+- an algo with either 0 recall or precisiom isnt useful.
+- Trading precision and Recall:
+	- application dependent.
+	- ![image.png](../assets/image_1676241544367_0.png)
+	- ![image.png](../assets/image_1676241704633_0.png)
+		-
+	- harmonic mean emphasizes smaller values more.

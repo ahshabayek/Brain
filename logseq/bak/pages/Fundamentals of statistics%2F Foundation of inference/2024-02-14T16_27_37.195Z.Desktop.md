@@ -1,0 +1,35 @@
+-
+- Parameteric statistical models
+	- Estimation
+	- confidence intervals
+	- Hypothesis testing
+- Trinity of statistical inference
+	- Estimation:
+		- parameters of distribution
+		- random variable is the the estimator itself.
+	- Confidence interval
+		- error interval
+	- Hypothesis testing
+		- yes no answer
+- why do statistical model:
+	- learn distribution of  X and its parameters.
+	- Poisson distribution to model number of anything.
+- what is a statistical model:
+	- outcome of observed  statistical experiment be a sample of random variables in a measurable space
+	- always a pair, the space where the random variables live and a family of probability distributions. also the parameter set
+- Parametric , non and semi parametric models.
+	- well specified probability model
+	- parametric is within finite space
+	- non parametric within infinite space.
+	- probability models are parametric.
+	-
+- ![image.png](../assets/image_1685355142430_0.png)
+-
+-
+- Mixtures of Gaussians:
+	- unimodal = one maxima
+	- weighted average of 2 random variables
+	- latent variable, indicate from which distribution to use. it has to be independent from both RV
+- ![image.png](../assets/image_1685365152589_0.png)
+- Identifiable models : from a huge set of outputs input can be discerned .
+-

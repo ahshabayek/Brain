@@ -1,0 +1,29 @@
+- ![image.png](../assets/image_1671486495088_0.png)
+- f(x) = wx+b
+- w,b: parameters , coefficients or weights.
+- ![image.png](../assets/image_1671487115533_0.png)
+- cost function?
+	- measure error
+	- ![image.png](../assets/image_1671487775195_0.png)
+	- the 2 in 2mis to make calculations cleaner.
+- ![image.png](../assets/image_1671488092395_0.png)
+- minimize j(w)
+- ![image.png](../assets/image_1671488871050_0.png)
+- ![image.png](../assets/image_1671488987788_0.png)
+- ![image.png](../assets/image_1671489079605_0.png)
+- ![image.png](../assets/image_1671489099632_0.png)
+- use contour plots
+- methods of optimal parameter finding:
+	- [[Machine Learning/ Supervised Learning/ Gradient decent]]
+	- [[Machine Learning/ Supervised Learning/ Normal equation]]
+- Practical tips
+	- Feature scaling
+		- Large number value in a feature will likely be tuned and work better with small parameter values and vise versa.
+		- having both mentioned feature types will cause a jumpy regression hence feature scaling.
+			- methods
+				- divide by max value (x-min)/(max-min).
+				- mean normalization, first find mean/average of feature .  input - mean / max - min
+				- z-score normalization. mean and standard deviation. input - mean/ standard deviation.
+			- re scaling is done to values far from range of -1 to 1.
+			- ![image.png](../assets/image_1672607444999_0.png)
+-
