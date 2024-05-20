@@ -1,0 +1,8 @@
+- useful for well formed problems
+- ![image.png](../assets/image_1716222339036_0.png)
+- divide into sub goals
+- ![image.png](../assets/image_1716222470748_0.png)
+- pick the sub goal differentiating to goal.
+- universal method
+- no guarantees of efficiency or success
+-

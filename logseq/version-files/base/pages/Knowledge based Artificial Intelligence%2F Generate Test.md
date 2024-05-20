@@ -1,0 +1,20 @@
+- a problem solving method
+- solutions to a problem then test
+- no infinite computational resources, no complete knowledge of the world to check best optimality
+- protentional  or plausible solutions then.
+- generator and tester
+	- generator produces all states
+	- tester remove states that re nt possible
+- combinatorial explosion happens
+- dum generator and tester is very inefficient
+- a coupling between a knowledge representation and problem solving> semantic networks and generate and test
+- genetic algorithms are a smart test problem approach
+- knowledge representation defines/provides the level of abstraction for the generator and tester to stick to
+-
+- ![image.png](../assets/image_1716219962113_0.png)
+- weak methods, as coupling is limited.
+- [[Knowledge based Artificial Intelligence/ Generate Test/ Means Ends Analysis]]
+- [[Knowledge based Artificial Intelligence/ Generate Test/ Problem reduction]]
+- combination of methods can often be used.
+-
+-

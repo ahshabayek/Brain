@@ -16,6 +16,8 @@
 - ![image.png](../assets/image_1715893587452_0.png)
 - ![image.png](../assets/image_1715893606158_0.png)
 	- [[Knowledge based Artificial Intelligence/ Semantic Networks]]
+	- [[Knowledge based Artificial Intelligence/ Generate Test]]
+	-
 	-
 - ![image.png](../assets/image_1715896027366_0.png)
 - ![image.png](../assets/image_1715896046030_0.png)

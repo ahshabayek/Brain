@@ -1,0 +1,13 @@
+- useful for well formed problems
+- reduction of difference between current and goal is the ends
+- the application of operator is the means.
+- ![image.png](../assets/image_1716221177834_0.png)
+- cant decide between first and last
+- ![image.png](../assets/image_1716221251508_0.png)
+-
+-
+-
+- ![image.png](../assets/image_1716221313337_0.png)
+-
+- Universal Ai method
+- no efficiency or solution guarantees
