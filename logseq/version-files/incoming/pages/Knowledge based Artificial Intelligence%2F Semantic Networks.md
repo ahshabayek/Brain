@@ -26,3 +26,4 @@
 - cognition, relationship between objects.
 - representation is the key
 -
+-

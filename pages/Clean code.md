@@ -1,2 +1,4 @@
 - Kernighan's law: “Debugging is twice as hard as writing the code in the first place.
+- “Code tells you how; Comments tell you why.”
+	- — *[Jeff Atwood](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/) (aka Coding Horror)*
 -
