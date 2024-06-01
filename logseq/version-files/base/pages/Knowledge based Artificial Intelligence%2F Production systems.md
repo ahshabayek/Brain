@@ -1,0 +1,20 @@
+- an architecture where knowledge is represented interms of rules.
+- ![image.png](../assets/image_1717014446211_0.png)
+- ![image.png](../assets/image_1717014638420_0.png)
+- what should we do next? based on history of percepts
+- ![image.png](../assets/image_1717015696344_0.png)
+- ![image.png](../assets/image_1717016044998_0.png)
+- ![image.png](../assets/image_1717016480549_0.png)
+- ![image.png](../assets/image_1717016842143_0.png)
+- ![image.png](../assets/image_1717016857786_0.png)
+- longterm memory are the 3 top components
+- Episodic : has to do with events
+- semantic: journalistiation, concepts and models of the world
+- procedural : is the how to
+- inpass happens when ,multiple actions or none has been selected, next episodic knowledge to learn and handle it
+- episodic knowledge will learn from previous operator
+- use chunking to find a rule that breaks the inpass
+- use a previous scenario and its result
+- ![image.png](../assets/image_1717018560897_0.png)
+- ![image.png](../assets/image_1717019201537_0.png)
+-

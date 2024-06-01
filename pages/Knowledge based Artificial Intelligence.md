@@ -17,10 +17,13 @@
 - ![image.png](../assets/image_1715893606158_0.png)
 	- [[Knowledge based Artificial Intelligence/ Semantic Networks]]
 	- [[Knowledge based Artificial Intelligence/ Generate Test]]
-	-
+	- [[Knowledge based Artificial Intelligence/ Production systems]]
 	-
 - ![image.png](../assets/image_1715896027366_0.png)
 - ![image.png](../assets/image_1715896046030_0.png)
+	- [[Knowledge based Artificial Intelligence/ Frames]]
+		-
+		-
 - ![image.png](../assets/image_1715896079639_0.png)
 - ![image.png](../assets/image_1715896094059_0.png)
 - ![image.png](../assets/image_1715896128960_0.png)
