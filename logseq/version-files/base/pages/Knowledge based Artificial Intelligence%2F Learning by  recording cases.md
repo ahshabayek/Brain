@@ -1,0 +1,8 @@
+- ![image.png](../assets/image_1717529418562_0.png)
+- k nearest neighbours using euclidean distance
+	- ![image.png](../assets/image_1717531183221_0.png)
+- ![image.png](../assets/image_1717532223544_0.png)
+- ![image.png](../assets/image_1717532249569_0.png)
+- ![image.png](../assets/image_1717532322367_0.png)
+- ![image.png](../assets/image_1717532460055_0.png)
+-

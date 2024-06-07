@@ -1,0 +1,28 @@
+- different from learning by recorded case as new cases might not fit any visited before, but an entirely new one.
+- ![image.png](../assets/image_1717536948207_0.png)
+	- retrieval is like learning by recorded and k neighbours
+	- patterns are existing in the physical world and must be accounted by intelligence as possibility.
+	- ![image.png](../assets/image_1717537114765_0.png)
+	- Adaptation:
+		- mostly tweaking if we have good retrieval
+		- model based method:
+			- find an approximately close or similar case then adapt with adding a small solution.
+		- case based reasoning recursively:
+			- partial solutions from different problems. composite solution made of 2 or more seperate ones
+			- compound analogy
+		- case adaption by rules:
+			- define a heuristic, rule of thumb that works often not always.
+	- case storage:
+		- indexing:
+			- similar to having a tag
+			- indexing is assigned by using the relevant criteria for solution
+		- Discrimination tree
+			- not a binary tree
+	- ![image.png](../assets/image_1717711947745_0.png)
+	- ![image.png](../assets/image_1717711965476_0.png)
+	- ![image.png](../assets/image_1717711981713_0.png)`
+	  id:: 6662345f-ee9c-474e-82f4-5d6a1e6c904e
+	- ` ![image.png](../assets/image_1717712044487_0.png)
+	- utility problem dnt store every successful case only ones that make a difference.
+- ![image.png](../assets/image_1717712285985_0.png)
+-

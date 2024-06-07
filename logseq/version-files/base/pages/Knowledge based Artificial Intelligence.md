@@ -25,7 +25,13 @@
 		-
 		-
 - ![image.png](../assets/image_1715896079639_0.png)
+	- [[Knowledge based Artificial Intelligence/ Learning by  recording cases]]
+	- [[Knowledge based Artificial Intelligence/ Incremental Concept Learning]]
+	-
+	-
 - ![image.png](../assets/image_1715896094059_0.png)
+	- assets:///home/ashabayek/Documents/Thoughts/Brain/assets/image_1715896079639_0.png
+	- [[Knowledge based Artificial Intelligence/ Case Based Reasoning]]
 - ![image.png](../assets/image_1715896128960_0.png)
 - ![image.png](../assets/image_1715896150330_0.png)
 - ![image.png](../assets/image_1715896167189_0.png)
