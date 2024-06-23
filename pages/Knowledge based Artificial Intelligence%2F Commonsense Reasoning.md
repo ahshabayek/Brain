@@ -1,0 +1,10 @@
+- ![image.png](../assets/image_1718921453704_0.png)
+- ![image.png](../assets/image_1718961466120_0.png)
+-
+- ontology is a realization if the world
+- i moved across the room, subject and object are the same.
+- ![image.png](../assets/image_1718962709508_0.png)
+- lexical is an atom representation a molecule presentation is the needed.
+- ![image.png](../assets/image_1718979227378_0.png)
+- ![image.png](../assets/image_1718979750993_0.png)
+-

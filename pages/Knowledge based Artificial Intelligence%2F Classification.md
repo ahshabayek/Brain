@@ -1,0 +1,32 @@
+- ![image.png](../assets/image_1718049835904_0.png)
+- use of criteria and condition to restrict classification
+- ![image.png](../assets/image_1718050199360_0.png)
+- ![image.png](../assets/image_1718050283340_0.png)
+- ![image.png](../assets/image_1718050305049_0.png)
+- large amount of mappings possible.
+- ![image.png](../assets/image_1718050360933_0.png)
+- how then select right action in complex enviroment
+- ![image.png](../assets/image_1718050460506_0.png)
+- index actions on concepts instead disease and medicine and symptoms. error and mis initialization.
+- classification using knowledge breaks a laarrgee table to a much smaller one
+- Concept Hierarchy:
+	- top down establish refine approach. a property can help down the hierarchy for specifity/ refinement. works with formal concepts only. clear and distinctive.
+	- ![image.png](../assets/image_1718051527184_0.png)
+	- there are more as well
+	- humans follow axiomatic concepts since they re well defined
+	- prototype harder
+	- exemplar like beauty and freedom is much harder.
+	- ![image.png](../assets/image_1718051656348_0.png)
+	- ![image.png](../assets/image_1718051768548_0.png)
+	- ![image.png](../assets/image_1718051839532_0.png)
+	- Exemplar concepts:
+		- ![image.png](../assets/image_1718051898821_0.png)
+		- hard to define or come up with rules or criteria for
+	- qualia:
+		- know but hard to communicate.
+	- ![image.png](../assets/image_1718052174752_0.png)
+	- Holiday for one cannot be abstracted into a concept.
+- bottom up method:
+-
+- ![image.png](../assets/image_1718052525368_0.png)
+-

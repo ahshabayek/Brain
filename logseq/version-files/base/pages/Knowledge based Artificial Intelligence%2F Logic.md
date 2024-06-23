@@ -1,0 +1,50 @@
+- ![image.png](../assets/image_1718142371461_0.png)
+- why use logic
+	- knowledge base and rules of inference
+	- ![image.png](../assets/image_1718224786357_0.png)
+	- ![image.png](../assets/image_1718225385590_0.png)
+	- Implication junction:
+		- ![image.png](../assets/image_1718225468981_0.png)
+	- disjunction:
+		- vvv ![image.png](../assets/image_1718225527547_0.png)
+	- ![image.png](../assets/image_1718225577454_0.png)
+	- arrow symbol for implication:
+		- ![image.png](../assets/image_1718225625161_0.png)
+- Truth tables:
+	- de Morgan's law:
+		- ![image.png](../assets/image_1718267376436_0.png)
+		-
+- ![image.png](../assets/image_1718275117849_0.png)
+- ![image.png](../assets/image_1718275279509_0.png)
+- so far only propositional logic used, zero order logic
+- predicate calculus: first order logic
+	- ![image.png](../assets/image_1718275957123_0.png)
+	- ![image.png](../assets/image_1718276034899_0.png)
+- resolution theorm proofing
+	- ![image.png](../assets/image_1718318553025_0.png)
+	- convert every sentence into conjuctive normal form
+		- literal positive or negative
+		- disjuctional literal
+		- conjunction disjuctional literal
+	- proof by refutation
+- resolution theorm proofing
+	- first every sentence into a conjunctive normal form.
+		- ![image.png](../assets/image_1718368152478_0.png)
+	- ![image.png](../assets/image_1718368235338_0.png)
+	- ![image.png](../assets/image_1718368272448_0.png)
+	- elimination of the thing and its not is resolution
+- ![image.png](../assets/image_1718368353616_0.png)
+- conjunction is an and. disjunction is an or
+- more complex
+	- ![image.png](../assets/image_1718368972227_0.png)
+	- we convert to conjunctive normal form. so contain literals or disjinction of literals or conjunction of disjunction of literals.
+	- we then reach a null or a contradiction:
+		- ![image.png](../assets/image_1718369030224_0.png)
+	- the rise of this approach is due to horn clauses:
+		- it is a disjunction that contains at most one positive literal
+	-
+- if you dont find null condition then the sentence cant be proved
+- ![image.png](../assets/image_1718373130118_0.png)
+- deduvtive logic: reasoning from causes to effects
+- inductive logic: reasoning from relationship of cause an effect for a sample to population.
+- abduction logic: reasoning from effects to causes data to explanation to a category for the data

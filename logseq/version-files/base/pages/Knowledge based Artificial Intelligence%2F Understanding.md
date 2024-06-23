@@ -1,0 +1,17 @@
+- ![image.png](../assets/image_1718918935540_0.png)
+-
+- Sentence analysis:
+	- Semantic analysis(agent action instrument ):
+		- ![image.png](../assets/image_1718919426048_0.png)
+		- ![image.png](../assets/image_1718919741314_0.png)
+		- semantic categories :
+			- ![image.png](../assets/image_1718919836731_0.png)
+		- Agent ontology:
+			- ![image.png](../assets/image_1718920004080_0.png)
+		- lexical analysis types of word(noun , verd, etc)
+			-
+		- syntactic analysis (structure of senctence)
+		- ![image.png](../assets/image_1718920155722_0.png)
+		-
+- ![image.png](../assets/image_1718921083683_0.png)
+-
