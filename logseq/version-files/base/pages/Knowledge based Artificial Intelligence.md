@@ -30,13 +30,20 @@
 	- [[Knowledge based Artificial Intelligence/ Understanding]]
 	- [[Knowledge based Artificial Intelligence/ Frames]]
 	- [[Knowledge based Artificial Intelligence/ Commonsense Reasoning]]
+	- [[Knowledge based Artificial Intelligence/ Scripts]]
 	-
 - ![image.png](../assets/image_1715896079639_0.png){:height 444, :width 780}
 	- [[Knowledge based Artificial Intelligence/ Learning by  recording cases]]
 	- [[Knowledge based Artificial Intelligence/ Incremental Concept Learning]]
 	- [[Knowledge based Artificial Intelligence/ Classification]]
+	- [[Knowledge based Artificial Intelligence/ Version Spaces]]
+	-
 	-
 - ![image.png](../assets/image_1715896094059_0.png)
+	- [[Knowledge based Artificial Intelligence/ Explanation Based learning]]
+	- [[Knowledge based Artificial Intelligence/ Analogical Reasoning]]
+	-
+	-
 - ![image.png](../assets/image_1715896128960_0.png)
 - ![image.png](../assets/image_1715896150330_0.png)
 - ![image.png](../assets/image_1715896167189_0.png)

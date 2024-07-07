@@ -1,0 +1,10 @@
+- ![image.png](../assets/image_1719778295505_0.png)
+- ![image.png](../assets/image_1719779239885_0.png)
+- all must be observable events/signs
+- ![image.png](../assets/image_1719779516432_0.png)
+- big large molecule like concept
+- ![image.png](../assets/image_1719779612952_0.png)
+- ![image.png](../assets/image_1720353237538_0.png)
+- ![image.png](../assets/image_1720353370149_0.png)
+- Tracks:
+	-
