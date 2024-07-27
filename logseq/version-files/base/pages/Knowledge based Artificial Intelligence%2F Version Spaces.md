@@ -1,65 +1,52 @@
-- In this section, we examine the processing of the fourth example, which is a negative one as indicated by the red outline. When dealing with a negative example, our task is to specialize the current general concept characterizations to exclude this example while remaining consistent with the most specialized characterization at present.
-- **Initial Check**: First, we check if we need to specialize the general concept:
-	- The general concept characterization already excludes the negative example, so no further specialization is required.
-- **Specialization Requirement**:
-	- We then look at another general model that currently includes the negative example and specialize it accordingly.
-	- This means adjusting the general concept to exclude the negative example while maintaining consistency with the most specialized characterization.
-- **Pruning**:
-	- If there's a node subsumed by another pathway starting from the same general concept characterization, we prune that node.
-	- This simplification helps maintain clarity, e.g., if we already know we're allergic to any meal at Sam’s, we don't need to specify that it's just cheap meals at Sam’s.
-- #### Figures 700-701: Example Food Allergies V
+- ![image.png](../assets/image_1720388954719_0.png)
+- ![image.png](../assets/image_1720389271541_0.png)
+- ![image.png](../assets/image_1720390254743_0.png)
+-
+-
+- ![image.png](../assets/image_1720391811038_0.png)
+- ### Lesson 19 - Version Spaces
   
-  Upon processing the fifth example, another negative one, the same approach is followed:
-- **Specializing Based on Negative Example**:
-	- Ensure the specialization excludes the negative example and is consistent with the most specialized concept characterization.
-	- In this case, the specialization “Sam’s cheap” excludes the negative example, focusing on the concept that a cheap meal at Sam’s causes the allergy.
-- **Convergence**:
-	- The agent identifies convergence when the general and specific models align.
-	- Ultimately, the conclusion is that allergies occur when having a cheap meal at Sam’s.
-- #### Figures 702-704: Version Spaces Algorithm
+  **Figures 697-699: Example Food Allergies IV**
   
-  The version spaces algorithm helps ensure convergence to a stable concept characterization by:
-- **Positive Example**:
-	- Generalize all specific models to include the positive example.
-	- Prune away general models that cannot include the positive example.
-- **Negative Example**:
-	- Specialize all general models to exclude the negative example.
-	- Prune away specific models that cannot include the negative example.
-- **Subsumption**:
-	- Prune away any models subsumed by others to maintain efficiency.
-	  
-	  The method ensures convergence as long as a sufficiently large number of examples are provided.
-- #### Figures 705-717: Exercise Version Spaces
+  When processing the fourth example, indicated by a red outline, it is identified as a negative instance. To address this, we must specialize the general concept characterizations available. First, we check if the current general concept needs specialization. However, this general concept already excludes the negative example. For instance, the generalization that applies to "Sam’s" but has "Bob’s" within it already excludes the negative example. Therefore, further specialization is unnecessary.
   
-  Exercises demonstrate the application of version spaces through incremental adjustments:
-- **Positive Example**:
-	- Generalize the most specific model to include the positive example, expanding the scope of the concept.
-- **Negative Example**:
-	- Specialize the most general model to exclude the negative example, narrowing down the possible concept space.
-- **Specialization and Generalization**:
-	- This iterative process continues until only a few consistent models remain, each consistent with all observed examples.
-- #### Figures 718-724: Identification Trees
+  Next, we examine another general model to see if it requires specialization to exclude the negative example. At this stage, it includes the negative example because it generalizes to any element. Therefore, we must specialize this concept to exclude the negative example while ensuring consistency with the most specialized characterization.
   
-  Identification trees (decision trees) are another method for processing data:
-- **Optimal Trees**:
-	- Decision trees classify data based on features to efficiently separate positive and negative examples.
-- **Feature Selection**:
-	- The choice of features is crucial for creating an optimal tree that minimizes classification time and maximizes accuracy.
-- **Incremental vs. Batch Learning**:
-	- Discrimination tree learning is incremental, while decision tree learning requires all examples upfront.
-- #### Figures 725-726: Assignment and Wrap-Up
+  It's crucial to prune nodes in the pathway if one node is subsumed by another from the same general concept characterization. For instance, if I'm allergic to any meat at Sam’s, specifying an allergy to cheap meat at Sam’s becomes redundant. Thus, this particular pathway can be pruned, leaving the significant pathways intact. After processing, two possibilities remain: being allergic to everything at Sam’s or every cheap meal at Sam’s.
   
-  Version spaces can also be applied to complex problems like Raven’s Progressive Matrices by focusing on:
-- **Concept Learning**:
-	- Identifying the concept or pattern within the examples.
-- **Incremental vs. General Learning**:
-	- Converging on a specific answer within one problem or learning general problem-solving strategies.
-	  
-	  **Wrap-Up**:
-- Version spaces provide a powerful way to converge on a concept without prior knowledge.
-- The approach iterates between generalizing and specializing models until convergence.
-- Identifying and overcoming limitations such as the absence of positive/negative examples and addressing multiple correct concepts is essential for practical applications.
+  **Figures 700-704: Example Food Allergies V**
   
-  **Cognitive Connection**:
-- Cognitive agents must balance undergeneralization and overgeneralization.
-- Version spaces help find the right level of abstraction, enhancing cognitive flexibility by allowing multiple characterizations to converge over time.
+  Upon encountering the fifth example, again a negative instance, we must specialize the general characterizations to exclude this example. The most specific generalization that excludes the negative instance but remains consistent is "Sam’s cheap." It excludes this example because the meal is cheap, ruling out the instance as it is expensive.
+  
+  This method guarantees convergence, ensuring the learning agent stabilizes on a concept characterization given enough examples. We did not use background knowledge or assume examples were presented in a specific order, highlighting the flexibility of version space learning.
+  
+  In incremental concept learning, each example differs by one feature from the current concept characterization. In version space learning, examples can differ by many features. The version space algorithm generalizes or specializes models based on positive or negative examples and prunes models subsumed by others, ensuring convergence.
+  
+  **Figures 705-717: Exercise Version Spaces**
+  
+  Exercises involve applying the version space algorithm to various examples. Starting with specific and general models, we refine these models based on positive or negative examples, either generalizing or specializing as necessary.
+- **Exercise I:** With the first positive example, the most specific model is an allergy to any breakfast on Friday that’s cheap and non-vegan, while the most general model is an allergy to everything.
+- **Exercise II:** Given a second positive example, we generalize the specific model to any meal at Kim’s on Friday that’s cheap and non-vegan.
+- **Exercise III:** Write down the generalization of the specific model consistent with this positive example.
+- **Exercise IV:** When a negative example appears, we specialize the general model. It’s clear not all instances cause an allergy, so we refine the general model.
+- **Exercise V:** Specialize and prune based on the negative example, resulting in three potential general models: allergic to everything at Kim’s, all breakfasts, or eating on Friday. Models based on cost or vegan status are pruned.
+- **Exercise VI:** Complete the exercise with given examples and features to decide the converged model.
+  
+  **Figures 718-724: Identification Trees**
+  
+  Decision trees are another method for processing data like version spaces but require all examples upfront. We discussed how decision trees are constructed, using features to split data into categories that classify examples efficiently. Decision tree learning provides optimal classification trees compared to discrimination tree learning, which is incremental but may be less optimal.
+  
+  **Figure 725: Assignment Version Spaces**
+  
+  Version spaces can be applied to solving Raven’s progressive matrices by defining what concept to learn and what increments to use, converging onto a correct answer or an adoptable algorithm for solving problems.
+  
+  **Figure 726: Wrap Up**
+  
+  Version spaces help converge on a concept understanding without prior knowledge or a specific order of examples. We refine general and specific models iteratively until convergence. The limitations and applications of version spaces, including their connection to identification trees and incremental learning, were discussed.
+  
+  **Figure 727: The Cognitive Connection**
+  
+  Cognitive agents must balance undergeneralization and overgeneralization. Version spaces allow convergence to an appropriate level of abstraction, demonstrating cognitive flexibility by maintaining multiple perspectives until convergence. An alternate approach involves generalizing, testing in the real world, and learning from mistakes, a topic revisited later in the class.
+- ### Summary
+  
+  Version spaces offer a systematic approach to concept learning, ensuring convergence and stability in understanding. This method is robust against the order of examples and does not rely on background knowledge, making it versatile for various applications, including solving complex problems and understanding cognitive processes.

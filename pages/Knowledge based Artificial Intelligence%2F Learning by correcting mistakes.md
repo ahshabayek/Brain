@@ -1,0 +1,11 @@
+- ![image.png](../assets/image_1721668041338_0.png)
+- ![image.png](../assets/image_1721668493665_0.png)
+- Credit assignment/Blame assignment: more criteria not considered found by checking rejected example, error in ones knowledge
+- self diagnosing/ self repairing.
+- false suspicious identify only negative experiences.
+- ![image.png](../assets/image_1721669208204_0.png)
+-
+- ![image.png](../assets/image_1721859883351_0.png)
+- ![image.png](../assets/image_1721864652578_0.png)
+-
+-

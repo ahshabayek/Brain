@@ -16,16 +16,46 @@
 - ![image.png](../assets/image_1715893587452_0.png)
 - ![image.png](../assets/image_1715893606158_0.png)
 	- [[Knowledge based Artificial Intelligence/ Semantic Networks]]
+	- [[Knowledge based Artificial Intelligence/ Production systems]]
 	- [[Knowledge based Artificial Intelligence/ Generate Test]]
+	- [[Knowledge based Artificial Intelligence/ Generate Test/ Means Ends Analysis]]
+	- [[Knowledge based Artificial Intelligence/ Generate Test/ Problem reduction]]
 	-
 	-
 - ![image.png](../assets/image_1715896027366_0.png)
+	- [[Knowledge based Artificial Intelligence/ Logic]]
+	- [[Knowledge based Artificial Intelligence/ Planning]]
+	-
 - ![image.png](../assets/image_1715896046030_0.png)
-- ![image.png](../assets/image_1715896079639_0.png)
+	- [[Knowledge based Artificial Intelligence/ Understanding]]
+	- [[Knowledge based Artificial Intelligence/ Frames]]
+	- [[Knowledge based Artificial Intelligence/ Commonsense Reasoning]]
+	- [[Knowledge based Artificial Intelligence/ Scripts]]
+	-
+- ![image.png](../assets/image_1715896079639_0.png){:height 444, :width 780}
+	- [[Knowledge based Artificial Intelligence/ Learning by  recording cases]]
+	- [[Knowledge based Artificial Intelligence/ Incremental Concept Learning]]
+	- [[Knowledge based Artificial Intelligence/ Classification]]
+	- [[Knowledge based Artificial Intelligence/ Version Spaces]]
+	-
+	-
 - ![image.png](../assets/image_1715896094059_0.png)
+	- [[Knowledge based Artificial Intelligence/ Explanation Based learning]]
+	- [[Knowledge based Artificial Intelligence/ Analogical Reasoning]]
+	-
+	-
 - ![image.png](../assets/image_1715896128960_0.png)
-- ![image.png](../assets/image_1715896150330_0.png)
+	- [[Knowledge based Artificial Intelligence/ Constraint Propagation]]
+	-
+- ![image.png](../assets/image_1715896150330_0.png){:height 556, :width 780}
+	- [[Knowledge based Artificial Intelligence/ Configuration]]
+	- [[Knowledge based Artificial Intelligence/ Diagnosis]]
+	-
+	-
 - ![image.png](../assets/image_1715896167189_0.png)
+	- [[Knowledge based Artificial Intelligence/ Learning by correcting mistakes]]
+	- [[Knowledge based Artificial Intelligence/ Meta-Reasoning]]
+	-
 - ![image.png](../assets/image_1715896193644_0.png)
 - ![image.png](../assets/image_1715896668747_0.png)
 - ![image.png](../assets/image_1715896721669_0.png){:height 744, :width 780}
