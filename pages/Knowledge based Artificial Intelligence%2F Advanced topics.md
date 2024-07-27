@@ -1,0 +1,6 @@
+- visual spacial knowledge/ reasoning
+-
+- Humans
+	- analogical presentations
+	- propositional presentation(also computers)
+-
