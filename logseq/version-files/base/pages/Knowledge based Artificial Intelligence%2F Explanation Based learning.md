@@ -3,9 +3,14 @@
 - shares some similarity with incremental concept learning.
 - related to creativity
 - ![image.png](../assets/image_1720362580356_0.png)
+	- arrows to indicate causal explanation.
 -
 - ![image.png](../assets/image_1720362964839_0.png)
 - ![image.png](../assets/image_1720363026491_0.png)
+	- we usually traverse from top to bottom.
+	- what is the minimum amount of knowledge do we need
+	- speedup learning connecting existing cases/knowledge
+	-
 - ![image.png](../assets/image_1720379134816_0.png)
 - ### LESSON 17 - EXPLANATION-BASED LEARNING
 - #### 05 - Concept Space
