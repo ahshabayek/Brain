@@ -1,0 +1,23 @@
+- Literals:
+	- Decimal
+	- binary
+	- octal
+	- hexadecimal
+	- 4.2e+2 or 4.2E2
+	- _ can be used to separate digits
+- Expressions and locations
+	- := to combine an expression and assignment , use parenthesis
+- standard operators.
+- inplace assignment
+- Object comparison
+- conditional expressions
+	- minvalue = a if a<=b else b
+- Operations involving iterables
+	- [a, *items,b]: items get expanded
+- Operations on sequences
+	- * makes shallow set copies
+	- [i:j:stride], i<j
+- Operations on mutable sequences
+  Operatons on sets, mappings
+  List set dic comprehension 
+  Generator expressions

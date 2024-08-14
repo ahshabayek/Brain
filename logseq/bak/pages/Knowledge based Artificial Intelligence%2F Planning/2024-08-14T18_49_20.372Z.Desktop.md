@@ -1,0 +1,32 @@
+- ![image.png](../assets/image_1718873977574_0.png)
+- vv ![image.png](../assets/image_1718913906595_0.png)
+- all operations are positive and remain true after being applied for precondition
+- post condition can have negative propositions
+- map history into action selection
+- ![image.png](../assets/image_1718915015369_0.png)
+- heuristic approach : means end analysis would pick the final higher cost transition blind to consequence. creates a condition that obstructs other goals.
+-
+- partial order planning:
+	- also called non linear planning
+	- ![image.png](../assets/image_1718915689543_0.png)
+	- work backwards
+	- ![image.png](../assets/image_1718915934044_0.png)
+	- ![image.png](../assets/image_1718915976244_0.png)
+	- OPen condition problem:
+		- use operator that matches precondition:
+		- ![image.png](../assets/image_1718916080299_0.png)
+- Different agents were required for each operations:
+	- Agent for generating plans for each goal
+	- another for detecting conflicts
+	- another for resolving them
+- partial order planning:
+	- emerging out of interaction between agents 3
+-
+-
+- Hierarchical task network planning
+	- Hierarchical decomposition
+	- ![image.png](../assets/image_1718918570793_0.png)
+	-
+-
+- ![image.png](../assets/image_1718918367664_0.png)
+-

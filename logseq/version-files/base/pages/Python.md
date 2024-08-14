@@ -1,4 +1,4 @@
 - #[[Programming]]
 - [[Python/ Know hows]]
 - [[Python/ Enviroments]]
--
+- [[Python/ Python Distilled]]
