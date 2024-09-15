@@ -1,0 +1,11 @@
+- ![image.png](../assets/image_1724743912346_0.png)
+- var that is not the assigned value will throw an error
+- ![image.png](../assets/image_1724743993705_0.png)
+- casting classes:
+	- ![image.png](../assets/image_1724744515729_0.png)
+	-
+- ![image.png](../assets/image_1724744637202_0.png)
+- ![image.png](../assets/image_1724744651030_0.png)
+- ![image.png](../assets/image_1724744810983_0.png)
+- ![image.png](../assets/image_1724745914994_0.png)
+-

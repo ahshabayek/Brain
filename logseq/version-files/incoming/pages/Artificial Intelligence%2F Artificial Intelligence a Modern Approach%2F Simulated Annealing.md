@@ -1,0 +1,3 @@
+- np hard: non deterministic polynomial time.
+- Iterative improvement problems: TSP travelling salesman problem
+-

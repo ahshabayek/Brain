@@ -13,5 +13,7 @@
 	  }
 	  export PS1="\u@\h \[\e[32m\]\w \[\e[91m\]\$(parse_git_branch)\[\e[00m\]$ "
 	  ```
--
+- multiple accounts:
+	- ssh-keygen -t ed25519 -C "your-personal-email@example.com" -f ~/.ssh/id_ed25519_personal
+	- ssh-keygen -t ed25519 -C "ashabayek3@gatech.edu" -f ~/.ssh/id_ed25519_enterprise
 -

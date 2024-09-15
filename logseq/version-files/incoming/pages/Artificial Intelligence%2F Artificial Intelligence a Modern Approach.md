@@ -1,0 +1,7 @@
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Search]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Search/ Finding Optimal Solutions to Rubik's cube]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Simulated Annealing]]
+-
+- What is a problem:
+	- initial state and a set of actions depending on the state
+	- state and action result in a new state.

@@ -1,3 +1,4 @@
 - is the ability to simulate human knowledge and decision making.
 - ![image.png](../assets/image_1668339734600_0.png)
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach]]
 -

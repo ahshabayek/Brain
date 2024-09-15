@@ -1,0 +1,41 @@
+- Adversarial search
+- Minmax Algorithm
+- Alpha-Beta pruning
+- Evaluation functions
+- Isolation game player
+- Multiplayer, probabilistic games
+- ![chapter06.pdf](../assets/chapter06_1726334097963_0.pdf)
+- Building a game tree.
+	- can grow exponentially b^d
+	- Depth limited search
+		- ![image.png](../assets/image_1726261584972_0.png)
+		- an evaluation function is then needed as trees might not reach deep enough for solution
+		-
+	- iterative deepening
+		- ![image.png](../assets/image_1726322615133_0.png)
+		- almost free in exponential problems
+		- always have an answer limited to time constraints
+	- Horizon effect trouble
+		- cant search enough in the future to see the problem
+		- use better evaluation
+	- MinMax
+		- ![image.png](../assets/image_1726409271401_0.png)
+		-
+	- ALpha Beta pruning
+		- a more efficient min max, this is done by quiting branch exploration when a possible min or max is found
+		- ![image.png](../assets/image_1726327696814_0.png)
+		- ![image.png](../assets/image_1726327714708_0.png)
+		-
+- np hard
+- Thads Asides
+	- AI = Clever Solutions to Exponential Problems
+- MAXN game tree:
+	- ![image.png](../assets/image_1726331130374_0.png)
+	- pruning
+		- ![image.png](../assets/image_1726331853751_0.png)
+- probabilistic games
+	- Expectimax function
+-
+- Chapter 6 reading:
+	- Perfect information: fully observable no uncertainty.
+	- zero-sum games: good for one player bad for the other.
