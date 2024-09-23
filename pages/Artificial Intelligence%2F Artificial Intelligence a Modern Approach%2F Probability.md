@@ -1,0 +1,5 @@
+- Bayes network
+	- ![image.png](../assets/image_1727121325926_0.png)
+	- ![image.png](../assets/image_1727121389871_0.png)
+	- ![image.png](../assets/image_1727121424941_0.png)
+	-

@@ -1,0 +1,15 @@
+- Constraint Graph
+- unary / binary or more constraints, many variables
+- backtracking search
+	- choose already used critieria
+	- choose state with most constraints next
+	- Minimizing Backtracking and using the least constraining value
+	- Minimizing Backtracking and using the minimum remaining value
+- Forward checking
+	- for each unassigned variable keep track of remaining legal value.
+	- ![image.png](../assets/image_1727011905195_0.png)
+	- Arc consistency:
+		- ![image.png](../assets/image_1727028295512_0.png)
+- structure a problem to form a tree speeding search by having an arc consistent model:
+	- ![image.png](../assets/image_1727029002353_0.png)
+- ![image.png](../assets/image_1727038857699_0.png)
