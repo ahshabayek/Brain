@@ -3,3 +3,59 @@
 	- ![image.png](../assets/image_1727121389871_0.png)
 	- ![image.png](../assets/image_1727121424941_0.png)
 	-
+- ![image.png](../assets/image_1727199903706_0.png)
+-
+- ![image.png](../assets/image_1727207939600_0.png)
+- ![image.png](../assets/image_1727210882906_0.png)
+- ![image.png](../assets/image_1727211390252_0.png)
+- ![image.png](../assets/image_1727215061578_0.png)
+- ![image.png](../assets/image_1727215392117_0.png)
+- ![image.png](../assets/image_1727464955527_0.png)
+-
+- ![image.png](../assets/image_1727464800565_0.png)
+- ![image.png](../assets/image_1727470398058_0.png)
+- ![image.png](../assets/image_1727470681153_0.png)
+- ![image.png](../assets/image_1727473670609_0.png)
+- ![image.png](../assets/image_1727522552218_0.png)
+- ![image.png](../assets/image_1727527775722_0.png)
+- ![image.png](../assets/image_1727529179633_0.png)
+- ![image.png](../assets/image_1727529946424_0.png)
+- ![image.png](../assets/image_1727531319515_0.png)
+- ![image.png](../assets/image_1727531560387_0.png)
+- ![image.png](../assets/image_1727536664291_0.png)
+- ![image.png](../assets/image_1727536955949_0.png)
+-
+-
+- Chapter 12: Quantifying Uncertainty
+	- Agent **uncertainty** is due to partial observability.
+	- Agent keep track handles uncertainty by tracking a belief state.
+	- **Qualification problem** page 259
+	- Decision theory = probability theory + utility theory(heuristic defined)
+		- to average highest possible  utility over all possible outcomes
+		- **maximum expected utility (MEU)**
+	- DT Agent(percept):
+		- update belief based on percept
+		- calculate outcome of probabilities based on actions
+		- select action with highest expected utility
+	- all set of possible worlds is **sample space**
+		- mutually exclusive and exhaustive, two possible worlds cannot be the case and one possible world must be the case.
+		- probability model associates numerical probability P with each world
+		- sets of values== **events**
+		- a set of worlds is a **proposition**
+			- possibilities/worlds when a condition holds true
+			-
+	- if we have prior knowledge : **evidence**
+		- we then calculate conditional or posterior probability
+	- P(a|b) = P(a^b)/P(b)
+	- Product rule : P(a^b) = P(a|b)P(b)
+	- boolean variables in a range follow a **Bernoulli distribution**
+	- when assignment is finite with a probability to each random variable its a **categorical distribution**
+	- **Inclusion-exclusion principle**:
+		- P(aUb) = P(a)+P(b)- P(a^b), probability of disjunction
+		- **Kolomogorov's axioms**
+	-
+	-
+	- Inference with Joint distributions
+		- Probabilistic inference: computation of posterior probabilities for query propositions given observed evidence.
+		- page 414
+	-

@@ -1,0 +1,43 @@
+- ![image.png](../assets/image_1727541673013_0.png)
+- ![image.png](../assets/image_1727541912189_0.png)
+- ![image.png](../assets/image_1727543208710_0.png)
+- ![image.png](../assets/image_1727547088351_0.png)
+- ![image.png](../assets/image_1727547121108_0.png)
+- ![image.png](../assets/image_1727550039480_0.png)
+- ![image.png](../assets/image_1727550139858_0.png)
+- ![image.png](../assets/image_1727550162816_0.png)
+- ![image.png](../assets/image_1727550175614_0.png)
+-
+- ![image.png](../assets/image_1727551180168_0.png)
+- ![image.png](../assets/image_1727552144871_0.png)
+- network should flow from causes to effects
+- ![image.png](../assets/image_1727553275854_0.png)
+  id:: 66f85aa4-675a-4b45-ae62-c9704591e3d7
+- ![image.png](../assets/image_1727554220808_0.png)
+- sampling save computation power/time , also can ignore unknown values and proceed while with inference certain dependencies are required
+- Rejection sampling for getting conditional probability that matches the sample.
+	- ![image.png](../assets/image_1727555281518_0.png)
+	- you can end up rejecting alot of the samples if probability is unlikely
+	- we solve this by likelihood weighting
+		- ![image.png](../assets/image_1727555418500_0.png)
+		- assign probability to each sample and weighting them together
+		- ![image.png](../assets/image_1727559946720_0.png)
+- Gibbs sampling:
+	- Markov chain monte carlo: MCMC
+	- ![image.png](../assets/image_1727561246082_0.png)
+	-
+-
+-
+-
+- Chapter 13:
+	- Directed Acyclic Graph(DAG)
+	- Bayesian network:
+		- each node corresponds to random variable discrete or continuous.
+		- directed links is a pair of nodes
+		- each node X has associated probability  information that quantifies the effect of parents using a finite number of parameters
+	- CPT(Conditional probability table):
+		- can only be used for discrete variables
+	- Bayesian network semantics:
+		- P(x1.....,xn) = $\prod_{i=1}^{n}P(xi|parents(Xi))$
+		-
+		-

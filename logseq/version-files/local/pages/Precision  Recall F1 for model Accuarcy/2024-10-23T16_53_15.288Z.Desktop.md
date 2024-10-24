@@ -1,0 +1,9 @@
+- Precision
+	- avoids alot of mistakes in prediction then high inaccuracies
+	-
+	-
+- Recall:
+	- alot of false Alarms but doesnt miss detection
+- F1:
+	- Improves on both precision and recall
+	-

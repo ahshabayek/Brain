@@ -1,6 +1,12 @@
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Search]]
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Search/ Finding Optimal Solutions to Rubik's cube]]
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Simulated Annealing]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Game play]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Constraint Satisfaction Problems]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Probability]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Probabilistic Inference and Bayesian Networks]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Machine Learning]]
+-
 -
 - What is a problem:
 	- initial state and a set of actions depending on the state

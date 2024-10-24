@@ -4,6 +4,8 @@
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Game play]]
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Constraint Satisfaction Problems]]
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Probability]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Probabilistic Inference and Bayesian Networks]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Machine Learning]]
 -
 -
 - What is a problem:

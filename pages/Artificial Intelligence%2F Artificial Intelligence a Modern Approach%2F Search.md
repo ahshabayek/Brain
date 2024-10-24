@@ -94,3 +94,9 @@
 	- ![Bi Directional A Star - Slides.pdf](../assets/Bi_Directional_A_Star_-_Slides_1725305216094_0.pdf)
 	-
 - ![image.png](../assets/image_1725621188151_0.png) ![image.png](../assets/image_1725621188380_0.png) ![image.png](../assets/image_1725621188500_0.png)
+- Chapter 13:
+	- **Problem solving agent** seeks a goal through a sequence of actions in a **search** process
+	- removing detail from presentation to be able to solve it **abstraction**
+	- Transition model , egocentric actions, goal states, action cost.
+	-
+	-
