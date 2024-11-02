@@ -9,3 +9,6 @@
 	- ![image.png](../assets/image_1676581361569_0.png)
 	- ![image.png](../assets/image_1676582081405_0.png)
 	- more useful with more number of features. averages over huge data and small changes in datasets.
+- bootstrapping :
+	- use only selected subset features for each tree not all
+-

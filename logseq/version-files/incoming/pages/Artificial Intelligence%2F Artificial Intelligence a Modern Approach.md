@@ -1,3 +1,4 @@
+- ![Artificial-Intelligence-A-Modern-Approach-4th.pdf](../assets/Artificial-Intelligence-A-Modern-Approach-4th_1730030040967_0.pdf)
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Search]]
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Search/ Finding Optimal Solutions to Rubik's cube]]
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Simulated Annealing]]

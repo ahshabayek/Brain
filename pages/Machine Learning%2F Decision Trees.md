@@ -27,4 +27,12 @@
 	- ![image.png](../assets/image_1676582861568_0.png)
 	- ![image.png](../assets/image_1676582954385_0.png)
 	- ![image.png](../assets/image_1676583007040_0.png)
+- Entropy vs Gini impurity
+	- Intutively, for splits that class probabilities are between 0 and 0.5 Entropy penelizes splits more than Gini. Therefore, using Entropy instead of Gini, it is more likely to choose a feature that create a leaf node and an evenly distributed node.
+	  Overall, I think trees with Entropy have more early leaf nodes and are deeper. On the other hand, trees with Gini are wider.
+	- higher runtime for Entropy
 	-
+- [[Machine Learning/ Decision Trees/ Gini Impurity]]
+- low bias high variance algorithm
+- #RandomForest
+-

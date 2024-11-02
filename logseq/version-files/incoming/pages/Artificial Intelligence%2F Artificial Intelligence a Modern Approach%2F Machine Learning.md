@@ -1,0 +1,34 @@
+-
+-
+- Cross validation:
+	- leave one out cross validation.
+-
+- Bayes classifier:
+	- ![image.png](../assets/image_1729344290415_0.png)
+	- ![image.png](../assets/image_1729346162596_0.png)
+	- a version of maximum a posterior
+	- mixture of gaussians for more complex presentations
+	- kernel density estimation
+	- If there are many bundles of data with less concavity then modelling with gaussians is better, otherwise k nearest neighbors or kernels is better
+- decision trees:
+	- Entropy:
+		- ![image.png](../assets/image_1729364853366_0.png)
+		- ![image.png](../assets/image_1729364932253_0.png)
+		- bagging / bootstrap aggregation (mixture of experts)
+- Boosting
+	- combine many weak classifiers
+	- ![image.png](../assets/image_1729416450540_0.png)
+	- ![image.png](../assets/image_1729416464889_0.png)
+	- stop when it converges
+-
+- Neural nets:
+	- ![image.png](../assets/image_1729420836541_0.png)
+	- ![image.png](../assets/image_1729420867799_0.png)
+	- ![image.png](../assets/image_1729422281130_0.png)
+	- Backpropagation:
+		- ![image.png](../assets/image_1729423620664_0.png)
+- Unsupervised learning:
+	- Kmeans:
+		- ![image.png](../assets/image_1729423997908_0.png)
+		-
+-

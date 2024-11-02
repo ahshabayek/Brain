@@ -1,10 +1,27 @@
+- {{video https://www.youtube.com/watch?v=8d3JbbSj-I8&t=189s&ab_channel=Scarlett%27sLog}}
+- {{video https://www.youtube.com/watch?v=FWBoW04gyew&ab_channel=Levity}}
+- ![image.png](../assets/image_1729895248621_0.png)
+-
 - ![image.png](../assets/image_1729708281065_0.png)
 -
+- Accuracy
+	- ![image.png](../assets/image_1729872938578_0.png)
+	- Not a good measure in unbalanced datasets
 - Precision
 	- avoids alot of mistakes in prediction then high inaccuracies
+	- ![image.png](../assets/image_1729873306555_0.png)
 	-
 - Recall:
 	- alot of false Alarms but doesnt miss detection
+	- ![image.png](../assets/image_1729891681743_0.png)
+	-
 - F1:
 	- Improves on both precision and recall
+	- ![image.png](../assets/image_1729891802788_0.png)
+	- ![image.png](../assets/image_1729895314018_0.png)
+	- ![image.png](../assets/image_1729895323627_0.png)
+	- ![image.png](../assets/image_1729895348584_0.png)
+	- ![image.png](../assets/image_1729895392463_0.png)
 	-
+-
+- #[[Machine Learning]]

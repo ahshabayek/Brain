@@ -1,0 +1,11 @@
+- gini purity is a way to measure data set diversity
+- gini index is also a measure of randomness
+-
+- purity/index
+	-
+	- ![image.png](../assets/image_1729951653133_0.png)
+- ![image.png](../assets/image_1729951792151_0.png)
+- ![image.png](../assets/image_1729951803102_0.png)
+- v ![image.png](../assets/image_1729951901534_0.png)
+- ![image.png](../assets/image_1729951946428_0.png)
+-

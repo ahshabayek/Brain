@@ -1,0 +1,5 @@
+- ![image.png](../assets/image_1729898572445_0.png)
+-
+- diagonal shows model correctness
+- #[[Machine Learning]]
+- #[[Precision  Recall F1 for model Accuarcy]]

@@ -31,3 +31,9 @@
 	- Kmeans:
 		- ![image.png](../assets/image_1729423997908_0.png)
 		-
+- K nearest neighbours:
+	- L2 spherical area inclusion, mean squared or so
+	- L1 distance between points
+- Decision trees:
+	- explainable and consistent
+	-
