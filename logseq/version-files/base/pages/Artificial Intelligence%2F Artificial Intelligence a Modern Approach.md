@@ -7,7 +7,8 @@
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Probability]]
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Probabilistic Inference and Bayesian Networks]]
 - [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Machine Learning]]
--
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Gaussian Mixture Model and EM]]
+- [[Artificial Intelligence/ Artificial Intelligence a Modern Approach/ Pattern Recognition]]
 -
 - What is a problem:
 	- initial state and a set of actions depending on the state

@@ -1,0 +1,12 @@
+- ![image.png](../assets/image_1731071470243_0.png)
+- ![image.png](../assets/image_1731074896352_0.png)
+- ![image.png](../assets/image_1731075004494_0.png)
+- ![image.png](../assets/image_1731075127447_0.png)
+- ![image.png](../assets/image_1731075265000_0.png)
+- ![image.png](../assets/image_1731075407408_0.png)
+- ![image.png](../assets/image_1731075763593_0.png)
+- ![image.png](../assets/image_1731075809350_0.png)
+- ![gaussians.pdf](../assets/gaussians_1731076202087_0.pdf)
+- ![em.pdf](../assets/em_1731076211749_0.pdf)
+- ![em_algorithm.pdf](../assets/em_algorithm_1731076219514_0.pdf)
+-

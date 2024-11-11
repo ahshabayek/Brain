@@ -1,2 +1,3 @@
 - [[Linear Algebra/ Linear Algebra Done right/ CH1: Vector Spaces]]
+- [[Linear Algebra/ Linear Algebra Done right/ CH2: Finite Dimensional Vector Spaces]]
 -
