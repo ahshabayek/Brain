@@ -1,0 +1,3 @@
+- [[Game Development/ Foundations of game development/ Vectors and matrices]]
+- ![Foundations of Game Engine Development, Volume 1 Mathematics (Eric Lengyel) (Z-Library).pdf](../assets/Foundations_of_Game_Engine_Development,_Volume_1_Mathematics_(Eric_Lengyel)_(Z-Library)_1735073142364_0.pdf)
+-

@@ -13,3 +13,29 @@
 	- ![image.png](../assets/image_1730649985695_0.png)
 	- ![image.png](../assets/image_1730650481963_0.png)
 	- ![image.png](../assets/image_1730661800803_0.png)
+-
+- {{renderer excalidraw, excalidraw-2024-11-22-13-38-36}}
+- ![image.png](../assets/image_1732305494887_0.png)
+- ![image.png](../assets/image_1732306562398_0.png)
+- this doubles the data we have while training similarities in patterns.
+- check for simliar means and variances to decide on tying or not
+- Segmentally boosted HMM:
+	- align and train.
+	- examine iteratively.
+	- boost
+- Planning:
+	- a believe state is the current form of the world.
+	-
+- conformant plans:
+	- no world observation
+- # Partially Observable Vacuum Cleaner Example
+- ![image.png](../assets/image_1733000299572_0.png)
+- single outcome, deterministic
+- # Stocastic Environment Problem
+- can have multiple outcomes
+- ![image.png](../assets/image_1733000516856_0.png)
+- ![image.png](../assets/image_1733000973553_0.png)
+- guaranteed at infinity
+- ![image.png](../assets/image_1733009809288_0.png)
+- ![image.png](../assets/image_1733010687553_0.png)
+-

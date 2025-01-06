@@ -1,0 +1,3 @@
+- ![ten_simple_rules_reading_papers_carey.pdf](../assets/ten_simple_rules_reading_papers_carey_1736171507407_0.pdf)
+	-
+-

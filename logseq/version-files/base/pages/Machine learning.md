@@ -1,6 +1,6 @@
 - Is a sub field of #[[Artificial Intelligence]]
 - Gives the ability to predict outcomes without being explicitly programmed.
-- [[machine learning]] is about creating and implementing algorithms that let machines receive data an us it for:
+- [[Machine learning]] is about creating and implementing algorithms that let machines receive data an us it for:
 	- predictions
 	- patterns
 	- recommendations
@@ -38,4 +38,6 @@
 	- ![image.png](../assets/image_1676236439188_0.png)
 - [[Machine Learning/ Error Metrics]]
 - [[Machine Learning/ Regularization]]
+-
+- [[Machine Learning/ Machine Learning CS 001]]
 -

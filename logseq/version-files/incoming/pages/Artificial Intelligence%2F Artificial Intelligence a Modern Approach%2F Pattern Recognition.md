@@ -1,0 +1,18 @@
+- dynamic time warping:
+	- mapping patterns that make frequency(as an example distinct)
+	-
+	-
+	- Sakoe Chiba Bounds
+	-
+	-
+- HMM:
+	- ![image.png](../assets/image_1730638601196_0.png)
+	- ![image.png](../assets/image_1730638666884_0.png)
+	  id:: 67277338-0910-45a4-934a-4c09bb964960
+	- ![image.png](../assets/image_1730639949827_0.png)
+	- ![image.png](../assets/image_1730649985695_0.png)
+	- ![image.png](../assets/image_1730650481963_0.png)
+	- ![image.png](../assets/image_1730661800803_0.png)
+-
+- {{renderer excalidraw, excalidraw-2024-11-22-13-38-36}}
+-

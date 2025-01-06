@@ -1,4 +1,5 @@
 - [[C++/ C++11]]
 - [[C++/C++14]]
 	- [[C++/C++14/constexpr]]
-	-
+- [[C++/ Effective Modern C++]]
+-

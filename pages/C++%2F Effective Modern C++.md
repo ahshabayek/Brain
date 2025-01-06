@@ -1,0 +1,8 @@
+- Item 1 : Template type deduction
+	- there are 3 cases :
+		- ParamType: is a pointer or reference type but not a universal reference.
+		- ParamType universal reference
+		- ParamType is neither
+	- ![image.png](../assets/image_1733655090007_0.png)
+	- ![image.png](../assets/image_1733685099631_0.png)
+	-
