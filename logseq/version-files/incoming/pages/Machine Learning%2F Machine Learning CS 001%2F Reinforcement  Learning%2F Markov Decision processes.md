@@ -1,0 +1,13 @@
+- ![image.png](../assets/image_1743953546861_0.png)
+- The rules and physics of the world.
+- transition models are probabilistic models
+- world and rules are stationary
+- ![image.png](../assets/image_1743960134453_0.png)
+- policy is the problem's solution. it maps states to actions.
+- ![image.png](../assets/image_1743969053631_0.png)
+- ![image.png](../assets/image_1743969419831_0.png)
+- ![image.png](../assets/image_1743976031217_0.png)
+- ![image.png](../assets/image_1744065094423_0.png)
+- only addition of rewards guarantees this property
+-
+-

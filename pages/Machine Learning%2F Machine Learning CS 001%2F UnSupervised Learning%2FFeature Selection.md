@@ -1,0 +1,22 @@
+- ![image.png](../assets/image_1741823670901_0.png)
+- ![image.png](../assets/image_1741900068402_0.png)
+- ![image.png](../assets/image_1741900232354_0.png)
+- wrapping searches within the bounds of the learning algorithm(feedback loop).
+- filtering considers its own criteria which doesn't necessarily suit the learner.
+- wrapping takes into account the inductive bias of the learning algorithms.
+- wrapping like algorithms: decision trees is an example
+- ![image.png](../assets/image_1741901793419_0.png)
+- Filtering: by combining learners for filtering and learners e.g: DT and KNN respectively we get best of both compensating for knn curse of dimensionality while using its others strenghts and making use of DT feature selection.
+-
+- Information gain is conditional entropy that depends on the label , while entropy doesnot
+- filtering depends on domain knowledge
+- wrapping makes use of the bias of the learner
+- ![image.png](../assets/image_1741909181244_0.png)
+- ![image.png](../assets/image_1741989258787_0.png)
+- while c doesnt add any information it is actually useful in introducing a bias to help add the bias unit to the perceptron.
+- ![image.png](../assets/image_1741993761641_0.png)
+- ![image.png](../assets/image_1741995899159_0.png)
+- bayes optimal classifier (optimal thing to do)computes the best label given all prob that can be computes in all hypothesis space, measure of information.
+- some label is good based on use. kmean and others, feature transformation. label == cluster name.
+- ![image.png](../assets/image_1741996354237_0.png)
+-

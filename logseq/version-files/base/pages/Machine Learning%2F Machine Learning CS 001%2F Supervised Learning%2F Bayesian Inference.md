@@ -1,0 +1,26 @@
+- ![image.png](../assets/image_1740303783665_0.png)
+- ![image.png](../assets/image_1740310725018_0.png)
+- ![image.png](../assets/image_1740313297694_0.png)
+- ![image.png](../assets/image_1740313819074_0.png)
+- chain rile
+- ![image.png](../assets/image_1740316822183_0.png)
+- ![image.png](../assets/image_1740320347878_0.png)
+- if not independent:
+	- ![image.png](../assets/image_1740320449939_0.png)
+- must be a directed acyclic graph:
+	- ![image.png](../assets/image_1740321158664_0.png)
+- ![image.png](../assets/image_1740321325842_0.png)
+- the fewer parent relationships the more compact the distribution will be
+- ![image.png](../assets/image_1740326641060_0.png)
+- ![image.png](../assets/image_1740327015567_0.png)
+- ![image.png](../assets/image_1740328770906_0.png)
+- ![image.png](../assets/image_1740330447693_0.png)
+-
+- ![image.png](../assets/image_1740330786523_0.png)
+- ![image.png](../assets/image_1740331096719_0.png)
+- ![image.png](../assets/image_1740331694455_0.png){:height 444, :width 780}
+- smooth so no probability is ever set as 0
+- overfitting can occur by believing data too much and fixing it to be smooth
+- believe that all events are mildly possible
+- ![image.png](../assets/image_1740335128105_0.png)
+-

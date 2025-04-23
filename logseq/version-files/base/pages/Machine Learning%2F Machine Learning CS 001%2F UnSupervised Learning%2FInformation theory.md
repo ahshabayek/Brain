@@ -1,0 +1,15 @@
+- ![image.png](../assets/image_1742092365715_0.png)
+- ![image.png](../assets/image_1742092468974_0.png)
+- ![image.png](../assets/image_1742092886437_0.png)
+- the more predictable the less information is needed . the less predictable the more information is needed.
+- ![image.png](../assets/image_1742093417434_0.png)
+- ![image.png](../assets/image_1742093585611_0.png)
+- ![image.png](../assets/image_1742093617658_0.png)
+- ![image.png](../assets/image_1742093728883_0.png)
+- ![image.png](../assets/image_1742093949930_0.png)
+- ![image.png](../assets/image_1742094343056_0.png)
+- ![image.png](../assets/image_1742094753507_0.png)
+- KL divergence is always a positive distance metric but doesnt follow the triangle law. it useful in modeling data in a know distribution and use KL to fit to the data
+- ![image.png](../assets/image_1742094923278_0.png)
+- ![image.png](../assets/image_1742095005844_0.png)
+-

@@ -1,0 +1,39 @@
+- Output required dictates the type of task it is classification or regression.
+- Classification:
+	- Instances: vectors of attributes of the input space.
+	- Concept: function that maps inputs to outputs
+	- Target concept: The actual answer or truth. The actual function we try to have/imitate.
+	- Hypothesis class: An idea out of what? all functions that we re willing to try. a subset of all existing functions, classification in this case.
+	- Sample (training set): set of all the inputs and a label of the correct about. Inductive learning.
+	- Candidate: the concept that you think might be the target concept. our own assertion.
+	- Testing set: similar to a training set. but should be different and not used for learning.
+- Regression:
+	- Mapping continuous inputs to continuous outputs.
+	- Regressing to mean.
+		- regression and function approximation:
+		- not falling back to mean now, but to approximate values, so no regressing.
+		-
+- [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ Decision Trees]]
+- ![image.png](../assets/image_1737312025315_0.png)
+- ![image.png](../assets/image_1737327810378_0.png)
+- usually we cant use an order higher than the number of the data points we have..
+- ![image.png](../assets/image_1737328052630_0.png)
+- ![image.png](../assets/image_1737328072024_0.png)
+- ![image.png](../assets/image_1737328081602_0.png)
+- ![image.png](../assets/image_1737328296658_0.png)
+- ![image.png](../assets/image_1737328558161_0.png)
+- ![image.png](../assets/image_1737328685177_0.png){:height 332, :width 539}
+- making use of projection in linear algebra to find the correct values.
+- IID: independent and identically distributeed:
+- ![image.png](../assets/image_1737407540245_0.png)
+- ![image.png](../assets/image_1737407612859_0.png)
+-
+- [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ Neural Networks]]
+- [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ Instance based learning]]
+- [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ Ensemble Learning: Boosting]]
+- [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ Support Vector Machines]]
+- [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ Boosting]]
+- [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ Computational Learning Theory]]
+- [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ VC Dimensions]]
+-
+-

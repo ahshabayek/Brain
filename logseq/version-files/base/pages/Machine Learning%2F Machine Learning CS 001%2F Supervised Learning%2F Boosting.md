@@ -1,0 +1,5 @@
+- ![image.png](../assets/image_1739660663805_0.png)
+- less overfitting as it helps create a larger margin through several weak learners
+- ![image.png](../assets/image_1739661471688_0.png)
+- ![image.png](../assets/image_1739661650797_0.png)
+-

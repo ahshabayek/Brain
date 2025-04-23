@@ -1,0 +1,30 @@
+- ![image.png](../assets/image_1743953546861_0.png)
+- The rules and physics of the world.
+- transition models are probabilistic models
+- world and rules are stationary
+- ![image.png](../assets/image_1743960134453_0.png)
+- policy is the problem's solution. it maps states to actions.
+- ![image.png](../assets/image_1743969053631_0.png)
+- ![image.png](../assets/image_1743969419831_0.png)
+- ![image.png](../assets/image_1743976031217_0.png)
+- ![image.png](../assets/image_1744065094423_0.png)
+- only addition of rewards guarantees this property
+- ![image.png](../assets/image_1744139736346_0.png)
+- ![image.png](../assets/image_1744140119393_0.png)
+- discounted rewards: going infinite distance(geometric series)
+- singularity: computation speed increasing itself turning into a geometric series
+- ![image.png](../assets/image_1744455936736_0.png)
+-
+- ![image.png](../assets/image_1744456610607_0.png)
+- ![image.png](../assets/image_1744460600337_0.png)
+- ![image.png](../assets/image_1744460762783_0.png)
+- truth get more prominent overwhelming any faulty past, spreading also to neighboring states
+- value iteration:
+	- ![image.png](../assets/image_1744460908900_0.png)
+- ![image.png](../assets/image_1744462042205_0.png)
+- to make it linear we can get rid of the max so its an easier computation:
+	- ![image.png](../assets/image_1744462393238_0.png)
+	  id:: 67fa622e-51f8-42a9-a99b-8b781594c840
+	-
+- ![image.png](../assets/image_1744464106487_0.png)
+-

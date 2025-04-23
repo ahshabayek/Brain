@@ -1,0 +1,49 @@
+-
+- ![image.png](../assets/image_1741534962227_0.png)
+-
+- ![image.png](../assets/image_1740335938531_0.png)
+- ![image.png](../assets/image_1740339652315_0.png)
+- ![image.png](../assets/image_1740340328818_0.png)
+- ![image.png](../assets/image_1740348010913_0.png)
+- ![image.png](../assets/image_1740438082124_0.png)
+- ![image.png](../assets/image_1740515552769_0.png)
+- global optimum is local optimum that cant be improved by local steps
+- ![image.png](../assets/image_1740516303210_0.png)
+- the win depends on the basin around the global optima , the bigger the better/ more lucky.
+- ![image.png](../assets/image_1740520277928_0.png)
+- ![image.png](../assets/image_1740520863598_0.png)
+- ![image.png](../assets/image_1740521203381_0.png)
+- ![image.png](../assets/image_1740606008927_0.png)
+- ![image.png](../assets/image_1740675177141_0.png)
+- ![image.png](../assets/image_1740688551102_0.png)
+- ![image.png](../assets/image_1740691287174_0.png)
+- ![image.png](../assets/image_1740691435344_0.png)
+- MIMC:
+	- ![image.png](../assets/image_1740691526816_0.png)
+	- ![image.png](../assets/image_1740691887379_0.png)
+	-
+-
+- ![image.png](../assets/image_1741434777978_0.png)
+- ![image.png](../assets/image_1741435292436_0.png)
+- ![image.png](../assets/image_1741518262292_0.png)
+	- we believe in some dependency so we allow one parent.
+	- crossover presents structure/ locality. MIMIC is a generic way of capturing that without requiring locality.
+	- ![image.png](../assets/image_1741519204824_0.png)
+	- conditional entropies are directional
+	- mutual information (from information theory) are bidirectional. to find best tree maximize info between child and parent.
+	- ![image.png](../assets/image_1741519554148_0.png)
+	- best dependency tree is one that captures dependencies the best.
+	- ![image.png](../assets/image_1741520723811_0.png)
+	- Spanning tree??
+- sampling generating from them a set of unconditional probabilities
+- ![image.png](../assets/image_1741521420988_0.png)
+- ![image.png](../assets/image_1741533739949_0.png)
+- ![image.png](../assets/image_1741534506808_0.png)
+- MIMIC performs better when fitness function/ evaluation is hard. otherwise the MIMIC iteration is much costlier.
+- ![image.png](../assets/image_1741534628197_0.png)
+-
+- [[Machine Learning/ Machine Learning CS 001/ UnSupervised Learning/Clustering]]
+- [[Machine Learning/ Machine Learning CS 001/ UnSupervised Learning/Feature Selection]]
+- [[Machine Learning/ Machine Learning CS 001/ UnSupervised Learning/Feature Transformation]]
+- [[Machine Learning/ Machine Learning CS 001/ UnSupervised Learning/Information theory]]
+-

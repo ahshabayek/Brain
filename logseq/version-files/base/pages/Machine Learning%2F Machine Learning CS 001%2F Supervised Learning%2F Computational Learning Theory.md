@@ -1,0 +1,27 @@
+- ![image.png](../assets/image_1739705659694_0.png)
+- ![image.png](../assets/image_1739706081181_0.png)
+- Defining inductive learning:
+	- ![image.png](../assets/image_1739715303370_0.png)
+	- ![image.png](../assets/image_1739716007846_0.png)
+	- question scoring:
+		- ![image.png](../assets/image_1739719030238_0.png)
+		-
+	- ![image.png](../assets/image_1739719473793_0.png)
+	- When taught by examples 3^k examples needed:
+		- ![image.png](../assets/image_1739719992754_0.png)
+	- ![image.png](../assets/image_1739726417326_0.png)
+	- when all fails change the problem
+	- ![image.png](../assets/image_1739732184161_0.png)
+	- ![image.png](../assets/image_1739736165108_0.png)
+	- ![image.png](../assets/image_1739739182386_0.png)
+	- ![image.png](../assets/image_1739740216351_0.png)
+	- penalty is proportional to the probability of seeing the mismatch case
+	- probably approximately correct
+	- ![image.png](../assets/image_1739740596345_0.png)
+	- epsilon exhausted is when all hypothesis in a version space(from a sample) has lower error than epsilon otherwise it epsilon energized
+	- ![image.png](../assets/image_1739859398950_0.png)
+	- ![image.png](../assets/image_1739859913680_0.png)
+	- ![image.png](../assets/image_1739860166749_0.png)
+	- distribution agnostic
+	- ![image.png](../assets/image_1739860675778_0.png)
+	-

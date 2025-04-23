@@ -1,0 +1,34 @@
+- ![image.png](../assets/image_1737650144845_0.png)
+- ![image.png](../assets/image_1737650235488_0.png)
+- perceptrons are linear functions that compute hyper planes
+	- ![image.png](../assets/image_1737655341755_0.png)
+-
+- ![image.png](../assets/image_1737660927300_0.png)
+- perceptron rule:
+	- for learning weight and theta:
+		- we treat theta(bias) as weight.
+		- threshold becomes folded into the weights making the firing threshold 0
+	- ![image.png](../assets/image_1737664604110_0.png)
+	- ![image.png](../assets/image_1737664702539_0.png)
+	-
+- for linearly inseparable: Gradient descent:
+	- ![image.png](../assets/image_1737668934251_0.png)
+- ![image.png](../assets/image_1737669308164_0.png)
+- ![image.png](../assets/image_1737669622264_0.png)
+- Sigmoid:
+	- ![image.png](../assets/image_1737670349091_0.png)
+- Full network sketch:
+	- ![image.png](../assets/image_1737672901817_0.png)
+	- optimization problem == learning problem:
+		- ![image.png](../assets/image_1737673112532_0.png)
+		- ![image.png](../assets/image_1737673991368_0.png)
+		- what you re able to represent
+		- Preference bias :
+			- algorithm selection for one representation over another.
+			- initial weights small random values.
+				- avoid local minima for variability while training.
+				- big weights : overfitting due to power of presenting more complex functions. so prefer low complexity simpler explanation. Occam's razor : entities should not be multiplied unnes
+			- ![image.png](../assets/image_1737674749922_0.png)
+			- ![image.png](../assets/image_1737675023850_0.png)
+			-
+			-

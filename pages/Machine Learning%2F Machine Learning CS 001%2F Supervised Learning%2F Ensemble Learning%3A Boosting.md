@@ -1,0 +1,24 @@
+- ![image.png](../assets/image_1737817250047_0.png)
+- Testing on different combinations of rules or features to test most effective combination of small sets or best set for optimum learning results.
+- ![image.png](../assets/image_1737851168281_0.png)
+- ![image.png](../assets/image_1737851352262_0.png)
+- ![image.png](../assets/image_1737851636817_0.png)
+- bootstrap aggregation = bagging
+- ![image.png](../assets/image_1737852902694_0.png)
+- ![image.png](../assets/image_1737855898088_0.png)
+- ![image.png](../assets/image_1737891241385_0.png)
+- ![image.png](../assets/image_1737898375395_0.png)
+- ![image.png](../assets/image_1737898594596_0.png)
+- ![image.png](../assets/image_1737902612661_0.png)
+	- y * h will be positive if they agree and negative otherwise : will be a raised negative if correct or a raised positive if incorrect . alpha is always positive.
+- ![image.png](../assets/image_1737903608372_0.png)
+	- should generally decrease, the wrong distribution should get more weight, correct answer get less weight. weak learner will always be able to get some of the wrong right thats the assumption.
+	- logs are used to balance exponentials.
+- ![image.png](../assets/image_1737906447806_0.png)
+	- the non linear output is due to the non linear behavior at the operator the sign. this is very similar to the locally weighted linear regression using KNN
+- ![image.png](../assets/image_1737909764714_0.png)
+-
+- Boosting will rerate the ones that dont do well.
+	- take a weak learner(better than half error  )and improve it
+- ![image.png](../assets/image_1737908794897_0.png)
+-

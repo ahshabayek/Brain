@@ -1,0 +1,58 @@
+- A specific representation than an algorithm.
+- ![image.png](../assets/image_1736971919785_0.png)
+-
+- ![image.png](../assets/image_1736972355472_0.png)
+- Steps:
+	- Pick best attribute, best data splits.
+	- Asked question about the split
+	- follow path of answer
+	- repeat till answer
+- ![image.png](../assets/image_1736976558668_0.png)
+-
+- ![image.png](../assets/image_1736976722098_0.png)
+- ![image.png](../assets/image_1736978354934_0.png)
+- ![image.png](../assets/image_1736978855284_0.png)
+- we look more for any representations than the parity representation above to reduce "questions"
+- hardest part is coming up with the best representation. here like using the sum.
+- ![image.png](../assets/image_1736980655902_0.png)
+- ![image.png](../assets/image_1736981020345_0.png)
+- ![image.png](../assets/image_1736981398063_0.png)
+- the hypothesis space is very expressive, therefore a need for a smart algorithm
+- ![image.png](../assets/image_1736981540640_0.png)
+- ![image.png](../assets/image_1736981646268_0.png)
+- Entropy is a measure of randomness. A measure of information or likelihood of what we know we will get.
+- ![image.png](../assets/image_1736981930180_0.png)
+- restriction bias:
+	- hypothesis set that we care about. example : set that we can use in a decision tree.
+- preference bias:
+	- what subsets of the hypothesizes we prefer
+	- example: prefer trees with better splits at the top, or correct ones over incorrect ones. also shorter trees than longer ones.
+- other constraints:
+	- Continous attributes:
+		- use ranges.
+		- decide range based on media or mean etc.
+	- repeating an attribute:
+		- for continuous attributes you can repeat for different ranges.
+		- for discrete repetition doesnt make sense
+	- when to stop?
+		- all classified correctly?
+		- No Overfitting: happens in DT when tree grows too big
+		- breadth first expansion or pruning
+		-
+		-
+- ![image.png](../assets/image_1736983969654_0.png)
+- measure error / information gain with variance?
+- linear fit or variance/ voting.
+- ![image.png](../assets/image_1736984217609_0.png){:height 270, :width 539}
+-
+- ![image.png](../assets/image_1737413068026_0.png)
+- overfitting will eventually increase error and underfitting wont perfom well
+- how to encode dicrete values or labels to use in regression?
+	- give numeric representation? use rgb for colors?
+	- ![image.png](../assets/image_1737413572097_0.png)
+	- boolean vector?
+	-
+- ![image.png](../assets/image_1737413683549_0.png)
+- [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ Neural Networks]]
+-
+-

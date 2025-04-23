@@ -1,0 +1,29 @@
+- ![image.png](../assets/image_1738407344887_0.png)
+- ![image.png](../assets/image_1738412953880_0.png)
+- ![image.png](../assets/image_1738448705114_0.png)
+	- find the maximum margin subject to constrain.
+- ![image.png](../assets/image_1739479517304_0.png)
+	- read more to clarify how the 2 statements equate
+- ![image.png](../assets/image_1739655330596_0.png)
+- Xi ^T dot xJ is a projection that measures similarity so  how they relate to their output labels interms of how they re simliar to one another
+- ![image.png](../assets/image_1739657857511_0.png)
+- ![image.png](../assets/image_1739658532459_0.png){:height 461, :width 780}
+	- find the easiest function to compute
+	- some notion of similarity in some space
+	- raise points withing circle thus having a hyperplane with the extra dimension to separate them
+	- ![image.png](../assets/image_1739659388856_0.png)
+	- mercer is a well behaved distance function that acts like a similarity
+	- ![image.png](../assets/image_1739660091895_0.png)
+	-
+- SVM kernel choice:
+	- ![image.png](../assets/image_1739033448335_0.png)
+	- ![image.png](../assets/image_1739033599805_0.png)
+	- ![image.png](../assets/image_1739033773107_0.png)
+	- ![image.png](../assets/image_1739033801767_0.png)
+	- ![image.png](../assets/image_1739033922507_0.png)
+	- v ![image.png](../assets/image_1739033954326_0.png)
+	- ![image.png](../assets/image_1739033974304_0.png)
+	- then all alphas/ support vector affect the hyperplane fitting equally
+	-
+- [[SVM for Pattern recognition]]
+-

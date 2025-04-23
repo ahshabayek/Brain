@@ -1,0 +1,41 @@
+- ![image.png](../assets/image_1739947037829_0.png)
+- ![image.png](../assets/image_1739947430856_0.png){:height 327, :width 542}
+- ![image.png](../assets/image_1739947852081_0.png)
+- ![image.png](../assets/image_1739996280338_0.png)
+- ![image.png](../assets/image_1740031768829_0.png)
+- ![image.png](../assets/image_1740032809373_0.png)
+-
+- ![image.png](../assets/image_1740032929471_0.png)
+- ![image.png](../assets/image_1740033466395_0.png)
+- ![image.png](../assets/image_1740085530713_0.png)
+- ![image.png](../assets/image_1740085833983_0.png)
+- ![image.png](../assets/image_1740086101432_0.png)
+-
+-
+- VC dimensions:
+	- ![image.png](../assets/image_1740751313033_0.png)
+	- ![image.png](../assets/image_1740751374601_0.png)
+	- ![image.png](../assets/image_1740751390545_0.png)
+	- ![image.png](../assets/image_1740751417917_0.png)
+	- ![image.png](../assets/image_1740869958684_0.png)
+	- ![image.png](../assets/image_1740764979938_0.png)
+	- ![image.png](../assets/image_1740765130745_0.png)
+	- ![image.png](../assets/image_1740841463545_0.png)
+	- ![image.png](../assets/image_1740841540816_0.png)
+	- ![image.png](../assets/image_1740841552942_0.png)
+	- ![image.png](../assets/image_1740848184078_0.png)
+	- ![image.png](../assets/image_1740867067652_0.png)
+	- ![image.png](../assets/image_1740867199119_0.png)
+	- Gaussian widths etc measure the complexity for higher dimensional problems.
+	- ![image.png](../assets/image_1742607866237_0.png)
+	- ![image.png](../assets/image_1742607895028_0.png)
+	- ![image.png](../assets/image_1742609143691_0.png)
+	- ![image.png](../assets/image_1742857121404_0.png)
+	- ![image.png](../assets/image_1742857240896_0.png)
+	- ![image.png](../assets/image_1742857266753_0.png)
+	- ![image.png](../assets/image_1742857487826_0.png)
+	- ![image.png](../assets/image_1742857558099_0.png)
+	- ![image.png](../assets/image_1742857682216_0.png)
+	- ![image.png](../assets/image_1742858621782_0.png)
+	-
+	-

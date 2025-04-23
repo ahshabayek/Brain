@@ -1,0 +1,20 @@
+- ![image.png](../assets/image_1737731797469_0.png)
+- data base lookup instead of  estimating the input output function.
+	- overfit by believing data so much
+	- will model the noise
+	- 2 different saved scenarios will confuse algo and have it commit to both.
+	- ![image.png](../assets/image_1737731983729_0.png)
+- nearest neighbour to determine point class?
+	- nearest neighbors?
+	- ![image.png](../assets/image_1737741756781_0.png)
+	-
+- ![image.png](../assets/image_1737749580821_0.png)
+- ![image.png](../assets/image_1737754771956_0.png)
+- ![image.png](../assets/image_1737758324570_0.png)
+- ![image.png](../assets/image_1737806847731_0.png)
+- ![image.png](../assets/image_1737815345270_0.png)
+- build concepts around data closer to you , like regression
+- no free lunch theorem:
+	- average over all possible instances is same as random.
+- ![image.png](../assets/image_1737816609046_0.png)
+-

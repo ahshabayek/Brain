@@ -1,0 +1,21 @@
+- ![image.png](../assets/image_1740164129884_0.png){:height 451, :width 780}
+- D == data
+- ![image.png](../assets/image_1740178313460_0.png)
+- ![image.png](../assets/image_1740229458598_0.png)
+- data probability going down is not within or control in designing the hypothesis
+- ![image.png](../assets/image_1740232860432_0.png)
+- ![image.png](../assets/image_1740233820648_0.png)
+- all hypothesis are equally likely therefore we can ignore it(common factor)unlike data prior= P(data) which ignore.
+- not practical except if number of hypothesis is low
+- ![image.png](../assets/image_1740242037486_0.png)
+- no one better over the other from the version space , all hypothesises are equally as good
+- ![image.png](../assets/image_1740248651887_0.png)v
+- ![image.png](../assets/image_1740255495708_0.png)
+- ![image.png](../assets/image_1740261321764_0.png)
+- ![image.png](../assets/image_1740302779275_0.png)
+- ![image.png](../assets/image_1740303390911_0.png)
+- ![image.png](../assets/image_1740303653174_0.png)
+- Purpose of bayesian learning:
+	- benchmark
+	- conditional independence to make computations easy.
+	-

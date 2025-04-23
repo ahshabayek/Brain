@@ -1,0 +1,9 @@
+- ![image.png](../assets/image_1741535908139_0.png)
+- ![image.png](../assets/image_1741643352474_0.png)
+- same cluster points are not checked against each other and have an inter distance of 0.
+- ![image.png](../assets/image_1741643602960_0.png)
+- ![image.png](../assets/image_1741643639723_0.png){:height 468, :width 780}
+- mean is a metric statistic , median is a non metric
+- ![image.png](../assets/image_1741644598424_0.png)
+- [[Machine Learning/ Machine Learning CS 001/ UnSupervised Learning/Clustering/ K-means Clustering]]
+-

@@ -1,0 +1,34 @@
+- ![image.png](../assets/image_1742003352161_0.png)
+- ![image.png](../assets/image_1742003907843_0.png)
+- return most relevant results
+- ![image.png](../assets/image_1742052318929_0.png)
+- multiple or same meaning for keywords
+- Linear transformations:
+	- Principle components Analysis:
+		- EigenProblem?
+		- ![image.png](../assets/image_1742054344119_0.png)
+	- Independent Component Analysis:
+		- ![image.png](../assets/image_1742079498221_0.png)
+		- ![image.png](../assets/image_1742080508414_0.png)
+		- we not only want new features independent but we also want them to retain all the information
+		- new and old matching features should be able to strongly predict one another , thus possible to predict one another.
+	- ![image.png](../assets/image_1742082487695_0.png)
+	- Coincidence due to normal Gaussian distributions(which is ideal for maximizing variance) found(when all features are normally distributed): cases where PCA finds independent/uncorrelated features due to maximizing variances.
+	- sum independent variables into one (law of large number/ central limit theorm) will result in a normal distribution. therefore maximizing variables is not good to ICA as it will result in dependent variables(will mix dependent things). the assumption is that variables are highly not normally distributed.
+	- ICA: maximize joined mutual information.
+	- PCA ordered by maximum variance first.
+	- only thing in common is trying to capture the original data in a new transformed better space. different cost functions and assumptions
+	- BSS : blind source seperation problem
+	- PCA finds global features , while ICA finds local selectors/ features
+	- ![image.png](../assets/image_1742086736105_0.png)
+	- both help you understand and analyze the data. then we can write code to select for them.
+	- RCA: random component analysis:
+		- ![image.png](../assets/image_1742087807220_0.png)
+		- ![image.png](../assets/image_1742088012757_0.png)
+	- LDA: Linear discriminant analysis
+		- ![image.png](../assets/image_1742088640433_0.png)
+		- DIshcleie
+	- PCA is more about linear algebra and sometimes alittle about probability. easier to think and do and often thought of in terms in prob. less prone to local minima and cheaper. but not always the answer.
+	- ICA is mostly about probability and sometimes coincidentally about linear algebra. not always fits cause might not exists and more expensive. answers are more satisfying.
+	- ![image.png](../assets/image_1742090131571_0.png)
+-

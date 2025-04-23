@@ -1,6 +1,5 @@
 file:: [Artificial-Intelligence-A-Modern-Approach-4th_1730030040967_0.pdf](../assets/Artificial-Intelligence-A-Modern-Approach-4th_1730030040967_0.pdf)
 file-path:: ../assets/Artificial-Intelligence-A-Modern-Approach-4th_1730030040967_0.pdf
-
 - te ﬁrst, then recurs
   ls-type:: annotation
   hl-page:: 671
