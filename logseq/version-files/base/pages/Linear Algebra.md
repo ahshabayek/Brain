@@ -1,3 +1,5 @@
 - [[Machine Learning Math]]
 - [[Linear Algebra/ Matrices]]
 - [[Linear Algebra/ Linear Algebra Done right]]
+- [[Linear Algebra/ Eigenvectors and Eigenvalues]]
+-

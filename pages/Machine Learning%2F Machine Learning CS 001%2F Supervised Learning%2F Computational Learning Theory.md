@@ -14,11 +14,16 @@
 	- ![image.png](../assets/image_1739732184161_0.png)
 	- ![image.png](../assets/image_1739736165108_0.png)
 	- ![image.png](../assets/image_1739739182386_0.png)
+	- ![image.png](../assets/image_1745963027377_0.png)
+	-
 	- ![image.png](../assets/image_1739740216351_0.png)
 	- penalty is proportional to the probability of seeing the mismatch case
+	-
 	- probably approximately correct
 	- ![image.png](../assets/image_1739740596345_0.png)
 	- epsilon exhausted is when all hypothesis in a version space(from a sample) has lower error than epsilon otherwise it epsilon energized
+	- ![image.png](../assets/image_1745963746013_0.png)
+	- ![image.png](../assets/image_1745964173579_0.png)
 	- ![image.png](../assets/image_1739859398950_0.png)
 	- ![image.png](../assets/image_1739859913680_0.png)
 	- ![image.png](../assets/image_1739860166749_0.png)

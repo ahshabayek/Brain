@@ -7,6 +7,7 @@
 	- Asked question about the split
 	- follow path of answer
 	- repeat till answer
+- ![image.png](../assets/image_1745842123518_0.png)
 - ![image.png](../assets/image_1736976558668_0.png)
 -
 - ![image.png](../assets/image_1736976722098_0.png)
@@ -14,8 +15,12 @@
 - ![image.png](../assets/image_1736978855284_0.png)
 - we look more for any representations than the parity representation above to reduce "questions"
 - hardest part is coming up with the best representation. here like using the sum.
+- cheating is solving the problem with a different representation :D  :
+	- ![image.png](../assets/image_1745843450169_0.png)
+	-
 - ![image.png](../assets/image_1736980655902_0.png)
 - ![image.png](../assets/image_1736981020345_0.png)
+	- 2^N number of rows
 - ![image.png](../assets/image_1736981398063_0.png)
 - the hypothesis space is very expressive, therefore a need for a smart algorithm
 - ![image.png](../assets/image_1736981540640_0.png)
@@ -38,11 +43,13 @@
 		- all classified correctly?
 		- No Overfitting: happens in DT when tree grows too big
 		- breadth first expansion or pruning
+		- ![image.png](../assets/image_1745845844659_0.png)
 		-
 		-
 - ![image.png](../assets/image_1736983969654_0.png)
 - measure error / information gain with variance?
 - linear fit or variance/ voting.
+- ![image.png](../assets/image_1745845927938_0.png){:height 410, :width 721}
 - ![image.png](../assets/image_1736984217609_0.png){:height 270, :width 539}
 -
 - ![image.png](../assets/image_1737413068026_0.png)

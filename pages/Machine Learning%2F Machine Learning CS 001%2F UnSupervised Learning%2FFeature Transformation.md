@@ -7,6 +7,9 @@
 	- Principle components Analysis:
 		- EigenProblem?
 		- ![image.png](../assets/image_1742054344119_0.png)
+		- ![image.png](../assets/image_1745875933665_0.png)
+		- ![image.png](../assets/image_1745876076705_0.png)
+		-
 	- Independent Component Analysis:
 		- ![image.png](../assets/image_1742079498221_0.png)
 		- ![image.png](../assets/image_1742080508414_0.png)

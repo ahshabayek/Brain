@@ -40,4 +40,6 @@
 - [[Machine Learning/ Regularization]]
 -
 - [[Machine Learning/ Machine Learning CS 001]]
+- [[Machine Learning/ Machine Learning for Trading]]
+-
 -

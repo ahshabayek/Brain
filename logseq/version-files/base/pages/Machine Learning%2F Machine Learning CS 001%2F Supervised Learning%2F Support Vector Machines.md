@@ -6,6 +6,9 @@
 	- read more to clarify how the 2 statements equate
 - ![image.png](../assets/image_1739655330596_0.png)
 - Xi ^T dot xJ is a projection that measures similarity so  how they relate to their output labels interms of how they re simliar to one another
+- ![image.png](../assets/image_1745851720930_0.png)
+- ![image.png](../assets/image_1745851854781_0.png)
+-
 - ![image.png](../assets/image_1739657857511_0.png)
 - ![image.png](../assets/image_1739658532459_0.png){:height 461, :width 780}
 	- find the easiest function to compute

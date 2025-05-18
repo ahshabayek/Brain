@@ -32,4 +32,13 @@
 - [[Machine Learning/ Machine Learning CS 001/ Supervised Learning]]
 - [[Machine Learning/ Machine Learning CS 001/ UnSupervised Learning]]
 - [[Machine Learning/ Machine Learning CS 001/ Reinforcement  Learning]]
+- [[Machine Learning/ Machine Learning CS 001/ Game Theory]]
+-
+- ![image.png](../assets/image_1745696963691_0.png)
+- ![image.png](../assets/image_1745697110220_0.png)
+- cross entropy better alternative to simulated annealing ,mimic etc.
+- ![image.png](../assets/image_1745697447359_0.png)
+- ![image.png](../assets/image_1745697602399_0.png)
+- ![image.png](../assets/image_1745697644893_0.png)
+- [[Machine Learning/ Machine Learning CS 001/ Summary]]
 -

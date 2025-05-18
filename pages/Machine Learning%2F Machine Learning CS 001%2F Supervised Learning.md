@@ -12,7 +12,8 @@
 	- Regressing to mean.
 		- regression and function approximation:
 		- not falling back to mean now, but to approximate values, so no regressing.
-		-
+- ![image.png](../assets/image_1745840636048_0.png)
+-
 - [[Machine Learning/ Machine Learning CS 001/ Supervised Learning/ Decision Trees]]
 - ![image.png](../assets/image_1737312025315_0.png)
 - ![image.png](../assets/image_1737327810378_0.png)

@@ -32,4 +32,8 @@
 - [[Machine Learning/ Machine Learning CS 001/ Supervised Learning]]
 - [[Machine Learning/ Machine Learning CS 001/ UnSupervised Learning]]
 - [[Machine Learning/ Machine Learning CS 001/ Reinforcement  Learning]]
+- [[Machine Learning/ Machine Learning CS 001/ Game Theory]]
+-
+- ![image.png](../assets/image_1745696963691_0.png)
+- ![image.png](../assets/image_1745697110220_0.png)
 -

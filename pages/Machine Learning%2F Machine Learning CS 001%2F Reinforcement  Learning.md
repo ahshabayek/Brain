@@ -1,4 +1,12 @@
 - ![image.png](../assets/image_1743464560091_0.png){:height 443, :width 780}
 - ![Artificial-Intelligence-A-Modern-Approach-4th.pdf](../assets/Artificial-Intelligence-A-Modern-Approach-4th_1743658825682_0.pdf)
 - [[Machine Learning/ Machine Learning CS 001/ Reinforcement  Learning/ Markov Decision processes]]
+- ![image.png](../assets/image_1745515783568_0.png)
+- ![image.png](../assets/image_1745516701985_0.png)
+- ![image.png](../assets/image_1745517809163_0.png)
+- focus on the middle block : value based
+	- ![image.png](../assets/image_1745518794162_0.png)
+	- ![image.png](../assets/image_1745519351516_0.png){:height 426, :width 743}
+- use value iteration to learn values
+- [[Machine Learning/ Machine Learning CS 001/ Reinforcement  Learning/Qlearning ]]
 -

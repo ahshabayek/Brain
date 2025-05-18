@@ -1,17 +1,23 @@
 - ![image.png](../assets/image_1741645027664_0.png)
+- does it always converge, does it always get a good answer?
 - ![image.png](../assets/image_1741647751966_0.png)
 - ![image.png](../assets/image_1741648012002_0.png)
 - ![image.png](../assets/image_1741648159058_0.png)
 - ![image.png](../assets/image_1741648732309_0.png)
+- ![image.png](../assets/image_1745836087029_0.png)
 - ![image.png](../assets/image_1741649341392_0.png)
 - another is also to pick next cluster center that is further from the intial.
+- ![image.png](../assets/image_1745836362612_0.png)
 - ![image.png](../assets/image_1741730917213_0.png)
 - ![image.png](../assets/image_1741731666589_0.png)
 - hidden variables are how we set k different means for this dataset
 - ![image.png](../assets/image_1741732206647_0.png)
+- update means by getting the average of the xi likelihood to each cluster/ weighted average
+-
 - ![image.png](../assets/image_1741733111257_0.png)
 - EM shows through soft clustering some chance always of belonging to the other cluster/s . Probabilty of belonging rather then a set decision of which cluster to choose.
 - ![image.png](../assets/image_1741733591749_0.png){:height 367, :width 780}
+- ![image.png](../assets/image_1745837739835_0.png)
 - vs kmeans, finite number of configs so kmeans must converge while EM doesnt have too. EM step keep getting smaller and smaller towards convergence so can theoratically not converge but practically does.
 - ![image.png](../assets/image_1741734069887_0.png)
 - richness all inputs are valid and all outputs are possible

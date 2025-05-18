@@ -1,0 +1,72 @@
+- ![image.png](../assets/image_1745533561236_0.png)
+- ![image.png](../assets/image_1745534924004_0.png)
+- ![image.png](../assets/image_1745535577381_0.png)
+- ![image.png](../assets/image_1745616980801_0.png)
+- ![image.png](../assets/image_1745618550324_0.png)
+- ![image.png](../assets/image_1745618574708_0.png)
+- ![image.png](../assets/image_1745619683098_0.png)
+- ![image.png](../assets/image_1745619916654_0.png)
+- Minipoker:
+	- ![image.png](../assets/image_1745658083840_0.png)
+	- ![image.png](../assets/image_1745658033539_0.png){:height 426, :width 728}
+	- hidden info/states break Von Neumann:
+		- ![image.png](../assets/image_1745658330810_0.png)
+		- ![image.png](../assets/image_1745658556087_0.png)
+	- ![image.png](../assets/image_1745659112750_0.png)
+	- ![image.png](../assets/image_1745660323853_0.png)
+	- ![image.png](../assets/image_1745661671230_0.png)
+	- point is to find the maximum point under the lines which is usually at start intersection or end
+	- the opposite is the best for the other player
+	- its a minimum function
+	-
+- ![image.png](../assets/image_1745663020397_0.png)
+	-
+	- ![image.png](../assets/image_1745664315971_0.png)
+	- ![image.png](../assets/image_1745664727660_0.png)
+	- ![image.png](../assets/image_1745664990579_0.png)
+	- ![image.png](../assets/image_1745665576500_0.png)
+	- over 2 time iterations, not gonna make a difference
+	- move backwards from final game: always defect:
+		- ![image.png](../assets/image_1745665736001_0.png)
+		- ![image.png](../assets/image_1745665851573_0.png)
+		- ![image.png](../assets/image_1745666290654_0.png)
+		- what if we didnt know when the game world will end
+		- ![image.png](../assets/image_1745670273261_0.png)
+		- ![image.png](../assets/image_1745678483397_0.png)
+		- ![image.png](../assets/image_1745678856042_0.png)
+		- ![image.png](../assets/image_1745679446163_0.png)
+		- ![image.png](../assets/image_1745679772796_0.png)
+		- ![image.png](../assets/image_1745680192156_0.png)
+		- ![image.png](../assets/image_1745681838927_0.png)
+		- ![image.png](../assets/image_1745682144812_0.png)
+		- ![image.png](../assets/image_1745682217346_0.png)
+		- ![image.png](../assets/image_1745682496763_0.png)
+		- ![image.png](../assets/image_1745682538739_0.png)
+		- ![image.png](../assets/image_1745683102469_0.png)
+		- ![image.png](../assets/image_1745686084329_0.png)
+	- ![image.png](../assets/image_1745686344304_0.png)
+	- ![image.png](../assets/image_1745686548975_0.png)
+	- ![image.png](../assets/image_1745686719598_0.png)
+	- ![image.png](../assets/image_1745686842440_0.png)
+	- ![image.png](../assets/image_1745687056567_0.png)
+	- ![image.png](../assets/image_1745687282503_0.png)
+	- ![image.png](../assets/image_1745687490332_0.png)
+	- ![image.png](../assets/image_1745687606989_0.png)
+	- ![image.png](../assets/image_1745688229072_0.png)
+	- ![image.png](../assets/image_1745688406152_0.png)
+	- ![image.png](../assets/image_1745688512523_0.png)
+	- ![image.png](../assets/image_1745688738970_0.png)
+	- ![image.png](../assets/image_1745688918228_0.png)
+	- ![image.png](../assets/image_1745689075358_0.png)
+	- ![image.png](../assets/image_1745689146389_0.png)
+	- ![image.png](../assets/image_1745689212390_0.png)
+	- ![image.png](../assets/image_1745689308889_0.png)
+	- MDP are a narrowing of stochastic games
+	- ![image.png](../assets/image_1745689657292_0.png)
+	- ![image.png](../assets/image_1745690087634_0.png)
+	- ![image.png](../assets/image_1745690898775_0.png)
+	- ![image.png](../assets/image_1745691181292_0.png)
+	- ![image.png](../assets/image_1745692440924_0.png)
+	- coco: cooperative competitive  values
+	- ![image.png](../assets/image_1745692627918_0.png)
+	-

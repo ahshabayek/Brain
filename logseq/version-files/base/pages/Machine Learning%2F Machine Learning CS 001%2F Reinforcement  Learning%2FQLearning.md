@@ -1,0 +1,15 @@
+- ![image.png](../assets/image_1745520108812_0.png)
+- ![image.png](../assets/image_1745520135667_0.png)
+- ![image.png](../assets/image_1745526244316_0.png)
+- since we dnt have the R and T s the Q equation/ estimate works best.
+- ![image.png](../assets/image_1745527335777_0.png)
+- using linearity of expectations properties
+- ![image.png](../assets/image_1745527697595_0.png)
+- therefore the Q equation solves markov decision processes
+- ![image.png](../assets/image_1745528512920_0.png)
+	- Qlearning is a family of algorithms:
+		- ![image.png](../assets/image_1745529484645_0.png)
+		- ![image.png](../assets/image_1745530162050_0.png)
+		- ![image.png](../assets/image_1745532074263_0.png)
+- ![image.png](../assets/image_1745532338960_0.png)
+-
